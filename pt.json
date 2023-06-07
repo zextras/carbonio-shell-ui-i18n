@@ -78,7 +78,7 @@
     },
     "new": "Novo",
     "search": {
-        "app": "Buscar",
+        "app": "Pesquisa",
         "module": "Módulo",
         "active_input_label": "Separe as palavras-chave pressionando vírgula ou espaço",
         "clear": "Limpar caixa de pesquisa",
@@ -92,9 +92,9 @@
     "message": {
         "snackbar": {
             "settings_saved": "Edições salvas corretamente",
-            "identities_quota_exceeded": "A identidade não pôde ser criada porque você atingiu o máximo de identidades permitido"
+            "identities_quota_exceeded": "A identidade não foi criada porque atingiu o número máximo de identidades permitido"
         },
-        "reload": "\tGostaria de recarregar o aplicativo agora para exibir o novo idioma?\nCaso contrário, o novo idioma aparecerá a próxima vez que você fizer login."
+        "reload": "\tPretende recarregar a aplicação agora para mostrar o novo idioma?\nCaso contrário, o novo idioma aparecerá da próxima vez que fizer login."
     },
     "module": {
         "app": {
@@ -146,7 +146,7 @@
         "delegates": "Delegados",
         "add_persona": "Adicionar Persona",
         "account_username": "Nome de usuário",
-        "accounts_list": "Contas",
+        "accounts_list": "Lista de Contas",
         "add_delegate": "Novo delegado",
         "add_external_account": "Adicionar conta externa",
         "add_new_email": "Adicionar endereço de e-mail",
@@ -378,7 +378,8 @@
         "hide": "Minimizar janela",
         "reduce": "Redefinir janela",
         "show_tabs": "Mostrar tudo",
-        "open_app": "Abrir no app"
+        "open_app": "Abrir no app",
+        "from_app": "De {{app}}"
     },
     "feedback": {
         "other": "Outro",
