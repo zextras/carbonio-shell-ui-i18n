@@ -196,7 +196,9 @@
         "unsaved_changes": "Sie haben ungespeicherte Änderungen",
         "folder_external_account": "Ordner: Neues externes Konto",
         "add_inline_image": "Eingebundenes Bild hinzufügen",
-        "select_image": "Bild auswählen"
+        "select_image": "Bild auswählen",
+        "cannot_save_changes": "Einige Änderungen können nicht gespeichert werden",
+        "close": "Schließen"
     },
     "timezone": {
         "america_anchorage": "{{value}} Alaska",
@@ -344,7 +346,12 @@
         "hide": "Ausblenden",
         "reduce": "Verkleinern",
         "show_tabs": "Andere Tabs anzeigen",
-        "open_app": "In der App öffnen"
+        "open_app": "In der App öffnen",
+        "from_app": "Von {{app}}",
+        "reset_size": {
+            "disabled": "Board bereits in der Standardposition",
+            "enabled": "Zur Standardposition und -größe zurückkehren"
+        }
     },
     "locale": {
         "English": "Englisch",
@@ -407,5 +414,15 @@
     },
     "primary_account": {
         "title": "Primäre Kontoeinstellungen"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "confirmButtonLabel": "aktualisieren",
+                "secondaryButtonLabel": "Loginseite",
+                "title": "Ein Fehler ist aufgetreten...",
+                "body": "Bei der Bearbeitung Ihrer Anfrage ist ein technisches Problem aufgetreten. Bitte aktualisieren Sie die Seite erneut oder kehren Sie zur Anmeldeseite zurück."
+            }
+        }
     }
 }
