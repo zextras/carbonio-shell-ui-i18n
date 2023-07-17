@@ -119,7 +119,11 @@
         "hide": "Nascondi finestra",
         "reduce": "Riduci finestra",
         "open_app": "Apri nell'applicazione",
-        "from_app": "Da {{app}}"
+        "from_app": "Da {{app}}",
+        "reset_size": {
+            "disabled": "Scheda già nella posizione predefinita",
+            "enabled": "Torna alla posizione e dimensione predefinita"
+        }
     },
     "label": {
         "cancel": "Annulla",
