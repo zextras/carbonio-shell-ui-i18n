@@ -196,7 +196,9 @@
         "when_replying": "Ao responder ou encaminhar mensagens enviadas para:",
         "folder_external_account": "Pasta: Nova conta externa",
         "add_inline_image": "Inserir imagem",
-        "select_image": "Selecionar imagem"
+        "select_image": "Selecionar imagem",
+        "cannot_save_changes": "Algumas mudanças não foram salvas",
+        "close": "Fechar"
     },
     "timezone": {
         "africa_algiers": "{{value}} África Central Ocidental",
@@ -379,7 +381,11 @@
         "reduce": "Redefinir janela",
         "show_tabs": "Mostrar tudo",
         "open_app": "Abrir na app",
-        "from_app": "De {{app}}"
+        "from_app": "De {{app}}",
+        "reset_size": {
+            "disabled": "A janela já está na posição original",
+            "enabled": "Voltar para a posição e tamanho originais"
+        }
     },
     "feedback": {
         "other": "Outro",
@@ -408,5 +414,15 @@
     },
     "primary_account": {
         "title": "Conta principal"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "confirmButtonLabel": "Atualize",
+                "body": "Ocorreu um problema durante o processamento de sua solicitação. Actualize a página ou volte para a página de login.",
+                "secondaryButtonLabel": "Página de login",
+                "title": "Algo deu errado…"
+            }
+        }
     }
 }
