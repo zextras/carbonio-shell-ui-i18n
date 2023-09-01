@@ -76,7 +76,15 @@
             }
         },
         "accounts": "Account",
-        "choose": "Scegli"
+        "choose": "Scegli",
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} e {{rights.1}}",
+                "right_sendas": "Invia come",
+                "right_sendonbehalfof": "Invia per conto di"
+            },
+            "new_identity": "Nuova Identità {{number}}"
+        }
     },
     "module": {
         "app": {
@@ -210,7 +218,9 @@
         "click_to_copy": "Seleziona per copiare",
         "folder_external_account": "Cartella: Nuovo Account Esterno",
         "add_inline_image": "Aggiungi immagine inline",
-        "select_image": "Seleziona immagine"
+        "select_image": "Seleziona immagine",
+        "cannot_save_changes": "Alcune modifiche non possono essere salvate",
+        "close": "Chiudi"
     },
     "locale": {
         "English": "Inglese",
@@ -244,7 +254,9 @@
         "french": "Francese",
         "label_french": "Francese - {{value}}",
         "vietnamese": "Vietnamita",
-        "polish": "Polacco"
+        "polish": "Polacco",
+        "label_polish": "Polacco - {{value}}",
+        "label_vietnamese": "Vietnamita - {{value}}"
     },
     "timezone": {
         "africa_juba": "{{value}} Juba",
