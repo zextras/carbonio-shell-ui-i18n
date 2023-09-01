@@ -204,7 +204,7 @@
             "delegates": {
                 "multiple_rights": "{{rights.0}} and {{rights.1}}",
                 "right_sendas": "SendAs",
-                "right_sendonbehalfof": "SendOnBehalfOf"
+                "right_sendonbehalfof": "Send on behalf of"
             },
             "new_identity": "New Persona {{number}}"
         },
