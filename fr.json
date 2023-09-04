@@ -183,7 +183,15 @@
             }
         },
         "accounts": "Comptes",
-        "choose": "Choisir"
+        "choose": "Choisir",
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} et {{rights.1}}",
+                "right_sendas": "Envoyer en tant que",
+                "right_sendonbehalfof": "Envoyer de la part de"
+            },
+            "new_identity": "Nouvel Avatar {{number}}"
+        }
     },
     "snackbar": {
         "error": "Quelque chose s'est mal passé, veuillez recommencer"
@@ -373,7 +381,9 @@
         "french": "Français",
         "label_french": "Français - {{value}}",
         "vietnamese": "Vietnamienne",
-        "polish": "Polonais"
+        "polish": "Polonais",
+        "label_polish": "Polonais - {{value}}",
+        "label_vietnamese": "Vietnamien - {{value}}"
     },
     "module": {
         "app": {
