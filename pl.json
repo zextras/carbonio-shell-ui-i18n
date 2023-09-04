@@ -93,7 +93,15 @@
         "general_tab": "Ogólne",
         "timezone_and_language": "Strefa czasowa i język",
         "choose": "Wybierz",
-        "accounts": "Konta"
+        "accounts": "Konta",
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} i {{rights.1}}",
+                "right_sendas": "Wyślij jako",
+                "right_sendonbehalfof": "Wyślij w imieniu"
+            },
+            "new_identity": "Nowa persona {{number}}"
+        }
     },
     "label": {
         "discard_changes": "ODRZUĆ ZMIANY",
@@ -230,7 +238,9 @@
         "label_portuguese": "Portugalski - {{value}}",
         "label_portuguese_brazil": "Portugalski - {{value}}",
         "vietnamese": "Wietnamski",
-        "polish": "Polski"
+        "polish": "Polski",
+        "label_polish": "Polski - {{value}}",
+        "label_vietnamese": "Wietnamski - {{value}}"
     },
     "new_tab": "Nowa Karta",
     "timezone": {
