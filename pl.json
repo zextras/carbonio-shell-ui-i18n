@@ -47,7 +47,7 @@
             "labels": {
                 "start_date": "Data rozpoczęcia",
                 "start_time": "Czas rozpoczęcia:",
-                "all_day": "Cały dzień",
+                "all_day": "Cały dzień:",
                 "auto_reply_message": "Automatyczna odpowiedź:",
                 "create_appointment": "Utwórz termin i wyświetlaj jako:",
                 "end_date": "Data zakończenia",
@@ -430,7 +430,7 @@
             "modal": {
                 "confirmButtonLabel": "odśwież",
                 "secondaryButtonLabel": "strona logowania",
-                "title": "Coś poszło nie tak...",
+                "title": "Coś poszło nie tak…",
                 "body": "Wystąpiły problemy techniczne podczas przetwarzania Twojego żądania. Spróbuj odświeżyć stronę lub powróć do strony logowania."
             }
         }
