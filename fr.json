@@ -431,7 +431,7 @@
                 "body": "Des problèmes techniques sont survenus lors du traitement de votre demande. Veuillez rafraîchir la page ou revenir à la page de connexion.",
                 "confirmButtonLabel": "Rafraîchir",
                 "secondaryButtonLabel": "Page de connexion",
-                "title": "Quelque chose s'est mal passé..."
+                "title": "Quelque chose s'est mal passé…"
             }
         }
     }
