@@ -78,7 +78,7 @@
         "account": {
             "delegates": {
                 "multiple_rights": "{{rights.0}} e {{rights.1}}",
-                "right_sendas": "SendAs",
+                "right_sendas": "Enviar como",
                 "right_sendonbehalfof": "Enviar em nome de"
             },
             "new_identity": "Nova Persona {{number}}"
