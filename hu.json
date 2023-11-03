@@ -11,7 +11,8 @@
         "go_back": "Vissza",
         "new_folder": "Új mappa",
         "save": "Mentés",
-        "time_zone": "Időzóna"
+        "time_zone": "Időzóna",
+        "delete_permanently": "Végleges törlés"
     },
     "message": {
         "snackbar": {
