@@ -26,7 +26,12 @@
         "missing_features": "Відсутні функції",
         "other": "Інше",
         "report_something": "Хочете щось повідомити?",
-        "select_a_module": "Виберіть модуль"
+        "select_a_module": "Виберіть модуль",
+        "select_a_topic": "Виберіть тему",
+        "send": "НАДІСЛАТИ",
+        "success": "Дякуємо за ваш відгук",
+        "user_interface": "Інтерфейс користувача",
+        "write_here": "Напишіть свій відгук тут"
     },
     "label": {
         "account_menu": "Меню облікового запису",
