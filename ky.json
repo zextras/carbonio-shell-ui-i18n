@@ -6,6 +6,21 @@
         "delete": "Өчүрүү",
         "filter_folders": "Папкаларды чыпкалоо",
         "go_back": "Артка",
-        "new_folder": "Жаңы папка"
+        "new_folder": "Жаңы папка",
+        "time_zone": "Сааттык алкак"
+    },
+    "message": {
+        "snackbar": {
+            "settings_saved": "Оңдоолор сакталды"
+        }
+    },
+    "settings": {
+        "choose": "Тандоо"
+    },
+    "share": {
+        "is_contained_in": "камтылган"
+    },
+    "messages": {
+        "permanent_delete_title": "Бул элементти биротоло өчүрүүнү каалайсызбы?"
     }
 }
