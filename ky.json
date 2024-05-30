@@ -11,7 +11,10 @@
         "account_name": "Пайдалануучунун аты",
         "accounts": "Эсептик жазуулар",
         "address": "Дарек",
-        "close": "Жабуу"
+        "close": "Жабуу",
+        "language": "Тили",
+        "leave_anyway": "Барыбир чыгуу",
+        "logout": "Чыгуу"
     },
     "message": {
         "snackbar": {
