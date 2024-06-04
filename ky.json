@@ -15,7 +15,9 @@
         "language": "Тили",
         "leave_anyway": "Барыбир чыгуу",
         "logout": "Чыгуу",
-        "password": "Пароль"
+        "password": "Пароль",
+        "unsaved_changes": "Сакталбаган өзгөртүүлөрүңүз бар",
+        "save_and_leave": "Сактоо жана чыгуу"
     },
     "message": {
         "snackbar": {
