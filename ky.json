@@ -85,18 +85,76 @@
     },
     "message": {
         "snackbar": {
-            "settings_saved": "Оңдоолор сакталды"
+            "settings_saved": "Оңдоолор сакталды",
+            "identities_quota_exceeded": "Альянс түзүү мүмкүн эмес, анткени сиз Альянс түзүү үчүн максималдуу квотадан ашып кеттиңиз"
         },
         "reload": "\tЖаңы тилди көрсөтүү үчүн системаны кайра иштетүүнү каалайсызбы?\n(Болбосо, системага кийинки жолу киргенде жаңы тил пайда болот.)"
     },
     "settings": {
-        "choose": "Тандоо"
+        "choose": "Тандоо",
+        "out_of_office": {
+            "labels": {
+                "auto_reply_message": "Авто жооп:",
+                "external_senders": "Тышкы жөнөтүүчүлөр",
+                "all_day": "Күн бою:",
+                "auto_reply_message_external": "Тышкы жөнөтүүчү үчүн авто жооп:",
+                "create_appointment": "Жолугушууну түзүү:",
+                "end_date": "Аяктоо датасы",
+                "end_time": "Аяктоо датасы:",
+                "out_of_office_status": "Офистен тышкары статус:",
+                "send_auto_reply_period": "Төмөнкү мезгил ичинде авто-жоопторду жөнөтүңүз:",
+                "start_date": "Башталган дата",
+                "start_time": "Башталган дата:"
+            },
+            "do_not_send_auto_replies": "Авто жоопторду жөнөтпөңүз",
+            "external_senders": {
+                "send_custom_in_organisation": "Кызматкер эмес адамдарга ыңгайлаштырылган билдирүү жөнөтүңүз",
+                "do_not_send_to_external": "Тышкы жөнөтүүчүгө авто-жоопту жөнөтпөңүз",
+                "send_custom_not_in_organisation": "Кызматкер болуп саналбаган жана даректик китепте жок адамдарга ыңгайлаштырылган билдирүү жөнөтүү",
+                "send_standard_auto_reply": "Авто жооп менен стандарттык билдирүү жөнөтүү"
+            },
+            "headings": {
+                "create_appointment": "Календарда жолугушуу",
+                "settings_label": "Офистен тышкары жөнгө салуу",
+                "time_period": "Убакыт мезгили"
+            },
+            "send_auto_replies": "Авто-жоопторду жөнөтүү",
+            "status": {
+                "busy": "Бош эмес"
+            }
+        },
+        "general": {
+            "account": "Эсептик жазуу",
+            "theme_enabled": "Иштетилди",
+            "account_logout": "Чыгуу",
+            "dark_mode": "Күңүрт режим",
+            "general": "Жалпы жөнгө салуулар",
+            "theme_auto": "Автоматтык",
+            "theme_disabled": "өчүрүлдү",
+            "theme_options": "Теманын параметрлери"
+        },
+        "accounts": "Эсептик жазуулар",
+        "app": "Жөнгө салуулар",
+        "button": {
+            "confirm": "Тастыктоо",
+            "primary": "Сактоо"
+        },
+        "general_tab": "Негизги жөнгө салуулар",
+        "search_settings": {
+            "labels": {
+                "include_search_in_shared_folder": "Жалпы папкага издөөнү иштетүү",
+                "include_search_in_spam_folder": "\"Спам\" папкасында издөөнү иштетүү",
+                "include_search_in_trash_folder": "\"Себет\" папкасында издөөнү иштетүү"
+            }
+        },
+        "timezone_and_language": "Убакыт алкагы жана тили"
     },
     "share": {
         "is_contained_in": "камтылган"
     },
     "messages": {
-        "permanent_delete_title": "Бул элементти биротоло өчүрүүнү каалайсызбы?"
+        "permanent_delete_title": "Бул элементти биротоло өчүрүүнү каалайсызбы?",
+        "permanent_delete_body": "Эгер сиз бул Алиасты биротоло жок кылсаңыз, аны калыбына келтире албайсыз. Улантууну каалайсызбы?"
     },
     "locale": {
         "label_french": "Француз - {{value}}",
@@ -148,7 +206,7 @@
         "pacific_auckland": "{{value}} Жаңы Зеландия",
         "asia_kamchatka": "{{value}} Анадырь, Петропавловск-Камчатский (RTZ 11)",
         "asia_muscat": "{{value}} Абу-Даби, Маскат",
-        "asia_seoul": "{{value}} Түштүк Корея",
+        "asia_seoul": "{{value}} Корея",
         "asia_tokyo": "{{value}} Япония",
         "australia_brisbane": "{{value}} Брисбен",
         "asia_vladivostok": "{{value}} Владивосток, Магадан (RTZ 9)",
@@ -295,5 +353,31 @@
         "user_interface": "Пайдалануучулук интерфейс",
         "write_here": "Пикириңизди бул жерге калтырыңыз"
     },
-    "new": "Түзүү"
+    "new": "Түзүү",
+    "module": {
+        "app": {
+            "version": "Тиркеменин версиясы"
+        }
+    },
+    "new_tab": "Жаңы тиркеме",
+    "passwords_recovery_settings": {
+        "title": "Паролду калыбына келтирүү үчүн эсептик жазууларды жөнгө салуу"
+    },
+    "primary_account": {
+        "title": "Негизги эсептик жазууну жөнгө салуу"
+    },
+    "search": {
+        "already_clear": "Издөө тилкеси тазаланды",
+        "app": "Издөө",
+        "clear": "Издөө шарттарын тазалоо",
+        "idle_input_label": "{{module}} издөө",
+        "module": "Модуль",
+        "start": "Издөөнү баштоо",
+        "type_or_choose_suggestion": "Издөөнү баштоо үчүн, негизги сөздү киргизүү же тандоо",
+        "type_to_start_search": "Издөөнү баштоо үчүн бир нече негизги сөздөрдү киргизиңиз",
+        "unable_to_parse_query": "Издөөнү аяктоого мүмкүн болгон жок, аны тазалап, кайра аракет кылыңыз"
+    },
+    "snackbar": {
+        "error": "Бир жерден ката кетти, кайра аракет кылыңыз"
+    }
 }
