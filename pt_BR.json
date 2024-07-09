@@ -406,7 +406,7 @@
         "report_something": "Deseja reportar alguma coisa?",
         "select_a_module": "Selecione um módulo",
         "select_a_topic": "Selecione um assunto",
-        "hint": "Lembre-se: defina o assunto usando módulos e seletores de área de macro antes de escrever seu feedback. Agradecemos a ajuda.",
+        "hint": "Lembre-se de definir o assunto usando os módulos e os macro seletores de área antes de escrever comentários. Obrigado por sua colaboração.",
         "send": "ENVIAR",
         "success": "Agradecemos o seu feedback",
         "user_interface": "Interface do usuário",
