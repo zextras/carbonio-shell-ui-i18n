@@ -241,7 +241,8 @@
             "theme_auto": "Auto",
             "theme_disabled": "Disabled",
             "theme_enabled": "Enabled",
-            "theme_options": "Theme Options"
+            "theme_options": "Theme Options",
+            "privacy": "Privacy"
         },
         "general_tab": "General",
         "out_of_office": {
@@ -282,13 +283,25 @@
                 "include_search_in_trash_folder": "Include Trash Folder in searches"
             }
         },
-        "timezone_and_language": "Language"
+        "timezone_and_language": "Language",
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Allow data analytics",
+                "description": "Your data is safe. All information we gather is and will stay anonymous. It will be used by our team to understand how can we improve Carbonio."
+            }
+        }
     },
     "share": {
         "is_contained_in": "Is contained in"
     },
     "snackbar": {
-        "error": "Something went wrong, please try again"
+        "error": "Something went wrong, please try again",
+        "expiration": {
+            "action": "Go to login page",
+            "tenMinutes": "Your session will expire in 10 minutes. After that, you'll be redirected to the login page.",
+            "threeMinutes": "Your session will expire in 3 minutes. After that, you'll be redirected to the login page.",
+            "oneMinute": "Your session will expire in 60 seconds. After that, you'll be redirected to the login page."
+        }
     },
     "timezone": {
         "africa_algiers": "{{value}} West Central Africa",
