@@ -88,10 +88,11 @@
             "theme_disabled": "Wyłączone",
             "theme_enabled": "Włączone",
             "theme_options": "Opcje stylu",
-            "appearance": "Wygląd"
+            "appearance": "Wygląd",
+            "privacy": "Prywatność"
         },
         "general_tab": "Ogólne",
-        "timezone_and_language": "Strefa czasowa i język",
+        "timezone_and_language": "Język",
         "choose": "Wybierz",
         "accounts": "Konta",
         "account": {
@@ -101,6 +102,12 @@
                 "right_sendonbehalfof": "Wyślij w imieniu"
             },
             "new_identity": "Nowa persona {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "description": "Twoje dane są bezpieczne. Wszystkie informacje, które zbieramy są i pozostaną anonimowe. Zostaną użyte przez nasz zespół by zrozumieć jak możemy ulepszyć Carbonio.",
+                "label": "Zezwalaj na analitykę danych"
+            }
         }
     },
     "label": {
@@ -383,10 +390,10 @@
         "pacific_easter": "{{value}} Wyspa Wielkanocna"
     },
     "user_quota": {
-        "limited": "{{quota}}% dostępnej przestrzeni zostało zapełnione",
+        "limited": "użyto {{used}} z {{limit}}",
         "space_full": "Wygląda na to, że cała dostępna przestrzeń jest zapełniona",
         "title": "Limit przestrzeni dla użytkownika",
-        "unlimited": "Masz nieograniczoną ilość dostępnej przestrzeni"
+        "unlimited": "{{used}} z nielimitowanej przestrzeni"
     },
     "module": {
         "app": {
@@ -395,7 +402,13 @@
     },
     "new": "Nowy",
     "snackbar": {
-        "error": "Coś poszło nie tak, proszę spróbować ponownie"
+        "error": "Coś poszło nie tak, proszę spróbować ponownie",
+        "expiration": {
+            "threeMinutes": "Twoja sesja wygaśnie za 3 minuty. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
+            "oneMinute": "Twoja sesja wygaśnie za 60 sekund. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
+            "tenMinutes": "Twoja sesja wygaśnie za 10 minut. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
+            "action": "Udaj się na stronę logowania"
+        }
     },
     "feedback": {
         "error": "Nastąpił błąd podczas przesyłania opinii",
