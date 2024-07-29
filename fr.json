@@ -140,7 +140,8 @@
             "general": "Paramètres généraux",
             "theme_auto": "Auto",
             "theme_options": "Options du thème",
-            "appearance": "Apparence"
+            "appearance": "Apparence",
+            "privacy": "Vie privée"
         },
         "general_tab": "Général",
         "out_of_office": {
@@ -174,7 +175,7 @@
             },
             "send_auto_replies": "Envoyer des réponses automatiques"
         },
-        "timezone_and_language": "Fuseau horaire et langue",
+        "timezone_and_language": "Langue",
         "search_settings": {
             "labels": {
                 "include_search_in_shared_folder": "Inclure les dossiers partagés dans les recherches",
@@ -191,10 +192,22 @@
                 "right_sendonbehalfof": "Envoyer de la part de"
             },
             "new_identity": "Nouvel Avatar {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Autoriser l'analyse des données",
+                "description": "Vos données sont en sécurité. Toutes les informations que nous recueillons sont et resteront anonymes. Elles seront utilisées par notre équipe pour comprendre comment nous pouvons améliorer Carbonio."
+            }
         }
     },
     "snackbar": {
-        "error": "Quelque chose s'est mal passé, veuillez recommencer"
+        "error": "Quelque chose s'est mal passé, veuillez recommencer",
+        "expiration": {
+            "action": "Aller à la page de connexion",
+            "threeMinutes": "Votre session expirera dans 3 minutes. Ensuite, vous serez redirigé vers la page de connexion.",
+            "oneMinute": "Votre session expirera dans 60 secondes. Ensuite, vous serez redirigé vers la page de connexion.",
+            "tenMinutes": "Votre session expirera dans 10 minutes. Ensuite, vous serez redirigé vers la page de connexion."
+        }
     },
     "timezone": {
         "africa_cairo": "{{value}} Égypte",
@@ -392,10 +405,10 @@
     },
     "new_tab": "Nouvel onglet",
     "user_quota": {
-        "limited": "Vous avez utilisé {{quota}}% de votre espace disponible",
+        "limited": "{{used}} sur {{limit}} utilisés",
         "space_full": "Il semble que tout l'espace disponible soit plein",
         "title": "Quota de l'utilisateur",
-        "unlimited": "Vous disposez d'un espace illimité"
+        "unlimited": "{{used}} d'un espace illimité"
     },
     "feedback": {
         "other": "Autre",
