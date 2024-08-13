@@ -205,7 +205,7 @@
         "expiration": {
             "action": "Aller à la page de connexion",
             "threeMinutes": "Votre session expirera dans 3 minutes. Ensuite, vous serez redirigé vers la page de connexion.",
-            "oneMinute": "Votre session expirera dans 60 secondes. Ensuite, vous serez redirigé vers la page de connexion.",
+            "oneMinute": "Votre session expirera dans {{count}} secondes. Ensuite, vous serez redirigé vers la page de connexion.",
             "tenMinutes": "Votre session expirera dans 10 minutes. Ensuite, vous serez redirigé vers la page de connexion."
         }
     },
