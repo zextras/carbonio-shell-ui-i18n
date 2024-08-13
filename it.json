@@ -126,7 +126,7 @@
     "snackbar": {
         "error": "Qualcosa è andato storto. riprova",
         "expiration": {
-            "oneMinute": "La sessione scadrà tra 60 secondi. Sarai reindirizzato alla pagina di accesso.",
+            "oneMinute": "La sessione scadrà tra {{count}} secondi. Sarai reindirizzato alla pagina di accesso.",
             "action": "Vai alla pagina di accesso",
             "tenMinutes": "La sessione scadrà tra 10 minuti. Sarai reindirizzato alla pagina di accesso.",
             "threeMinutes": "La sessione scadrà tra 3 minuti. Sarai reindirizzato alla pagina di accesso."
