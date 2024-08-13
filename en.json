@@ -300,9 +300,7 @@
             "action": "Go to login page",
             "tenMinutes": "Your session will expire in 10 minutes. After that, you'll be redirected to the login page.",
             "threeMinutes": "Your session will expire in 3 minutes. After that, you'll be redirected to the login page.",
-            "oneMinute": "Your session will expire in {{count}} seconds. After that, you'll be redirected to the login page.",
-            "oneMinute_one": "Your session will expire in {{count}} second. After that, you'll be redirected to the login page.",
-            "oneMinute_other": "Your session will expire in {{count}} seconds. After that, you'll be redirected to the login page."
+            "oneMinute": "Your session will expire in {{count}} seconds. After that, you'll be redirected to the login page."
         }
     },
     "timezone": {
