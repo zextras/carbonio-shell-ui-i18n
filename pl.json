@@ -405,7 +405,6 @@
         "error": "Coś poszło nie tak, proszę spróbować ponownie",
         "expiration": {
             "threeMinutes": "Twoja sesja wygaśnie za 3 minuty. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
-            "oneMinute": "Twoja sesja wygaśnie za 60 sekund. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
             "tenMinutes": "Twoja sesja wygaśnie za 10 minut. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
             "action": "Udaj się na stronę logowania"
         }
