@@ -395,7 +395,9 @@
         "vietnamese": "Vietnamienne",
         "polish": "Polonais",
         "label_polish": "Polonais - {{value}}",
-        "label_vietnamese": "Vietnamien - {{value}}"
+        "label_vietnamese": "Vietnamien - {{value}}",
+        "label_kyrgyz": "Kyrgyz - {{value}}",
+        "kyrgyz": "Kyrgyz"
     },
     "module": {
         "app": {
@@ -446,5 +448,16 @@
                 "title": "Quelque chose s'est mal passé…"
             }
         }
+    },
+    "size": {
+        "unitMeasure_YB": "Yo",
+        "unitMeasure_EB": "Eo",
+        "unitMeasure_MB": "Mo",
+        "unitMeasure_B": "o",
+        "unitMeasure_KB": "Ko",
+        "unitMeasure_GB": "Go",
+        "unitMeasure_TB": "To",
+        "unitMeasure_PB": "Po",
+        "unitMeasure_ZB": "Zo"
     }
 }
