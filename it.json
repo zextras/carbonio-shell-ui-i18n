@@ -268,7 +268,9 @@
         "vietnamese": "Vietnamita",
         "polish": "Polacco",
         "label_polish": "Polacco - {{value}}",
-        "label_vietnamese": "Vietnamita - {{value}}"
+        "label_vietnamese": "Vietnamita - {{value}}",
+        "label_kyrgyz": "Kirghiso - {{value}}",
+        "kyrgyz": "Kirghiso"
     },
     "timezone": {
         "africa_juba": "{{value}} Juba",
@@ -446,5 +448,16 @@
                 "title": "Qualcosa è andato storto…"
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_YB": "YB"
     }
 }
