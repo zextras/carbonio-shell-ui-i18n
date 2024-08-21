@@ -247,7 +247,9 @@
         "vietnamese": "Wietnamski",
         "polish": "Polski",
         "label_polish": "Polski - {{value}}",
-        "label_vietnamese": "Wietnamski - {{value}}"
+        "label_vietnamese": "Wietnamski - {{value}}",
+        "label_kyrgyz": "Kirgiski - {{value}}",
+        "kyrgyz": "Kirgiski"
     },
     "new_tab": "Nowa karta",
     "timezone": {
@@ -446,5 +448,16 @@
                 "body": "Wystąpiły problemy techniczne podczas przetwarzania Twojego żądania. Spróbuj odświeżyć stronę lub powróć do strony logowania."
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_YB": "YB"
     }
 }
