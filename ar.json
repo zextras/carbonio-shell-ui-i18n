@@ -7,7 +7,8 @@
         "go_back": "الرجوع للخلف",
         "new_folder": "مجلد جديد",
         "save": "حفظ",
-        "time_zone": "المنطقة الزمنية"
+        "time_zone": "المنطقة الزمنية",
+        "clear_search_query": "مسح البحث"
     },
     "messages": {
         "permanent_delete_title": "هل أنت متأكد من حذف هذا العنصر نهائيا؟"
