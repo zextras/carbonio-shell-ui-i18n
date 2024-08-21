@@ -30,7 +30,8 @@
             "theme_options": "Параметры Темы",
             "theme_auto": "Автоматически",
             "dark_mode": "Темный Режим",
-            "appearance": "Вид"
+            "appearance": "Вид",
+            "privacy": "Конфиденциальность"
         },
         "app": "Настройки",
         "general_tab": "Основные настройки",
@@ -65,7 +66,7 @@
                 "busy": "Занят"
             }
         },
-        "timezone_and_language": "Часовой пояс и язык",
+        "timezone_and_language": "Язык",
         "search_settings": {
             "labels": {
                 "include_search_in_shared_folder": "Включить в поиск общую папку",
@@ -82,6 +83,12 @@
                 "right_sendonbehalfof": "Отправить от имени"
             },
             "new_identity": "Новая Персона {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "description": "Ваши данные в безопасности. Вся собираемая нами информация является и останется анонимной. Наша команда будет использовать их, чтобы понять, как улучшить Carbonio.",
+                "label": "Разрешить анализ данных"
+            }
         }
     },
     "new": "Создать",
@@ -111,10 +118,15 @@
         "reload": "\tВы хотите перезагрузить систему сейчас, чтобы показать новый язык?\n(В противном случае новый язык появится при следующем входе в систему.)"
     },
     "snackbar": {
-        "error": "Что-то пошло не так, повторите попытку"
+        "error": "Что-то пошло не так, повторите попытку",
+        "expiration": {
+            "action": "Перейти на страницу входа",
+            "tenMinutes": "Ваша сессия истечет через 10 минут. После этого вы будете перенаправлены на страницу входа.",
+            "threeMinutes": "Ваша сессия истечет через 3 минуты. После этого вы будете перенаправлены на страницу входа."
+        }
     },
     "user_quota": {
-        "unlimited": "Доступно неограниченное пространство",
+        "unlimited": "{{used}} неограниченного пространства",
         "limited": "{{used}} из {{limit}} доступного места",
         "space_full": "Все свободное место заполнено",
         "title": "Пользовательская квота"
@@ -256,7 +268,9 @@
         "vietnamese": "Вьетнамский",
         "polish": "Польский",
         "label_polish": "Польский - {{value}}",
-        "label_vietnamese": "Вьетнамский - {{value}}"
+        "label_vietnamese": "Вьетнамский - {{value}}",
+        "label_kyrgyz": "Киргизский язык - {{value}}",
+        "kyrgyz": "Киргизский язык"
     },
     "timezone": {
         "africa_algiers": "{{value}} Западная Центральная Африка",
@@ -434,5 +448,16 @@
                 "title": "Что-то пошло не так…"
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_YB": "YB"
     }
 }
