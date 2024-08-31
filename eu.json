@@ -8,7 +8,8 @@
         "discard_changes": "BAZTERTU ALDAKETAK",
         "new_folder": "Karpeta berria",
         "time_zone": "Ordu-zona",
-        "clear_search_query": "GARBITU BILAKETA"
+        "clear_search_query": "GARBITU BILAKETA",
+        "delete_permanently": "Betirako ezabatu"
     },
     "message": {
         "snackbar": {
