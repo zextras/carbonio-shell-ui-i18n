@@ -62,7 +62,8 @@
             "theme_auto": "Auto",
             "theme_options": "Opções de tema",
             "dark_mode": "Modo escuro",
-            "appearance": "Aparência"
+            "appearance": "Aparência",
+            "privacy": "Privacidade"
         },
         "general_tab": "Geral",
         "timezone_and_language": "Idioma",
@@ -82,6 +83,12 @@
                 "right_sendonbehalfof": "Enviar em nome de"
             },
             "new_identity": "Nova Persona {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Permitir análise de dados",
+                "description": "Seus dados estão seguros. Todas as informações que coletamos são e permanecerão anônimas. Elas serão usadas por nossa equipe para entender como podemos melhorar o Carbonio."
+            }
         }
     },
     "new": "Novo",
@@ -111,13 +118,18 @@
     },
     "new_tab": "Nova aba",
     "user_quota": {
-        "limited": "Você utilizou {{quota}}% do espaço disponível",
-        "unlimited": "Não há limite de cota",
+        "limited": "Usado {{used}} de {{limit}}",
+        "unlimited": "{{used}} do espaço ilimitado",
         "space_full": "Todo o espaço alocado foi ocupado",
         "title": "Cota de espaço"
     },
     "snackbar": {
-        "error": "Algo deu errado. Tente novamente"
+        "error": "Algo deu errado. Tente novamente",
+        "expiration": {
+            "action": "Ir para página de login",
+            "tenMinutes": "Sua sessão vai expirar em 10 minutos. Em seguida, você será redirecionado para a página de login.",
+            "threeMinutes": "Sua sessão vai expirar em 3 minutos. Em seguida, você será redirecionado para a página de login."
+        }
     },
     "label": {
         "language": "Idioma",
@@ -381,7 +393,9 @@
         "vietnamese": "Vietnamita",
         "polish": "Polonês",
         "label_polish": "Polish - {{value}}",
-        "label_vietnamese": "Vietnamese - {{value}}"
+        "label_vietnamese": "Vietnamese - {{value}}",
+        "label_kyrgyz": "Quirguiz - {{value}}",
+        "kyrgyz": "Quirguiz"
     },
     "board": {
         "close_tab": "Fechar aba",
@@ -434,5 +448,16 @@
                 "title": "Algo deu errado…"
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_YB": "YB"
     }
 }
