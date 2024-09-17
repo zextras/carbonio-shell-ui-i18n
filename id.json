@@ -74,10 +74,11 @@
             "theme_auto": "Otomatis",
             "theme_options": "Opsi Tema",
             "dark_mode": "Mode Gelap",
-            "appearance": "Tampilan"
+            "appearance": "Tampilan",
+            "privacy": "Privasi"
         },
         "general_tab": "Umum",
-        "timezone_and_language": "Zona Waktu dan Bahasa",
+        "timezone_and_language": "Bahasa",
         "accounts": "Akun",
         "choose": "Pilih",
         "search_settings": {
@@ -94,6 +95,12 @@
                 "right_sendas": "SendAs"
             },
             "new_identity": "Persona Baru {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Izinkan analitik data",
+                "description": "Data Anda aman. Semua informasi yang kami kumpulkan akan tetap anonim. Informasi tersebut akan digunakan oleh tim kami untuk memahami bagaimana kami dapat meningkatkan Carbonio."
+            }
         }
     },
     "new": "Baru",
@@ -111,11 +118,16 @@
     },
     "new_tab": "Tab Baru",
     "snackbar": {
-        "error": "Terjadi kesalahan, coba lagi"
+        "error": "Terjadi kesalahan, coba lagi",
+        "expiration": {
+            "action": "Buka halaman login",
+            "tenMinutes": "Sesi Anda akan berakhir dalam 10 menit. Setelah itu, Anda akan diarahkan ke halaman login.",
+            "threeMinutes": "Sesi Anda akan berakhir dalam 3 menit. Setelah itu, Anda akan diarahkan ke halaman login."
+        }
     },
     "user_quota": {
-        "limited": "{{quota}} % ruang yang tersedia sudah digunakan",
-        "unlimited": "Anda memiliki ruang tak terbatas",
+        "limited": "{{used}} dari {{limit}} digunakan",
+        "unlimited": "{{used}} dari ruang tak terbatas",
         "space_full": "Tampaknya semua ruang yang tersedia sudah penuh",
         "title": "Kuota pengguna"
     },
@@ -242,7 +254,9 @@
         "vietnamese": "Vietnam",
         "polish": "Polandia",
         "label_polish": "Polandia - {{value}}",
-        "label_vietnamese": "Vietnam - {{value}}"
+        "label_vietnamese": "Vietnam - {{value}}",
+        "label_kyrgyz": "Kirgis - {{value}}",
+        "kyrgyz": "Kirgis"
     },
     "timezone": {
         "america_cayenne": "{{value}} Cayenne, Fortaleza",
@@ -434,5 +448,16 @@
                 "secondaryButtonLabel": "halaman login"
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_YB": "YB",
+        "unitMeasure_ZB": "ZB"
     }
 }
