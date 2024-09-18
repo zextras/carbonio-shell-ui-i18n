@@ -74,7 +74,8 @@
             "theme_auto": "Auto",
             "theme_options": "Opciones del tema",
             "dark_mode": "Modo oscuro",
-            "appearance": "Apariencia"
+            "appearance": "Apariencia",
+            "privacy": "Privacidad"
         },
         "general_tab": "General",
         "timezone_and_language": "Idioma",
@@ -94,6 +95,12 @@
                 "right_sendas": "Enviar como"
             },
             "new_identity": "Nueva Persona {{number}}"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "description": "Tus datos están seguros. Toda la información recopilada por nuestra parte es y será anónima. La utilizaremos para entender cómo mejorar Carbonio.",
+                "label": "Permitir análisis de datos"
+            }
         }
     },
     "new": "Nuevo",
@@ -105,7 +112,12 @@
         "reload": "\t¿Recargar Carbonio ahora para mostrar el nuevo idioma?\nDe lo contrario el cambio se aplicará con el próximo inicio de sesión"
     },
     "snackbar": {
-        "error": "Algo salió mal. Intenta nuevamente"
+        "error": "Algo salió mal. Intenta nuevamente",
+        "expiration": {
+            "action": "Ir a la página de inicio de sesión",
+            "tenMinutes": "Tu sesión expirará en 10 minutos. Después de eso, serás redirigido a la página de inicio de sesión.",
+            "threeMinutes": "Tu sesión expirará en 3 minutos. Después de eso, serás redirigido a la página de inicio de sesión."
+        }
     },
     "module": {
         "app": {
@@ -114,8 +126,8 @@
     },
     "new_tab": "Nueva pestaña",
     "user_quota": {
-        "limited": "Ocupado {{quota}}% del espacio disponible",
-        "unlimited": "No hay límite de cuota",
+        "limited": "{{used}} de {{limit}} utilizado",
+        "unlimited": "{{used}} de espacio ilimitado",
         "space_full": "Todo el espacio asignado está ocupado",
         "title": "Cuota de espacio"
     },
@@ -381,7 +393,9 @@
         "vietnamese": "Vietnamita",
         "polish": "Polaco",
         "label_polish": "Polish - {{value}}",
-        "label_vietnamese": "Vietnamese - {{value}}"
+        "label_vietnamese": "Vietnamese - {{value}}",
+        "label_kyrgyz": "Kyrgyz - {{value}}",
+        "kyrgyz": "Kyrgyz"
     },
     "board": {
         "close_tab": "Cerrar pestaña",
@@ -434,5 +448,16 @@
                 "title": "Algo salió mal…"
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_YB": "YB",
+        "unitMeasure_ZB": "ZB"
     }
 }
