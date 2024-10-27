@@ -9,7 +9,8 @@
         "save": "حفظ",
         "time_zone": "المنطقة الزمنية",
         "clear_search_query": "مسح البحث",
-        "delete_permanently": "حذفها نهائياً"
+        "delete_permanently": "حذفها نهائياً",
+        "close": "اغلق"
     },
     "messages": {
         "permanent_delete_title": "هل أنت متأكد من حذف هذا العنصر نهائيا؟"
