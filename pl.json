@@ -249,7 +249,9 @@
         "label_polish": "Polski - {{value}}",
         "label_vietnamese": "Wietnamski - {{value}}",
         "label_kyrgyz": "Kirgiski - {{value}}",
-        "kyrgyz": "Kirgiski"
+        "kyrgyz": "Kirgiski",
+        "label_hungarian": "Węgierski - {{value}}",
+        "hungarian": "Węgierski"
     },
     "new_tab": "Nowa karta",
     "timezone": {
