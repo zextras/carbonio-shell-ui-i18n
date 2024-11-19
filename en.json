@@ -163,7 +163,9 @@
         "turkish": "Turkish",
         "vietnamese": "Vietnamese",
         "label_kyrgyz": "Kyrgyz - {{value}}",
-        "kyrgyz": "Kyrgyz"
+        "kyrgyz": "Kyrgyz",
+        "label_hungarian": "Hungarian - {{value}}",
+        "hungarian": "Hungarian"
     },
     "message": {
         "reload": "\tWould you like to reload the application now to show the new language?\n(Otherwise, the new language will appear the next time you sign in.)",
