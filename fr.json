@@ -397,7 +397,9 @@
         "label_polish": "Polonais - {{value}}",
         "label_vietnamese": "Vietnamien - {{value}}",
         "label_kyrgyz": "Kyrgyz - {{value}}",
-        "kyrgyz": "Kyrgyz"
+        "kyrgyz": "Kyrgyz",
+        "label_hungarian": "Hongrois - {{value}}",
+        "hungarian": "Hongrois"
     },
     "module": {
         "app": {
