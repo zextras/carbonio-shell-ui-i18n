@@ -395,7 +395,9 @@
         "label_polish": "Polish - {{value}}",
         "label_vietnamese": "Vietnamese - {{value}}",
         "label_kyrgyz": "Quirguiz - {{value}}",
-        "kyrgyz": "Quirguiz"
+        "kyrgyz": "Quirguiz",
+        "label_hungarian": "Húngaro - {{value}}",
+        "hungarian": "Húngaro"
     },
     "board": {
         "close_tab": "Fechar aba",
