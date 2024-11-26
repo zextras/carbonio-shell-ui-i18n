@@ -270,7 +270,9 @@
         "label_polish": "Polacco - {{value}}",
         "label_vietnamese": "Vietnamita - {{value}}",
         "label_kyrgyz": "Kirghiso - {{value}}",
-        "kyrgyz": "Kirghiso"
+        "kyrgyz": "Kirghiso",
+        "label_hungarian": "Ungherese - {{value}}",
+        "hungarian": "Ungherese"
     },
     "timezone": {
         "africa_juba": "{{value}} Juba",
