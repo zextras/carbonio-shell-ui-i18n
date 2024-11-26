@@ -395,7 +395,9 @@
         "label_polish": "Polish - {{value}}",
         "label_vietnamese": "Vietnamese - {{value}}",
         "label_kyrgyz": "Kyrgyz - {{value}}",
-        "kyrgyz": "Kyrgyz"
+        "kyrgyz": "Kyrgyz",
+        "label_hungarian": "Húngaro - {{value}}",
+        "hungarian": "Húngaro"
     },
     "board": {
         "close_tab": "Cerrar pestaña",
