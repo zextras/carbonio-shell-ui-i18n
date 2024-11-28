@@ -25,5 +25,16 @@
     },
     "share": {
         "is_contained_in": "ويحتوي على"
+    },
+    "size": {
+        "unitMeasure_MB": "ميغابايت",
+        "unitMeasure_B": "بايت",
+        "unitMeasure_KB": "كيلوبايت",
+        "unitMeasure_GB": "جيجابايت",
+        "unitMeasure_TB": "تيرابايت",
+        "unitMeasure_PB": "بيتابايت",
+        "unitMeasure_EB": "إكسابايت",
+        "unitMeasure_ZB": "زيتابايت",
+        "unitMeasure_YB": "يوتابايت"
     }
 }
