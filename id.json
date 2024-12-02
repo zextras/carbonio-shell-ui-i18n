@@ -256,7 +256,9 @@
         "label_polish": "Polandia - {{value}}",
         "label_vietnamese": "Vietnam - {{value}}",
         "label_kyrgyz": "Kirgis - {{value}}",
-        "kyrgyz": "Kirgis"
+        "kyrgyz": "Kirgis",
+        "label_hungarian": "Hungaria - {{value}}",
+        "hungarian": "Hungaria"
     },
     "timezone": {
         "america_cayenne": "{{value}} Cayenne, Fortaleza",
