@@ -270,7 +270,9 @@
         "label_vietnamese": "เวียดนาม - {{value}}",
         "label_polish": "โปแลนด์ - {{value}}",
         "label_kyrgyz": "คีร์กีซ - {{value}}",
-        "kyrgyz": "คีร์กีซ"
+        "kyrgyz": "คีร์กีซ",
+        "hungarian": "ฮังการี",
+        "label_hungarian": "ฮังการี - {{value}}"
     },
     "timezone": {
         "africa_algiers": "{{value}} แอฟริกากลางตะวันตก",
