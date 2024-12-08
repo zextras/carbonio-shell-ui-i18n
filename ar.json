@@ -36,5 +36,8 @@
         "unitMeasure_EB": "إكسابايت",
         "unitMeasure_ZB": "زيتابايت",
         "unitMeasure_YB": "يوتابايت"
+    },
+    "board": {
+        "close_tab": "إغلاق التبويب"
     }
 }
