@@ -270,7 +270,9 @@
         "label_polish": "Польский - {{value}}",
         "label_vietnamese": "Вьетнамский - {{value}}",
         "label_kyrgyz": "Киргизский язык - {{value}}",
-        "kyrgyz": "Киргизский язык"
+        "kyrgyz": "Киргизский язык",
+        "hungarian": "Венгерский",
+        "label_hungarian": "Венгерский - {{value}}"
     },
     "timezone": {
         "africa_algiers": "{{value}} Западная Центральная Африка",
