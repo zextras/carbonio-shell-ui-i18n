@@ -1,1 +1,88 @@
-{}
+{
+    "board": {
+        "from_app": "Iz {{app}}",
+        "reset_size": {
+            "enabled": "Povratak na zadani položaj i veličinu",
+            "disabled": "Tabla je već na zadanoj poziciji"
+        }
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "body": "Došlo je do nekih tehničkih problema prilikom obrade zahtjeva. Pokušaj osvježiti stranicu ili se vrati na stranicu za prijavu.",
+                "confirmButtonLabel": "osvježi",
+                "secondaryButtonLabel": "stranica za prijavu",
+                "title": "Došlo je do greške…"
+            }
+        }
+    },
+    "feedback": {
+        "success": "Hvala na Vašim povratnim informacijama"
+    },
+    "label": {
+        "add_inline_image": "Dodaj sliku unutar teksta",
+        "cannot_save_changes": "Neke promjene ne mogu biti sačuvane",
+        "documentation": "Dokumentacija",
+        "folder_external_account": "Mapa: Novi eksterni račun",
+        "download_messages": "Preuzmi poruke na:",
+        "select_image": "Odaberi sliku"
+    },
+    "locale": {
+        "label_polish": "Poljski - {{value}}",
+        "label_kyrgyz": "Kirgiski- {{value}}",
+        "kyrgyz": "Kirgiski",
+        "label_hungarian": "Mađarski - {{value}}",
+        "hungarian": "Mađarski",
+        "label_vietnamese": "Vijetnamski - {{value}}"
+    },
+    "search": {
+        "active_input_label": "Odvoji ključne riječi zarezom ili pritiskom na Razmak"
+    },
+    "settings": {
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} i {{rights.1}}",
+                "right_sendas": "PošaljiKao",
+                "right_sendonbehalfof": "Pošalji u ime"
+            },
+            "new_identity": "Nova Osoba {{number}}"
+        },
+        "appearance": {
+            "labels": {
+                "a": "A",
+                "choose_size_auto": "Automatski prilagodi veličinu teksta zavisno o uređaju",
+                "choose_size_description": "Odaberi veličinu i stil za Carbonio okruženje",
+                "choose_size_pangram": "Brza smeđa lisica skače preko lijenog psa.",
+                "decrease": "Smanji veličinu",
+                "decrease_disabled": "Dostignuta minimalna veličina",
+                "increase": "Povećajte veličinu",
+                "increase_disabled": "Dostignuta maksimalna veličina"
+            },
+            "option_l": "Veliko",
+            "option_m": "Srednji",
+            "option_s": "Malo",
+            "option_xl": "Ekstra veliko",
+            "option_xs": "Ekstra malo"
+        },
+        "general": {
+            "appearance": "Izgled",
+            "privacy": "Privatnost"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Dozvoli analizu podataka",
+                "description": "Tvoji podaci su sigurni. Sve informacije koje prikupljamo su anonimne i ostat će takve. Biti će korištene od strane našeg tima kako bismo razumjeli na koji način možemo unaprijediti Carbonio."
+            }
+        }
+    },
+    "snackbar": {
+        "expiration": {
+            "action": "Idi na stranicu za prijavu",
+            "tenMinutes": "Vaša sesija istiće za 10 minuta. Nakon toga, bit ćete preusmjereni na stranicu za prijavu.",
+            "threeMinutes": "Vaša sesija istiće za 3 minute. Nakon toga, bit ćete preusmjereni na stranicu za prijavu.",
+            "oneMinute_one": "Vaša sesija će isteći za {{count}} sekundi. Nakon toga, bit ćete preusmjereni na stranicu za prijavu.",
+            "oneMinute_few": "Vaša sesija će isteći za {{count}} sekundi. Nakon toga, bit ćete preusmjereni na stranicu za prijavu.",
+            "oneMinute_other": "Vaša sesija će isteći za {{count}} sekundi. Nakon toga, bit ćete preusmjereni na stranicu za prijavu."
+        }
+    }
+}
