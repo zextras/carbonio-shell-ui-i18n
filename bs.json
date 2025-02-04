@@ -81,7 +81,8 @@
         },
         "general": {
             "appearance": "Izgled",
-            "privacy": "Privatnost"
+            "privacy": "Privatnost",
+            "general": "Opšta podešavanja"
         },
         "privacy": {
             "allowAnalytics": {
