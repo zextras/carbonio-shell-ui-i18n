@@ -99,7 +99,7 @@
         }
     },
     "search": {
-        "active_input_label": "Separa le parole chiave usando una virgola oppure lo SPAZIO",
+        "active_input_label": "Separa le parole chiave usando una virgola",
         "app": "Cerca",
         "idle_input_label": "Cerca in {{module}}",
         "module": "Modulo",
