@@ -192,7 +192,7 @@
         "title": "Primary Account Settings"
     },
     "search": {
-        "active_input_label": "Separate your keywords by a comma or pressing SPACE",
+        "active_input_label": "Separate your keywords by a comma",
         "already_clear": "Search input is already clear",
         "app": "Search",
         "clear": "Clear search input",
