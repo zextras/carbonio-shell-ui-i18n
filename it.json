@@ -98,18 +98,6 @@
             "version": "Versione applicazione"
         }
     },
-    "search": {
-        "active_input_label": "Separa le parole chiave usando una virgola",
-        "app": "Cerca",
-        "idle_input_label": "Cerca in {{module}}",
-        "module": "Modulo",
-        "start": "Inizia ricerca",
-        "clear": "Cancella ricerca",
-        "type_or_choose_suggestion": "Digita o scegli una parola chiave per iniziare una ricerca",
-        "type_to_start_search": "Digita una parola chiave per iniziare la ricerca",
-        "unable_to_parse_query": "Impossibile completare la ricerca, cancella e riprova",
-        "already_clear": "La barra di ricerca è vuota"
-    },
     "message": {
         "snackbar": {
             "settings_saved": "Modifiche salvate correttamente",

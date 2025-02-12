@@ -1,9 +1,9 @@
 {
-  "settings": {
-    "appearance": {
-      "labels": {
-        "choose_size_pangram": "Agera vulpe maronie sare peste câinele cel leneş."
-      }
+    "settings": {
+        "appearance": {
+            "labels": {
+                "choose_size_pangram": "Agera vulpe maronie sare peste câinele cel leneş."
+            }
+        }
     }
-  }
 }

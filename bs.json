@@ -48,11 +48,6 @@
         "label_hindi": "Hindi - {{value}}",
         "hindi": "Hindi"
     },
-    "search": {
-        "active_input_label": "Odvoji ključne riječi zarezom ili pritiskom na Razmak",
-        "type_or_choose_suggestion": "Upiši ili odaberi neke ključne riječi za početak pretrage",
-        "type_to_start_search": "Unesi ključne riječi za početak pretrage"
-    },
     "settings": {
         "account": {
             "delegates": {

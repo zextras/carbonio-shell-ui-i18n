@@ -85,18 +85,6 @@
         }
     },
     "new": "新規作成",
-    "search": {
-        "app": "検索する",
-        "module": "モジュール",
-        "active_input_label": "キーワードをカンマで区切るか、SPACEキーを押します",
-        "clear": "検索入力をクリアする",
-        "idle_input_label": "{{module}}で検索する",
-        "start": "検索を開始する",
-        "already_clear": "検索入力はすでにクリアされています",
-        "type_to_start_search": "検索を開始するには、キーワードをいくつか入力してください",
-        "type_or_choose_suggestion": "検索を開始するには、いくつかのキーワードを入力または選択します",
-        "unable_to_parse_query": "検索を完了できません。クリアして再びお試しください"
-    },
     "message": {
         "snackbar": {
             "settings_saved": "編集が保存されました",

@@ -8,18 +8,6 @@
     },
     "new": "Yeni",
     "new_tab": "Yeni Sekme",
-    "search": {
-        "active_input_label": "Anahtar kelimelerinizi virgül veya BOŞLUK ile ayırın",
-        "app": "Ara",
-        "start": "Aramayı başlat",
-        "clear": "Arama girişini sil",
-        "idle_input_label": "{{module}} içinde ara",
-        "module": "Modül",
-        "already_clear": "Arama girişi zaten silinmiş",
-        "type_or_choose_suggestion": "Aramayı başlatmak için bazı anahtar kelimeler yazın veya seçin",
-        "type_to_start_search": "Aramayı başlatmak için bazı anahtar kelimeler yazın",
-        "unable_to_parse_query": "Arama tamamlanamadı, silip yeniden deneyin"
-    },
     "settings": {
         "app": "Ayarlar",
         "appearance": {

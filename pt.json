@@ -92,18 +92,6 @@
         }
     },
     "new": "Novo",
-    "search": {
-        "app": "Busca",
-        "module": "Módulo",
-        "active_input_label": "Separe as palavras-chave pressionando vírgula ou espaço",
-        "clear": "Limpar caixa de pesquisa",
-        "idle_input_label": "Buscar em {{module}}",
-        "start": "Buscar",
-        "already_clear": "A caixa de pesquisa está vazia",
-        "type_to_start_search": "Digite as palavras-chave para iniciar a busca",
-        "type_or_choose_suggestion": "Digite as palavras-chave para iniciar a busca",
-        "unable_to_parse_query": "Não foi possível completar a busca, limpe-a e tente novamente"
-    },
     "message": {
         "snackbar": {
             "settings_saved": "Edições salvas corretamente",

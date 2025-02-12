@@ -1,17 +1,5 @@
 {
     "new": "Neu",
-    "search": {
-        "app": "Suche",
-        "module": "Module",
-        "active_input_label": "Trennen Sie Suchwörter mit einem Komma oder Leerzeichen",
-        "clear": "Sucheingabe löschen",
-        "idle_input_label": "Suchen in {{module}}",
-        "start": "Suche starten",
-        "already_clear": "Sucheingabe ist bereits leer",
-        "type_to_start_search": "Geben Sie Schlüsselwörter ein, um die Suche zu starten",
-        "type_or_choose_suggestion": "Geben Sie einige Schlüsselwörter ein oder wählen Sie sie aus, um eine Suche zu starten",
-        "unable_to_parse_query": "Die Suche kann nicht abgeschlossen werden, löschen Sie sie und versuchen Sie es erneut"
-    },
     "settings": {
         "app": "Einstellungen",
         "appearance": {
