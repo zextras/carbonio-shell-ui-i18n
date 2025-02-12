@@ -1,17 +1,5 @@
 {
     "new": "Nieuw",
-    "search": {
-        "app": "Zoeken",
-        "module": "Module",
-        "active_input_label": "Scheid uw trefwoorden door een komma of door op SPATIE te drukken",
-        "clear": "Zoekingang wissen",
-        "idle_input_label": "Zoeken in {{module}}",
-        "start": "Start zoeken",
-        "already_clear": "Zoekinput is al gewist",
-        "type_to_start_search": "Typ enkele trefwoorden om een zoekopdracht te starten",
-        "unable_to_parse_query": "De zoekopdracht kan niet worden voltooid, wissen en opnieuw proberen",
-        "type_or_choose_suggestion": "Type of kies enkele trefwoorden om een zoekopdracht te starten"
-    },
     "settings": {
         "appearance": {
             "labels": {

@@ -6,18 +6,6 @@
             "identities_quota_exceeded": "Nie udało się utworzyć tej tożsamości, ponieważ przekroczono ich limit"
         }
     },
-    "search": {
-        "unable_to_parse_query": "Nie udało się wyszukać, wyczyść pole wyszukiwania i spróbuj ponownie",
-        "app": "Wyszukaj",
-        "active_input_label": "Oddziel słowa kluczowe używając przecinka",
-        "idle_input_label": "Wyszukaj w {{module}}",
-        "module": "Moduł",
-        "start": "Rozpocznij wyszukiwanie",
-        "type_or_choose_suggestion": "Wpisz lub wybierz słowa kluczowe aby rozpocząć wyszukiwanie",
-        "type_to_start_search": "Wpisz słowa kluczowe aby rozpocząć wyszukiwanie",
-        "already_clear": "Pole wyszukiwania jest puste",
-        "clear": "Wyszyść pole wyszukiwania"
-    },
     "settings": {
         "appearance": {
             "labels": {

@@ -1,16 +1,4 @@
 {
-    "search": {
-        "module": "Módulo",
-        "app": "Búsqueda",
-        "active_input_label": "Separa las palabras clave presionando coma o espacio",
-        "clear": "Borrar términos de búsqueda",
-        "idle_input_label": "Buscar en {{module}}",
-        "start": "Buscar",
-        "already_clear": "Los términos de la búsqueda ya han sido borrados",
-        "type_to_start_search": "Escribe las palabras clave para iniciar la búsqueda",
-        "type_or_choose_suggestion": "Escribe las palabras clave para iniciar la búsqueda",
-        "unable_to_parse_query": "No se ha podido completar la búsqueda. Bórrala e intenta nuevamente"
-    },
     "settings": {
         "appearance": {
             "labels": {

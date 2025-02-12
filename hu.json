@@ -242,17 +242,6 @@
     "primary_account": {
         "title": "Elsődleges fiókbeállítások"
     },
-    "search": {
-        "app": "Keresés",
-        "clear": "Keresés törlése",
-        "idle_input_label": "Keresés itt: {{module}}",
-        "module": "Modul",
-        "start": "Keresés indítása",
-        "type_or_choose_suggestion": "Írjon be vagy válasszon néhány kulcsszavat a keresés indításához",
-        "type_to_start_search": "Írjon be kulcsszavakat a keresés kezdéséhez",
-        "unable_to_parse_query": "Nem sikerült befejezni a keresést, törölje és próbálja újra",
-        "active_input_label": "A kulcsszavakat vesszővel válassza el egymástól vagy használjon SZÓKÖZ-t"
-    },
     "passwords_recovery_settings": {
         "title": "Jelszó-helyreállítási fiók beállításai"
     }

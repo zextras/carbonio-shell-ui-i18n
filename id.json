@@ -1,16 +1,4 @@
 {
-    "search": {
-        "module": "Modul",
-        "app": "Cari",
-        "active_input_label": "Pisahkan kata kunci dengan koma atau tekan SPASI",
-        "clear": "Bersihkan input pencarian",
-        "idle_input_label": "Cari di {{module}}",
-        "start": "Mulai pencarian",
-        "already_clear": "Input pencarian sudah dibersihkan",
-        "type_to_start_search": "Ketik beberapa kata kunci untuk memulai pencarian",
-        "type_or_choose_suggestion": "Ketik atau pilih beberapa kata kunci untuk memulai pencarian",
-        "unable_to_parse_query": "Tidak dapat menyelesaikan pencarian. Hapus dan coba lagi"
-    },
     "settings": {
         "appearance": {
             "labels": {

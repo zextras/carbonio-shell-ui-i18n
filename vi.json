@@ -138,18 +138,6 @@
     "passwords_recovery_settings": {
         "title": "Cài đặt mật khẩu khôi phục tài khoản"
     },
-    "search": {
-        "active_input_label": "Phân tách từ khoá của bạn bằng dấu phẩu hoặc nhấn TAB",
-        "already_clear": "Dữ liệu nhập vào để tìm kiếm đã được xoá",
-        "app": "Tìm kiếm",
-        "clear": "Xoá dữ liệu nhập vào tìm kiếm",
-        "type_or_choose_suggestion": "Nhập hoặc chọn một số từ khóa để bắt đầu tìm kiếm",
-        "module": "Mô-đun",
-        "start": "Bắt đầu tìm kiếm",
-        "type_to_start_search": "Nhập một số từ khóa để bắt đầu tìm kiếm",
-        "unable_to_parse_query": "Không thể hoàn tất tìm kiếm, hãy xóa nó và thử lại",
-        "idle_input_label": "Tìm kiếm trong {{module}}"
-    },
     "settings": {
         "accounts": "Các Tài khoản",
         "appearance": {

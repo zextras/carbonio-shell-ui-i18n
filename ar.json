@@ -398,18 +398,6 @@
         "africa_sao_tome": "ساو تومي {{value}}",
         "utc": "التوقيت العالمي المنسق {{value}}"
     },
-    "search": {
-        "active_input_label": "افصل كلماتك الرئيسية بفاصلة أو اضغط على مفتاح المسافة",
-        "app": "البحث",
-        "clear": "مسح البحث المدخل",
-        "already_clear": "البحث المدخل واضح",
-        "idle_input_label": "البحث في {{module}}",
-        "module": "الوحدة",
-        "start": "ابدأ البحث",
-        "type_or_choose_suggestion": "اكتب أو اختر بعض الكلمات الرئيسية لبدء البحث",
-        "type_to_start_search": "اكتب بعض الكلمات الرئيسية لبدء البحث",
-        "unable_to_parse_query": "غير قادر على إكمال البحث، قم بمسحه ثم أعد المحاولة"
-    },
     "user_quota": {
         "space_full": "يبدو أن كل المساحة المتاحة ممتلئة",
         "limited": "مستخدم {{used}} من {{limit}}",
