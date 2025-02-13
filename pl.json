@@ -398,7 +398,10 @@
         "expiration": {
             "threeMinutes": "Twoja sesja wygaśnie za 3 minuty. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
             "tenMinutes": "Twoja sesja wygaśnie za 10 minut. Po tym czasie, zostaniesz przekierowany na stronę logowania.",
-            "action": "Udaj się na stronę logowania"
+            "action": "Udaj się na stronę logowania",
+            "oneMinute_one": "Twoja sesja wygaśnie za {{count}} sekundę. Zostaniesz wtedy przekierowany na stronę logowania.",
+            "oneMinute_few": "Twoja sesja wygaśnie za {{count}} sekundy. Zostaniesz wtedy przekierowany na stronę logowania.",
+            "oneMinute_many": "Twoja sesja wygaśnie za {{count}} sekund. Zostaniesz wtedy przekierowany na stronę logowania."
         }
     },
     "feedback": {
