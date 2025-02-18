@@ -193,7 +193,10 @@
         "expiration": {
             "action": "Aller à la page de connexion",
             "threeMinutes": "Votre session expirera dans 3 minutes. Ensuite, vous serez redirigé vers la page de connexion.",
-            "tenMinutes": "Votre session expirera dans 10 minutes. Ensuite, vous serez redirigé vers la page de connexion."
+            "tenMinutes": "Votre session expirera dans 10 minutes. Ensuite, vous serez redirigé vers la page de connexion.",
+            "oneMinute_one": "Votre session va expirer dans {{count}} seconde. Puis, vous serez rediriger vers la page de connexion.",
+            "oneMinute_many": "Votre session va expirer dans {{count}} secondes. Puis, vous serez rediriger vers la page de connexion.",
+            "oneMinute_other": "Votre session va expirer dans {{count}} secondes. Puis, vous serez rediriger vers la page de connexion."
         }
     },
     "timezone": {
