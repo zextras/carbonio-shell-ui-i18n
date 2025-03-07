@@ -4,7 +4,11 @@
         "reset_size": {
             "enabled": "Povratak na zadani položaj i veličinu",
             "disabled": "Tabla je već na zadanoj poziciji"
-        }
+        },
+        "close_tabs": "Zatvorite sve svoje kartice",
+        "enlarge": "Povećaj tablu",
+        "hide": "Sakrij ploču",
+        "close_tab": "Zatvori karticu"
     },
     "bootstrap": {
         "failure": {
