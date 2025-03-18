@@ -449,5 +449,8 @@
         "unitMeasure_EB": "EB",
         "unitMeasure_ZB": "ZB",
         "unitMeasure_YB": "YB"
+    },
+    "search": {
+        "app": "Cerca"
     }
 }
