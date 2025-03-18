@@ -451,5 +451,8 @@
         "unitMeasure_TB": "TB",
         "unitMeasure_PB": "PB",
         "unitMeasure_YB": "YB"
+    },
+    "search": {
+        "app": "Search"
     }
 }
