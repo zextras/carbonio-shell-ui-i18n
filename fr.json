@@ -452,5 +452,8 @@
         "unitMeasure_TB": "To",
         "unitMeasure_PB": "Po",
         "unitMeasure_ZB": "Zo"
+    },
+    "search": {
+        "app": "Recherche"
     }
 }
