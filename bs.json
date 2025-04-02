@@ -61,7 +61,7 @@
         "add_external_account": "Dodaj eksterni račun",
         "change_pop": "Promijeni POP port",
         "choose_folder": "Odaberi mapu",
-        "delete": "Obriši",
+        "delete": "Izbriši",
         "delete_after_download": "Obriši poruke sa servera nakon preuzimanja",
         "delete_permanently": "Trajno obriši",
         "discard_changes": "ODBACI IZMJENE",
@@ -91,7 +91,8 @@
         "clear_search_query": "OBRIŠI PRETRAGU",
         "click_to_copy": "Klikni za kopiranje",
         "close": "Zatvori",
-        "delegates": "Delegati"
+        "delegates": "Delegati",
+        "save": "Sačuvaj"
     },
     "locale": {
         "label_polish": "Poljski - {{value}}",
@@ -169,11 +170,15 @@
     "message": {
         "reload": "\tPotrebno ponovno učitavanje aplikacije za prikaz novog jezika? \n(U suprotnom, novi jezik će se pojaviti prilikom sljedeće prijave.)",
         "snackbar": {
-            "identities_quota_exceeded": "Identitet nije mogao biti kreiran zbog prekoračenja kvote za kreiranje identiteta"
+            "identities_quota_exceeded": "Identitet nije mogao biti kreiran zbog prekoračenja kvote za kreiranje identiteta",
+            "settings_saved": "Izmjene su ispravno sačuvane"
         }
     },
     "messages": {
         "permanent_delete_body": "Brisanje ove osobe je trajno. Nastavi?",
         "permanent_delete_title": "Izbriši trajno ovu stavku?"
+    },
+    "search": {
+        "app": "Pretraga"
     }
 }
