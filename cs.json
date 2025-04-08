@@ -1,1 +1,7 @@
-{}
+{
+    "label": {
+        "cancel": "Zrušit",
+        "close": "Zavřít",
+        "delete": "Smazat"
+    }
+}
