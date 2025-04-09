@@ -3,6 +3,14 @@
         "delete_permanently": "Trajno izbriši",
         "discard_changes": "Zavrzi spremembe",
         "save": "Shrani",
-        "delete": "Izbriši"
+        "delete": "Izbriši",
+        "cancel": "Prekliči",
+        "filter_folders": "Filtriraj mape",
+        "new_folder": "Nova mapa"
+    },
+    "message": {
+        "snackbar": {
+            "settings_saved": "Spremembe uspešno shranjene"
+        }
     }
 }
