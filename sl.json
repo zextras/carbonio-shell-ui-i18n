@@ -254,7 +254,7 @@
                 "choose_size_description": "Izberite velikost in slog za okolje Carbonio",
                 "choose_size_pangram": "Hitra rjava lisica skoči čez lenega psa.",
                 "decrease": "Zmanjšaj velikost",
-                "decrease_disabled": "Doseženo je minimalno velikost",
+                "decrease_disabled": "Dosežena je minimalna velikost",
                 "increase": "Povečaj velikost",
                 "increase_disabled": "Doseženo je maksimalno velikost"
             }
