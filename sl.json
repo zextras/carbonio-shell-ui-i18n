@@ -80,7 +80,13 @@
         "when_composing": "Pri sestavljanju, odgovarjanju ali posredovanju sporočil v mapi:",
         "when_replying": "Pri odgovarjanju ali posredovanju sporočil, poslanih na:",
         "unsaved_changes_line1": "Ali ste prepričani, da želite zapustiti stran brez shranjevanja?",
-        "save_both_folders": "Shrani kopijo poslanih sporočil v mojo in pooblaščensko mapo"
+        "save_both_folders": "Shrani kopijo poslanih sporočil v mojo in pooblaščensko mapo",
+        "add_inline_image": "Dodaj sliko v vrstici",
+        "cannot_save_changes": "Nekaterih sprememb ni mogoče shraniti",
+        "close": "Zapri",
+        "documentation": "Dokumentacija",
+        "folder_external_account": "Mapa: Novi zunanji račun",
+        "select_image": "Izberi sliko"
     },
     "message": {
         "snackbar": {
@@ -96,7 +102,12 @@
         "hide": "Skrij ploščo",
         "open_app": "Odpri v aplikaciji",
         "reduce": "Skrči ploščo",
-        "show_tabs": "Prikaži druge zavihke"
+        "show_tabs": "Prikaži druge zavihke",
+        "from_app": "Iz aplikacije {{app}}",
+        "reset_size": {
+            "disabled": "Namizje je že na privzeti poziciji",
+            "enabled": "Povrni na privzeto pozicijo in velikost"
+        }
     },
     "feedback": {
         "behaviors": "Vedenja",
@@ -145,7 +156,13 @@
         "label_portuguese": "Portugalščina - {{value}}",
         "label_english": "Angleščina - {{value}}",
         "french": "Francoščina",
-        "portuguese_brazil": "Portugalščina (Brazilija)"
+        "portuguese_brazil": "Portugalščina (Brazilija)",
+        "label_polish": "Poljščina - {{value}}",
+        "label_vietnamese": "Vietnamščina - {{value}}",
+        "label_kyrgyz": "Kirgizijščina - {{value}}",
+        "kyrgyz": "Kirgizijščina",
+        "label_hungarian": "Madžarščina - {{value}}",
+        "hungarian": "Madžarščina"
     },
     "messages": {
         "permanent_delete_body": "e to osebo trajno izbrišete, je ne boste mogli obnoviti. Nadaljujete?",
@@ -165,9 +182,234 @@
         "title": "Nastavitve primarnega računa"
     },
     "settings": {
-        "accounts": "Računi"
+        "accounts": "Računi",
+        "app": "Nastavitve",
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} in {{rights.1}}",
+                "right_sendas": "Pošlji kot",
+                "right_sendonbehalfof": "Pošlji v imenu"
+            },
+            "new_identity": "Nova oseba {{number}}"
+        },
+        "button": {
+            "confirm": "Potrdi",
+            "primary": "Shrani"
+        },
+        "choose": "Izberi",
+        "general": {
+            "account": "Račun",
+            "account_logout": "Odjava",
+            "dark_mode": "Temni način",
+            "general": "Splošne nastavitve",
+            "theme_auto": "Samodejno",
+            "theme_disabled": "Onemogočeno",
+            "theme_enabled": "Omogočeno",
+            "theme_options": "Možnosti teme"
+        },
+        "general_tab": "Splošno",
+        "out_of_office": {
+            "do_not_send_auto_replies": "Ne pošiljaj samodejnih odgovorov",
+            "external_senders": {
+                "send_custom_in_organisation": "Pošlji prilagojeno sporočilo tistim, ki niso v moji organizaciji",
+                "send_custom_not_in_organisation": "Pošlji prilagojeno sporočilo tistim, ki niso v moji organizaciji in imeniku",
+                "send_standard_auto_reply": "Pošlji standardni samodejni odgovor",
+                "do_not_send_to_external": "Ne pošiljaj samodejnega odgovora zunanjim pošiljateljem"
+            },
+            "headings": {
+                "create_appointment": "Koledarski dogodek",
+                "settings_label": "Nastavitve za odsotnost",
+                "time_period": "Časovno obdobje"
+            },
+            "labels": {
+                "all_day": "Ves dan:",
+                "auto_reply_message": "Samodejni odgovor:",
+                "auto_reply_message_external": "Samodejni odgovor za zunanje pošiljatelje:",
+                "create_appointment": "Ustvari dogodek:",
+                "end_date": "Končni datum",
+                "end_time": "Končni čas:",
+                "external_senders": "Zunanji pošiljatelji",
+                "out_of_office_status": "Status odsotnosti:",
+                "send_auto_reply_period": "Pošlji samodejne odgovore v naslednjem obdobju:",
+                "start_date": "Začetni datum",
+                "start_time": "Začetni čas:"
+            },
+            "send_auto_replies": "Pošlji samodejne odgovore",
+            "status": {
+                "busy": "Zaseden"
+            }
+        },
+        "search_settings": {
+            "labels": {
+                "include_search_in_shared_folder": "Vključi iskanje v skupnih mapah",
+                "include_search_in_spam_folder": "Vključi iskanje v mapah z neželeno pošto",
+                "include_search_in_trash_folder": "Vključi iskanje v mapah z izbrisanimi sporočili"
+            }
+        },
+        "timezone_and_language": "Jezik"
     },
     "search": {
         "app": "Iskanje"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "body": "Med obdelavo vaše zahteve je prišlo do tehnične napake. Poskusite osvežiti stran ali se vrnite na prijavno stran.",
+                "confirmButtonLabel": "osveži",
+                "secondaryButtonLabel": "prijavna stran",
+                "title": "Nekaj je šlo narobe…"
+            }
+        }
+    },
+    "share": {
+        "is_contained_in": "Je vsebovan v"
+    },
+    "snackbar": {
+        "error": "Prišlo je do napake, poskusite znova"
+    },
+    "timezone": {
+        "africa_cairo": "{{value}} Egipt",
+        "africa_casablanca": "{{value}} Casablanca",
+        "africa_harare": "{{value}} Harare, Pretoria",
+        "africa_juba": "{{value}} Juba",
+        "africa_khartoum": "{{value}} Kartum",
+        "africa_monrovia": "{{value}} Monrovija",
+        "africa_nairobi": "{{value}} Nairobi",
+        "africa_sao_tome": "{{value}} Sao Tome",
+        "africa_tripoli": "{{value}} Tripoli",
+        "africa_windhoek": "{{value}} Namibija",
+        "america_adak": "{{value}} Adak",
+        "america_anchorage": "{{value}} Aljaska",
+        "america_araguaina": "{{value}} Araguaina",
+        "america_argentina_buenos_aires": "{{value}} Argentina",
+        "america_asuncion": "{{value}} Asuncion",
+        "america_bahia": "{{value}} Salvador",
+        "america_bogota": "{{value}} Kolumbija",
+        "america_cancun": "{{value}} Cancun, Chetumal",
+        "america_caracas": "{{value}} Caracas",
+        "america_cayenne": "{{value}} Cayenne, Fortaleza",
+        "america_chicago": "{{value}} ZDA/Kanada Centralni čas",
+        "america_chihuahua": "{{value}} Chihuahua, La Paz, Mazatlan",
+        "america_cuiaba": "{{value}} Cuiaba",
+        "america_fort_nelson": "{{value}} Fort Nelson",
+        "america_grand_turk": "{{value}} Otoki Turks in Caicos",
+        "america_guyana": "{{value}} Georgetown, La Paz, Manaus, San Juan",
+        "america_halifax": "{{value}} Atlantski čas (Kanada)",
+        "america_havana": "{{value}} Havana",
+        "america_indiana_indianapolis": "{{value}} Indiana (vzhod)",
+        "america_los_angeles": "{{value}} ZDA/Kanada Pacifiški čas",
+        "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey",
+        "america_miquelon": "{{value}} Miquelon",
+        "america_montevideo": "{{value}} Montevideo",
+        "america_new_york": "{{value}} ZDA/Kanada Vzhodni čas",
+        "america_phoenix": "{{value}} Arizona",
+        "america_port-au-prince": "{{value}} Port-au-Prince",
+        "america_punta_arenas": "{{value}} Punta Arenas",
+        "america_regina": "{{value}} Saskatchewan",
+        "america_sao_paulo": "{{value}} Brazilija",
+        "america_st_johns": "{{value}} Newfoundland",
+        "america_tijuana": "{{value}} Baja California",
+        "america_whitehorse": "{{value}} Yukon",
+        "asia_almaty": "{{value}} Astana",
+        "asia_amman": "{{value}} Jordanija",
+        "asia_baghdad": "{{value}} Irak",
+        "asia_baku": "{{value}} Baku",
+        "asia_bangkok": "{{value}} Bangkok, Hanoj, Džakarta",
+        "asia_barnaul": "{{value}} Barnaul",
+        "asia_beirut": "{{value}} Bejrut",
+        "asia_colombo": "{{value}} Sri Jayawardenepura Kotte",
+        "asia_damascus": "{{value}} Damask",
+        "asia_dhaka": "{{value}} Daka",
+        "asia_hovd": "{{value}} Hovd",
+        "asia_irkutsk": "{{value}} Irkutsk (RTZ 7)",
+        "asia_jerusalem": "{{value}} Jeruzalem",
+        "asia_kabul": "{{value}} Kabul",
+        "asia_kamchatka": "{{value}} Anadyr, Petropavlovsk-Kamčatski (RTZ 11)",
+        "asia_karachi": "{{value}} Islamabad, Karači",
+        "asia_kathmandu": "{{value}} Katmandu",
+        "asia_kolkata": "{{value}} Čenaj, Kolkata, Mumbaj, Novi Delhi",
+        "asia_kuala_lumpur": "{{value}} Kuala Lumpur",
+        "asia_kuwait": "{{value}} Kuvajt, Rijad",
+        "asia_magadan": "{{value}} Magadan",
+        "asia_muscat": "{{value}} Abu Dabi, Muskat",
+        "asia_novosibirsk": "{{value}} Novosibirsk (RTZ 5)",
+        "asia_omsk": "{{value}} Omsk",
+        "asia_pyongyang": "{{value}} Pjongjang",
+        "asia_qyzylorda": "{{value}} Kizilorda",
+        "asia_sakhalin": "{{value}} Sahalin",
+        "asia_seoul": "{{value}} Koreja",
+        "asia_singapore": "{{value}} Singapur",
+        "asia_srednekolymsk": "{{value}} Čokurdah (RTZ 10)",
+        "asia_taipei": "{{value}} Tajpej",
+        "asia_tashkent": "{{value}} Taškent",
+        "asia_tbilisi": "{{value}} Tbilisi",
+        "asia_tehran": "{{value}} Teheran",
+        "asia_tokyo": "{{value}} Japonska",
+        "asia_tomsk": "{{value}} Tomsk",
+        "asia_ulaanbaatar": "{{value}} Ulan Bator",
+        "asia_vladivostok": "{{value}} Vladivostok, Magadan (RTZ 9)",
+        "asia_yakutsk": "{{value}} Jakutsk (RTZ 8)",
+        "asia_yerevan": "{{value}} Erevan",
+        "atlantic_azores": "{{value}} Azori",
+        "atlantic_south_georgia": "{{value}} Južni Atlantik",
+        "australia_adelaide": "{{value}} Adelaide",
+        "australia_brisbane": "{{value}} Brisbane",
+        "australia_darwin": "{{value}} Darwin",
+        "australia_eucla": "{{value}} Eucla",
+        "australia_hobart": "{{value}} Hobart",
+        "australia_perth": "{{value}} Perth",
+        "australia_sydney": "{{value}} Canberra, Melbourne, Sydney",
+        "etc_gmt+12": "{{value}} Mednarodna datumska meja",
+        "europe_astrakhan": "{{value}} Astrahan",
+        "europe_belgrade": "{{value}} Beograd, Bratislava, Budimpešta, Ljubljana, Praga",
+        "europe_berlin": "{{value}} Amsterdam, Berlin, Bern, Rim, Stockholm, Dunaj",
+        "europe_brussels": "{{value}} Bruselj, Kopenhagen, Madrid, Pariz",
+        "europe_bucharest": "{{value}} Bukarešta",
+        "europe_chisinau": "{{value}} Kišinjev",
+        "europe_istanbul": "{{value}} Istanbul",
+        "europe_london": "{{value}} Velika Britanija, Irska, Portugalska",
+        "europe_minsk": "{{value}} Minsk",
+        "europe_samara": "{{value}} Iževsk, Samara (RTZ 3)",
+        "europe_saratov": "{{value}} Saratov",
+        "indian_mauritius": "{{value}} Port Louis",
+        "pacific_apia": "{{value}} Samoa",
+        "pacific_auckland": "{{value}} Nova Zelandija",
+        "pacific_bougainville": "{{value}} Bougainville standardni čas",
+        "pacific_easter": "{{value}} Velikonočni otok",
+        "pacific_fiji": "{{value}} Fidži",
+        "pacific_guadalcanal": "{{value}} Salomonovi otoki / Nova Kaledonija",
+        "pacific_guam": "{{value}} Guam, Port Moresby",
+        "pacific_honolulu": "{{value}} Havaji",
+        "pacific_kiritimati": "{{value}} Otok Kiritimati",
+        "pacific_midway": "{{value}} Samoa",
+        "pacific_tongatapu": "{{value}} Nuku’alofa",
+        "utc": "{{value}} Usmerjen univerzalni čas",
+        "america_denver": "{{value}} ZDA/Kanada Gorski čas",
+        "america_guatemala": "{{value}} Srednja Amerika",
+        "africa_algiers": "{{value}} Zahodna Srednja Afrika",
+        "asia_krasnoyarsk": "{{value}} Krasnojarsk (RTZ 6)",
+        "america_santiago": "{{value}} Pacifiška Južna Amerika",
+        "asia_chita": "{{value}} Čita",
+        "asia_gaza": "{{value}} Gaza",
+        "asia_hong_kong": "{{value}} Peking, Chongqing, Hongkong, Urumči",
+        "asia_yekaterinburg": "{{value}} Jekaterinburg (RTZ 4)",
+        "asia_yangon": "{{value}} Yangon",
+        "atlantic_cape_verde": "{{value}} Zelenortski otoki.",
+        "europe_moscow": "{{value}} Moskva, Sankt Peterburg, Volgograd (RTZ 2)",
+        "europe_volgograd": "{{value}} Volgograd",
+        "australia_lord_howe": "{{value}} Lord Howe",
+        "europe_kaliningrad": "{{value}} Kaliningrad (RTZ 1)",
+        "europe_warsaw": "{{value}} Sarajevo, Skopje, Varšava, Zagreb",
+        "pacific_chatham": "{{value}} Chatham",
+        "pacific_norfolk": "{{value}} Norfolk",
+        "europe_athens": "{{value}} Atene, Bejrut, Bukarešta, Istanbul",
+        "europe_helsinki": "{{value}} Helsinki, Kijev, Riga, Sofija, Talin, Vilna",
+        "pacific_marquesas": "{{value}} Markizini otoki"
+    },
+    "user_quota": {
+        "title": "Uporabnikov prostor",
+        "unlimited": "{{used}} od neomejenega prostora",
+        "space_full": "Videti je, da je ves razpoložljiv prostor porabljen",
+        "limited": "{{used}} od {{limit}} uporabljenih"
     }
 }
