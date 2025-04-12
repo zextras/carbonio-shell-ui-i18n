@@ -257,7 +257,12 @@
                 "decrease_disabled": "Dosežena je minimalna velikost",
                 "increase": "Povečaj velikost",
                 "increase_disabled": "Doseženo je maksimalno velikost"
-            }
+            },
+            "option_l": "Veliko",
+            "option_m": "Srednje",
+            "option_s": "Majhno",
+            "option_xl": "Izredno veliko",
+            "option_xs": "Izredno majhno"
         }
     },
     "search": {
