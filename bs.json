@@ -142,7 +142,22 @@
         "label_italian": "Italijanski - {{value}}",
         "label_portuguese": "Portugalski - {{value}}",
         "label_japanese": "Japanski - {{value}}",
-        "label_french": "Francuski - {{value}}"
+        "label_french": "Francuski - {{value}}",
+        "label_russian": "Ruski - {{value}}",
+        "label_spanish": "Španski - {{value}}",
+        "label_thai": "Tajlandski - {{value}}",
+        "label_turkish": "Turski - {{value}}",
+        "polish": "Poljski",
+        "portuguese_brazil": "Portugalski (Brazil)",
+        "romanian": "Rumunski",
+        "russian": "Ruski",
+        "spanish": "Španski",
+        "turkish": "Turski",
+        "vietnamese": "Vijetnamski",
+        "thai": "Tajlandski",
+        "label_portuguese_brazil": "Portugalski - {{value}}",
+        "label_romanian": "Rumunski - {{value}}",
+        "portuguese": "Portugalski"
     },
     "settings": {
         "account": {
@@ -173,7 +188,14 @@
         "general": {
             "appearance": "Izgled",
             "privacy": "Privatnost",
-            "general": "Opšta podešavanja"
+            "general": "Opšta podešavanja",
+            "account": "Račun",
+            "account_logout": "Odjava",
+            "dark_mode": "Tamni prikaz",
+            "theme_auto": "Auto",
+            "theme_disabled": "Onemogućena",
+            "theme_enabled": "Omogućena",
+            "theme_options": "Opcije Tema"
         },
         "privacy": {
             "allowAnalytics": {
@@ -183,18 +205,50 @@
         },
         "out_of_office": {
             "external_senders": {
-                "send_standard_auto_reply": "Pošalji standardnu automatsku poruku"
+                "send_standard_auto_reply": "Pošalji standardnu automatsku poruku",
+                "do_not_send_to_external": "Nemoj slati automatske poruke eksternim korisnicima",
+                "send_custom_in_organisation": "Pošalji prilagođenu poruku onima koji nisu u mojoj organizaciji",
+                "send_custom_not_in_organisation": "Pošalji prilagođenu poruku onima koji nisu u mojoj organizaciji i adresaru"
             },
             "labels": {
-                "create_appointment": "Kreiraj sastanak:"
-            }
+                "create_appointment": "Kreiraj sastanak:",
+                "out_of_office_status": "Status izvan ureda:",
+                "all_day": "Cijeli dan:",
+                "auto_reply_message": "Poruka automatskog odgovora:",
+                "auto_reply_message_external": "Automatska poruka za eksterne pošiljaoce:",
+                "end_date": "Datum završetka",
+                "external_senders": "Eksterni pošiljaoci",
+                "send_auto_reply_period": "Šalji automatske odgovore tokom sljedećeg perioda:",
+                "start_date": "Datum početka",
+                "start_time": "Vrijeme početka:"
+            },
+            "status": {
+                "busy": "Zauzet"
+            },
+            "do_not_send_auto_replies": "Nemoj slati automatske odgovore",
+            "headings": {
+                "create_appointment": "Zakazivanje u kalendaru",
+                "settings_label": "Postavke statusa izvan ureda",
+                "time_period": "Vremenski period"
+            },
+            "send_auto_replies": "Šalji automatske odgovore"
         },
         "search_settings": {
             "labels": {
                 "include_search_in_trash_folder": "Uključi mapu Smeće u pretrage",
-                "include_search_in_spam_folder": "Uključi mapu Neželjena pošta u pretrage"
+                "include_search_in_spam_folder": "Uključi mapu Neželjena pošta u pretrage",
+                "include_search_in_shared_folder": "Uključi dijeljenju mapu u pretrage"
             }
-        }
+        },
+        "timezone_and_language": "Jezik",
+        "accounts": "Računi",
+        "app": "Postavke",
+        "button": {
+            "confirm": "Potvrdi",
+            "primary": "Sačuvaj"
+        },
+        "choose": "Izaberi",
+        "general_tab": "Općenito"
     },
     "snackbar": {
         "expiration": {
@@ -220,5 +274,114 @@
     },
     "search": {
         "app": "Pretraga"
+    },
+    "timezone": {
+        "africa_windhoek": "{{value}} Namibija",
+        "america_araguaina": "{{value}} Araguaina",
+        "america_argentina_buenos_aires": "{{value}} Argentina",
+        "america_asuncion": "{{value}} Asuncion",
+        "america_bahia": "{{value}} Salvador",
+        "america_cancun": "{{value}} Cancun, Chetumal",
+        "america_caracas": "{{value}} Caracas",
+        "america_chicago": "{{value}} US/Canada Central",
+        "america_cuiaba": "{{value}} Cuiaba",
+        "america_fort_nelson": "{{value}} Fort Nelson",
+        "america_grand_turk": "{{value}} Turks and Caicos Islands",
+        "america_guatemala": "{{value}} Central America",
+        "america_halifax": "{{value}} Atlantic Time (Canada)",
+        "america_havana": "{{value}} Havana",
+        "asia_almaty": "{{value}} Astana",
+        "asia_baku": "{{value}} Baku",
+        "asia_barnaul": "{{value}} Barnaul",
+        "asia_beirut": "{{value}} Bejrut",
+        "asia_chita": "{{value}} Chita",
+        "asia_colombo": "{{value}} Sri Jayawardenepura Kotte",
+        "asia_krasnoyarsk": "{{value}} Krasnojarsk (RTZ 6)",
+        "asia_kuala_lumpur": "{{value}} Kuala Lumpur",
+        "asia_magadan": "{{value}} Magadan",
+        "asia_muscat": "{{value}} Abu Dhabi, Muscat",
+        "asia_omsk": "{{value}} Omsk",
+        "asia_pyongyang": "{{value}} Pyongyang",
+        "asia_qyzylorda": "{{value}} Qyzylorda",
+        "asia_tehran": "{{value}} Teheran",
+        "asia_tokyo": "{{value}} Japan",
+        "asia_ulaanbaatar": "{{value}} Ulaanbaatar",
+        "asia_vladivostok": "{{value}} Vladivostok, Magadan (RTZ 9)",
+        "asia_yakutsk": "{{value}} Yakutsk (RTZ 8)",
+        "asia_yangon": "{{value}} Yangon",
+        "asia_yekaterinburg": "{{value}} Ekaterinburg (RTZ 4)",
+        "asia_yerevan": "{{value}} Jerevan",
+        "atlantic_cape_verde": "{{value}} Cape Verde Is.",
+        "atlantic_south_georgia": "{{value}} Mid-Atlantic",
+        "america_adak": "{{value}} Adak",
+        "asia_baghdad": "{{value}} Irak",
+        "asia_kuwait": "{{value}} Kuvajt, Rijad",
+        "africa_nairobi": "{{value}} Nairobi",
+        "america_anchorage": "{{value}} Aljaska",
+        "america_cayenne": "{{value}} Cayenne, Fortaleza",
+        "asia_novosibirsk": "{{value}} Novosibirsk (RTZ 5)",
+        "asia_sakhalin": "{{value}} Sakhalin",
+        "asia_srednekolymsk": "{{value}} Chokurdakh (RTZ 10)",
+        "africa_cairo": "{{value}} Egipat",
+        "africa_casablanca": "{{value}} Casablanca",
+        "africa_harare": "{{value}} Harare, Pretorija",
+        "africa_juba": "{{value}} Juba",
+        "africa_khartoum": "{{value}} Kartum",
+        "africa_monrovia": "{{value}} Monrovia",
+        "africa_tripoli": "{{value}} Tripoli",
+        "america_los_angeles": "{{value}} US/Canada Pacific",
+        "america_miquelon": "{{value}} Miquelon",
+        "america_montevideo": "{{value}} Montevideo",
+        "america_new_york": "{{value}} US/Canada Eastern",
+        "america_phoenix": "{{value}} Arizona",
+        "america_port-au-prince": "{{value}} Port-au-Prince",
+        "america_punta_arenas": "{{value}} Punta_Arenas",
+        "america_regina": "{{value}} Saskatchewan",
+        "america_santiago": "{{value}} Pacific South America",
+        "america_sao_paulo": "{{value}} Brasilia",
+        "america_tijuana": "{{value}} Baja California",
+        "america_whitehorse": "{{value}} Yukon",
+        "asia_dhaka": "{{value}} Daka",
+        "asia_gaza": "{{value}} Gaza",
+        "asia_hovd": "{{value}} Hovd",
+        "asia_irkutsk": "{{value}} Irkutsk (RTZ 7)",
+        "asia_jerusalem": "{{value}} Jeruzalem",
+        "asia_kabul": "{{value}} Kabul",
+        "asia_kamchatka": "{{value}} Anadyr, Petropavlovsk-Kamchatsky (RTZ 11)",
+        "asia_karachi": "{{value}} Islamabad, Karachi",
+        "asia_kathmandu": "{{value}} Kathmandu",
+        "asia_taipei": "{{value}} Taipei",
+        "asia_tashkent": "{{value}} Tashkent",
+        "asia_tbilisi": "{{value}} Tbilisi",
+        "africa_algiers": "{{value}} West Central Africa",
+        "america_bogota": "{{value}} Kolumbija",
+        "america_guyana": "{{value}} Georgetown, La Paz, Manaus, San Juan",
+        "america_indiana_indianapolis": "{{value}} Indiana (Istok)",
+        "america_st_johns": "{{value}} Newfoundland",
+        "asia_bangkok": "{{value}} Bangkok, Hanoi, Jakarta",
+        "asia_damascus": "{{value}} Damask",
+        "asia_kolkata": "{{value}} Chennai, Kolkata, Mumbai, New Delhi",
+        "asia_hong_kong": "{{value}} Beijing, Chongqing, Hong Kong, Urumqi",
+        "asia_seoul": "{{value}} Koreja",
+        "asia_tomsk": "{{value}} Tomsk",
+        "atlantic_azores": "{{value}} Azores",
+        "africa_sao_tome": "{{value}} Sao Tome",
+        "america_chihuahua": "{{value}} Chihuahua, La Paz, Mazatlan",
+        "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey"
+    },
+    "module": {
+        "app": {
+            "version": "Verzije aplikacije"
+        }
+    },
+    "new_tab": "Nova kartica",
+    "passwords_recovery_settings": {
+        "title": "Postavke računa za oporavak lozinke"
+    },
+    "primary_account": {
+        "title": "Postavke primarnog računa"
+    },
+    "share": {
+        "is_contained_in": "Nalazi se u"
     }
 }
