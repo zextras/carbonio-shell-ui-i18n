@@ -367,7 +367,9 @@
         "atlantic_azores": "{{value}} Azores",
         "africa_sao_tome": "{{value}} Sao Tome",
         "america_chihuahua": "{{value}} Chihuahua, La Paz, Mazatlan",
-        "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey"
+        "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey",
+        "australia_adelaide": "{{value}} Adelaide",
+        "australia_lord_howe": "{{value}} Lord_Howe"
     },
     "module": {
         "app": {
