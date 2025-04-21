@@ -370,7 +370,44 @@
         "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey",
         "australia_adelaide": "{{value}} Adelaide",
         "australia_lord_howe": "{{value}} Lord_Howe",
-        "australia_perth": ""
+        "australia_perth": "",
+        "australia_sydney": "{{value}} Canberra, Melbourne, Sydney",
+        "etc_gmt+12": "{{value}} Dateline",
+        "europe_astrakhan": "{{value}} Astrakhan",
+        "europe_belgrade": "{{value}} Beograd, Bratislava, Budimpešta, Ljubljana, Prag",
+        "europe_brussels": "{{value}} Brisel, Kopenhagen, Madrid, Pariz",
+        "europe_bucharest": "{{value}} Bukurešt",
+        "europe_helsinki": "{{value}} Helsinki, Kijev, Riga, Sofija, Tallinn, Vilnius",
+        "europe_istanbul": "{{value}} Istanbul",
+        "europe_kaliningrad": "{{value}} Kalinjingrad (RTZ 1)",
+        "europe_minsk": "{{value}} Minsk",
+        "europe_warsaw": "{{value}} Sarajevo, Skopje, Varšava, Zagreb",
+        "australia_eucla": "{{value}} Eucla",
+        "pacific_tongatapu": "{{value}} Nuku’alofa",
+        "australia_darwin": "{{value}} Darwin",
+        "europe_berlin": "{{value}} Amsterdam, Berlin, Bern, Rim, Štokholm, Beč",
+        "europe_moscow": "{{value}} Moskva, Sankt Peterburg, Volgograd (RTZ 2)",
+        "europe_samara": "{{value}} Iževsk, Samara (RTZ 3)",
+        "europe_saratov": "{{value}} Saratov",
+        "europe_volgograd": "{{value}} Volgograd",
+        "indian_mauritius": "{{value}} Port Louis",
+        "pacific_apia": "{{value}} Samoa",
+        "pacific_bougainville": "{{value}} Bougainville Standard Time",
+        "pacific_chatham": "{{value}} Chatham",
+        "pacific_easter": "{{value}} Easter",
+        "pacific_fiji": "{{value}} Fidži",
+        "pacific_guam": "{{value}} Guam, Port Moresby",
+        "pacific_honolulu": "{{value}} Havaji",
+        "pacific_kiritimati": "{{value}} Kiritimati Island",
+        "pacific_marquesas": "{{value}} Marquesas",
+        "pacific_midway": "{{value}} Samoa",
+        "pacific_norfolk": "{{value}} Norfolk",
+        "europe_chisinau": "{{value}} Kišinjev",
+        "europe_london": "{{value}} Britanija, Irska, Portugal",
+        "utc": "{{value}} Coordinated Universal Time",
+        "australia_hobart": "{{value}} Hobart",
+        "europe_athens": "{{value}} Atina, Bejrut, Bukurešt, Istanbul",
+        "pacific_guadalcanal": "{{value}} Solomon Is. / New Caledonia"
     },
     "module": {
         "app": {
@@ -386,5 +423,20 @@
     },
     "share": {
         "is_contained_in": "Nalazi se u"
+    },
+    "size": {
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_YB": "YB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_MB": "MB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_KB": "KB"
+    },
+    "user_quota": {
+        "limited": "{{used}} od {{limit}} iskorišteno",
+        "space_full": "Čini se da je sav raspoloživi prostor popunjen",
+        "title": "Korisnikova kvota",
+        "unlimited": "{{used}} od neograničenog prostora"
     }
 }
