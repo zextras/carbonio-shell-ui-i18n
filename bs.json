@@ -369,7 +369,8 @@
         "america_chihuahua": "{{value}} Chihuahua, La Paz, Mazatlan",
         "america_mexico_city": "{{value}} Guadalajara, Mexico City, Monterrey",
         "australia_adelaide": "{{value}} Adelaide",
-        "australia_lord_howe": "{{value}} Lord_Howe"
+        "australia_lord_howe": "{{value}} Lord_Howe",
+        "australia_perth": ""
     },
     "module": {
         "app": {
