@@ -406,7 +406,8 @@
         "utc": "{{value}} Coordinated Universal Time",
         "australia_hobart": "{{value}} Hobart",
         "europe_athens": "{{value}} Atina, Bejrut, Bukurešt, Istanbul",
-        "pacific_guadalcanal": "{{value}} Solomon Is. / New Caledonia"
+        "pacific_guadalcanal": "{{value}} Solomon Is. / New Caledonia",
+        "australia_perth": "{{value}} Perth"
     },
     "module": {
         "app": {
