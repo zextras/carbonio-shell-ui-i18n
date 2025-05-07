@@ -117,7 +117,14 @@
         "test_settings": "Postavke testiranja",
         "time_zone": "Vremenska zona",
         "update_view": "Ažuriraj prikaz",
-        "save_delegate_folder": "Spremi kopiju poslanih poruka u dijeljenu mapu Poslano"
+        "save_delegate_folder": "Spremi kopiju poslanih poruka u dijeljenu mapu Poslano",
+        "feedback": "Povratne informacije",
+        "external_account_settings": "Postavke eksternog računa",
+        "accounts_list": "Lista računa",
+        "add_recovery_email": "Dodaj e-mail za oporavak",
+        "password": "Lozinka",
+        "persona": "Osoba",
+        "settings_sent_messages": "Postavke poslanih poruka"
     },
     "locale": {
         "label_polish": "Poljski - {{value}}",
@@ -156,7 +163,8 @@
         "thai": "Tajlandski",
         "label_portuguese_brazil": "Portugalski - {{value}}",
         "label_romanian": "Rumunski - {{value}}",
-        "portuguese": "Portugalski"
+        "portuguese": "Portugalski",
+        "italian": "Italijanski"
     },
     "settings": {
         "account": {
@@ -219,7 +227,8 @@
                 "external_senders": "Eksterni pošiljaoci",
                 "send_auto_reply_period": "Šalji automatske odgovore tokom sljedećeg perioda:",
                 "start_date": "Datum početka",
-                "start_time": "Vrijeme početka:"
+                "start_time": "Vrijeme početka:",
+                "end_time": "Vrijeme završetka:"
             },
             "status": {
                 "busy": "Zauzet"
@@ -406,7 +415,12 @@
         "australia_hobart": "{{value}} Hobart",
         "europe_athens": "{{value}} Atina, Bejrut, Bukurešt, Istanbul",
         "pacific_guadalcanal": "{{value}} Solomon Is. / New Caledonia",
-        "australia_perth": "{{value}} Perth"
+        "australia_perth": "{{value}} Perth",
+        "asia_singapore": "{{value}} Singapur",
+        "america_denver": "{{value}} US/Canada Mountain",
+        "australia_brisbane": "{{value}} Brisbane",
+        "asia_amman": "{{value}} Jordan",
+        "pacific_auckland": "{{value}} Novi Zeland"
     },
     "module": {
         "app": {
@@ -430,12 +444,15 @@
         "unitMeasure_ZB": "ZB",
         "unitMeasure_MB": "MB",
         "unitMeasure_EB": "EB",
-        "unitMeasure_KB": "KB"
+        "unitMeasure_KB": "KB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_B": "B"
     },
     "user_quota": {
         "limited": "{{used}} od {{limit}} iskorišteno",
         "space_full": "Čini se da je sav raspoloživi prostor popunjen",
         "title": "Korisnikova kvota",
         "unlimited": "{{used}} od neograničenog prostora"
-    }
+    },
+    "new": "Novi"
 }
