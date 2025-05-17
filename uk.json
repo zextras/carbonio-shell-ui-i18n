@@ -7,14 +7,19 @@
         "open_app": "Відкрити в додатку",
         "reduce": "Зменшити дошку",
         "close_tabs": "Закрити всі вкладки",
-        "show_tabs": "Показати інші вкладки"
+        "show_tabs": "Показати інші вкладки",
+        "reset_size": {
+            "disabled": "Дошка вже знаходиться у позиції за замовчуванням",
+            "enabled": "Повернутися до позиції та розміру за замовчуванням"
+        }
     },
     "bootstrap": {
         "failure": {
             "modal": {
                 "body": "Під час обробки вашого запиту виникли деякі технічні проблеми. Будь ласка, спробуйте оновити сторінку або поверніться на сторінку входу.",
                 "confirmButtonLabel": "оновити",
-                "secondaryButtonLabel": "сторінка входу"
+                "secondaryButtonLabel": "сторінка входу",
+                "title": "Щось пішло не так…"
             }
         }
     },
@@ -92,7 +97,7 @@
         "unsaved_changes": "У вас є незбережені зміни",
         "unsaved_changes_line1": "Ви дійсно хочете залишити цю сторінку без збереження?",
         "update_view": "Оновити перегляд",
-        "use_persona": "Використовуйте цю персону",
+        "use_persona": "Використовувати цю персону",
         "use_personas_line2": "Наприклад, якщо ви іноді надсилаєте електронні листи в певній ролі на роботі, створіть для цього персону.",
         "use_ssl": "Використовуйте з'єднання з шифруванням (SSL) для доступу до цього сервера",
         "when_replying": "При відповіді або пересиланні повідомлень, надісланих на:",
@@ -113,7 +118,13 @@
         "reload": "Перезавантажити",
         "use_personas_line1": "Використовуйте персони для швидкої зміни багатьох налаштувань під час надсилання електронних листів.",
         "unsaved_changes_line2": "Усі незбережені зміни буде втрачено",
-        "when_composing": "Під час створення, відповіді або пересилання повідомлень у папці (папках):"
+        "when_composing": "Під час створення, відповіді або пересилання повідомлень у папці (папках):",
+        "add_inline_image": "Додати вбудоване зображення",
+        "cannot_save_changes": "Деякі зміни не можна зберегти",
+        "close": "Закрити",
+        "documentation": "Документація",
+        "folder_external_account": "Папка: Новий зовнішній обліковий запис",
+        "select_image": "Виберіть зображення"
     },
     "locale": {
         "English": "Англійська",
@@ -147,7 +158,13 @@
         "thai": "Тайська",
         "turkish": "Турецька",
         "vietnamese": "В'єтнамська",
-        "italian": "Італійська"
+        "italian": "Італійська",
+        "label_hungarian": "Угорська - {{value}}",
+        "label_polish": "Польська - {{value}}",
+        "hungarian": "Угорська",
+        "label_vietnamese": "В'єтнамська - {{value}}",
+        "label_kyrgyz": "Киргизька - {{value}}",
+        "kyrgyz": "Киргизька"
     },
     "message": {
         "snackbar": {
@@ -174,5 +191,266 @@
     },
     "search": {
         "app": "Пошук"
+    },
+    "settings": {
+        "appearance": {
+            "labels": {
+                "choose_size_pangram": "Жебракують філософи при ґанку церкви в Гадячі, ще й шатро їхнє п'яне знаємо.",
+                "decrease": "Зменшити розмір",
+                "increase": "Збільшити розмір",
+                "decrease_disabled": "Досягнуто найменшого розміру",
+                "choose_size_auto": "Автоматично змінювати розмір тексту залежно від пристрою",
+                "choose_size_description": "Оберіть розмір та стиль для середовища Carbonio",
+                "increase_disabled": "Досягнуто найбільшого розміру"
+            },
+            "option_l": "Великий",
+            "option_m": "Середній",
+            "option_s": "Дрібний",
+            "option_xl": "Дуже великий",
+            "option_xs": "Дуже дрібний"
+        },
+        "button": {
+            "confirm": "Підтвердити",
+            "primary": "Зберегти"
+        },
+        "general": {
+            "account_logout": "Вийти",
+            "theme_auto": "Авто",
+            "theme_disabled": "Вимкнено",
+            "theme_enabled": "Увімкнено",
+            "theme_options": "Параметри теми",
+            "account": "Обліковий запис",
+            "appearance": "Вигляд",
+            "dark_mode": "Темний режим",
+            "general": "Загальні налаштування",
+            "privacy": "Конфіденційність"
+        },
+        "general_tab": "Загальні",
+        "out_of_office": {
+            "labels": {
+                "out_of_office_status": "Стан Поза Офісом:",
+                "all_day": "Увесь день:",
+                "create_appointment": "Створити Зустріч:",
+                "end_date": "Дата завершення",
+                "end_time": "Час завершення:",
+                "external_senders": "Зовнішні відправники",
+                "start_date": "Дата початку",
+                "start_time": "Час початку:",
+                "auto_reply_message": "Автоматична відповідь:",
+                "auto_reply_message_external": "Автоматична відповідь для зовнішніх відправників:",
+                "send_auto_reply_period": "Надсилати автоматичні відповіді впродовж цього періоду:"
+            },
+            "do_not_send_auto_replies": "Не надсилати автоматичні відповіді",
+            "external_senders": {
+                "do_not_send_to_external": "Не надсилати автоматичну відповідь зовнішнім відправникам",
+                "send_custom_in_organisation": "Надіслати особисте повідомлення тим, хто не належить до вашої організації",
+                "send_custom_not_in_organisation": "Надіслати особисте повідомлення тим, хто не належить до вашої організації та адресної книги",
+                "send_standard_auto_reply": "Надіслати стандартну автоматичну відповідь"
+            },
+            "headings": {
+                "create_appointment": "Зустріч у Календарі",
+                "settings_label": "Налаштування Поза Офісом",
+                "time_period": "Часовий проміжок"
+            },
+            "send_auto_replies": "Надсилати автоматичні відповіді",
+            "status": {
+                "busy": "Зайнятий"
+            }
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "description": "Ваші дані в безпеці. Усі зібрані нами відомості є і залишаються анонімними. Вони будуть використані нашою командою для розуміння того, як ми можемо покращити Carbonio.",
+                "label": "Дозволити аналіз даних"
+            }
+        },
+        "timezone_and_language": "Мова",
+        "account": {
+            "delegates": {
+                "right_sendonbehalfof": "Надіслати від імені",
+                "multiple_rights": "{{rights.0}} і {{rights.1}}",
+                "right_sendas": "Надіслати від імені"
+            },
+            "new_identity": "Нова Персона {{number}}"
+        },
+        "accounts": "Облікові записи",
+        "app": "Налаштування",
+        "choose": "Виберіть",
+        "search_settings": {
+            "labels": {
+                "include_search_in_shared_folder": "Додати Спільну Папку до пошукових запитів",
+                "include_search_in_spam_folder": "Додати папку Спам до пошукових запитів",
+                "include_search_in_trash_folder": "Додати Кошик до пошукових запитів"
+            }
+        }
+    },
+    "share": {
+        "is_contained_in": "Міститься у"
+    },
+    "snackbar": {
+        "error": "Щось пішло не так, спробуйте ще раз",
+        "expiration": {
+            "action": "Перейти на сторінку входу",
+            "tenMinutes": "Ваша сесія завершиться за 10 хвилин. Після цього Вас спрямує на сторінку входу.",
+            "threeMinutes": "Ваша сесія завершиться за 3 хвилини. Після цього Вас спрямує на сторінку входу.",
+            "oneMinute_one": "Ваша сесія завершиться за {{count}} секунду. Після цього Вас спрямує на сторінку входу.",
+            "oneMinute_few": "Ваша сесія завершиться за {{count}} секунди. Після цього Вас спрямує на сторінку входу.",
+            "oneMinute_many": "Ваша сесія завершиться за {{count}} секунд. Після цього Вас спрямує на сторінку входу."
+        }
+    },
+    "timezone": {
+        "africa_algiers": "{{value}} Західна Центральна Африка",
+        "africa_casablanca": "{{value}} Касабланка",
+        "africa_harare": "{{value}} Хараре, Преторія",
+        "africa_juba": "{{value}} Джуба",
+        "africa_khartoum": "{{value}} Хартум",
+        "africa_monrovia": "{{value}} Монровія",
+        "africa_nairobi": "{{value}} Найробі",
+        "africa_sao_tome": "{{value}} Сан-Томе",
+        "america_grand_turk": "{{value}} Острови Теркс і Кайкос",
+        "america_guyana": "{{value}} Джорджтаун, Ла-Пас, Манаус, Сан-Хуан",
+        "america_havana": "{{value}} Гавана",
+        "america_indiana_indianapolis": "{{value}} Індіана (Схід)",
+        "america_santiago": "{{value}} Тихоокеанська Південна Америка",
+        "america_sao_paulo": "{{value}} Бразилія",
+        "asia_amman": "{{value}} Йорданія",
+        "asia_baghdad": "{{value}} Ірак",
+        "asia_bangkok": "{{value}} Бангкок, Ханой, Джакарта",
+        "asia_barnaul": "{{value}} Барнаул",
+        "asia_baku": "{{value}} Баку",
+        "asia_chita": "{{value}} Чита",
+        "asia_dhaka": "{{value}} Дакка",
+        "asia_gaza": "{{value}} Газа",
+        "asia_damascus": "{{value}} Дамаск",
+        "asia_hong_kong": "{{value}} Пекін, Чунцин, Гонконг, Урумчі",
+        "asia_muscat": "{{value}} Абу-Дабі, Маскат",
+        "asia_novosibirsk": "{{value}} Новосибірськ",
+        "asia_omsk": "{{value}} Омськ",
+        "asia_taipei": "{{value}} Тайбей",
+        "asia_tehran": "{{value}} Тегеран",
+        "asia_tbilisi": "{{value}} Тбілісі",
+        "asia_tokyo": "{{value}} Японія",
+        "asia_yangon": "{{value}} Янгон",
+        "atlantic_cape_verde": "{{value}} Острови Кабо-Верде.",
+        "australia_perth": "{{value}} Перт",
+        "australia_sydney": "{{value}} Канберра, Мельбурн, Сідней",
+        "europe_astrakhan": "{{value}} Астрахань",
+        "europe_belgrade": "{{value}} Белград, Братислава, Будапешт, Любляна, Прага",
+        "europe_athens": "{{value}} Афіни, Бейрут, Бухарест, Стамбул",
+        "europe_moscow": "{{value}} Москва, Санкт-Петербург, Волгоград",
+        "europe_minsk": "{{value}} Мінськ",
+        "europe_saratov": "{{value}} Саратов",
+        "europe_volgograd": "{{value}} Волгоград",
+        "pacific_bougainville": "{{value}} Стандартний час Бугенвіля",
+        "pacific_chatham": "{{value}} Чатем",
+        "pacific_easter": "{{value}} Острів Пасхи",
+        "pacific_fiji": "{{value}} Фіджі",
+        "pacific_kiritimati": "{{value}} Острів Кірітіматі",
+        "pacific_marquesas": "{{value}} Маркізи",
+        "pacific_midway": "{{value}} Самоа",
+        "pacific_tongatapu": "{{value}} Нуку'алофа",
+        "pacific_norfolk": "{{value}} Норфолк",
+        "utc": "{{value}} Всесвітній координований час",
+        "africa_cairo": "{{value}} Єгипет",
+        "america_adak": "{{value}} Адак",
+        "america_guatemala": "{{value}} Центральна Америка",
+        "america_halifax": "{{value}} Атлантичний час (Канада)",
+        "america_los_angeles": "{{value}} США/Канада, Тихоокеанський",
+        "africa_tripoli": "{{value}} Триполі",
+        "asia_beirut": "{{value}} Бейрут",
+        "asia_hovd": "{{value}} Ховд",
+        "asia_kuala_lumpur": "{{value}} Куала-Лумпур",
+        "asia_kuwait": "{{value}} Кувейт, Ер-Ріяд",
+        "asia_magadan": "{{value}} Магадан",
+        "asia_pyongyang": "{{value}} Пхеньян",
+        "asia_qyzylorda": "{{value}} Кизилорда",
+        "asia_seoul": "{{value}} Корея",
+        "asia_sakhalin": "{{value}} Сахалін",
+        "asia_singapore": "{{value}} Сінгапур",
+        "asia_srednekolymsk": "{{value}} Чокурдах",
+        "asia_tashkent": "{{value}} Ташкент",
+        "asia_tomsk": "{{value}} Томськ",
+        "asia_ulaanbaatar": "{{value}} Улан-Батор",
+        "asia_vladivostok": "{{value}} Хайшеньвей, Магадан",
+        "asia_yakutsk": "{{value}} Якутськ",
+        "asia_yekaterinburg": "{{value}} Єкатеринбург",
+        "asia_yerevan": "{{value}} Єреван",
+        "atlantic_azores": "{{value}} Азорські острови",
+        "australia_darwin": "{{value}} Дарвін",
+        "australia_eucla": "{{value}} Юкла",
+        "australia_hobart": "{{value}} Гобарт",
+        "australia_lord_howe": "{{value}} Лорд_Хоу",
+        "etc_gmt+12": "{{value}} Dateline",
+        "europe_berlin": "{{value}} Амстердам, Берлін, Берн, Рим, Стокгольм, Відень",
+        "europe_brussels": "{{value}} Брюссель, Копенгаген, Мадрид, Париж",
+        "europe_bucharest": "{{value}} Бухарест",
+        "europe_chisinau": "{{value}} Кишинів",
+        "europe_helsinki": "{{value}} Гельсінкі, Київ, Рига, Софія, Таллінн, Вільнюс",
+        "europe_istanbul": "{{value}} Стамбул",
+        "europe_kaliningrad": "{{value}} Кенігсберг",
+        "europe_london": "{{value}} Велика Британія, Ірландія, Португалія",
+        "europe_samara": "{{value}} Іжевськ, Самара",
+        "europe_warsaw": "{{value}} Сараєво, Скоп'є, Варшава, Загреб",
+        "indian_mauritius": "{{value}} Порт-Луї",
+        "pacific_apia": "{{value}} Самоа",
+        "pacific_auckland": "{{value}} Нова Зеландія",
+        "america_port-au-prince": "{{value}} Порт-о-Пренс",
+        "america_punta_arenas": "{{value}} Пунта-Аренас",
+        "america_regina": "{{value}} Саскачеван",
+        "america_tijuana": "{{value}} Нижня Каліфорнія",
+        "america_whitehorse": "{{value}} Юкон",
+        "asia_almaty": "{{value}} Астана",
+        "pacific_guadalcanal": "{{value}} Соломонові острови / Нова Каледонія",
+        "asia_jerusalem": "{{value}} Єрусалим",
+        "asia_kabul": "{{value}} Кабул",
+        "asia_karachi": "{{value}} Ісламабад, Карачі",
+        "asia_kathmandu": "Катманду {{value}}",
+        "asia_kolkata": "{{value}} Ченнаї, Калькутта, Мумбаї, Нью-Делі",
+        "asia_krasnoyarsk": "{{value}} Красноярськ",
+        "america_asuncion": "{{value}} Асунсьйон",
+        "america_bahia": "{{value}} Сальвадор",
+        "america_anchorage": "{{value}} Аляска",
+        "america_araguaina": "{{value}} Арагуаіна",
+        "america_argentina_buenos_aires": "{{value}} Аргентина",
+        "america_chihuahua": "{{value}} Чіуауа, Ла-Пас, Масатлан",
+        "america_cuiaba": "{{value}} Куяба",
+        "america_fort_nelson": "{{value}} Форт Нельсон",
+        "america_denver": "{{value}} США/Канада, Гори",
+        "america_chicago": "{{value}} США/Канада, Центр",
+        "america_bogota": "{{value}} Колумбія",
+        "america_cancun": "{{value}} Канкун, Четумаль",
+        "america_caracas": "{{value}} Каракас",
+        "america_cayenne": "{{value}} Каєнна, Форталеза",
+        "america_miquelon": "{{value}} Мікелон",
+        "america_montevideo": "{{value}} Монтевідео",
+        "america_new_york": "{{value}} США/Канада Схід",
+        "america_phoenix": "{{value}} Аризона",
+        "america_mexico_city": "{{value}} Гвадалахара, Мехіко, Монтеррей",
+        "america_st_johns": "{{value}} Ньюфаундленд",
+        "australia_adelaide": "{{value}} Аделаїда",
+        "australia_brisbane": "{{value}} Брісбен",
+        "atlantic_south_georgia": "{{value}} Середньо-Атлантичний",
+        "pacific_honolulu": "{{value}} Гаваї",
+        "africa_windhoek": "{{value}} Намібія",
+        "asia_colombo": "{{value}} Шрі-Джаяварденепура-Котте",
+        "asia_irkutsk": "{{value}} Іркутськ",
+        "asia_kamchatka": "{{value}} Анадир, Петропавловськ-Камчатський",
+        "pacific_guam": "{{value}} Гуам, Порт-Морсбі"
+    },
+    "user_quota": {
+        "limited": "{{used}} з {{limit}} використано",
+        "space_full": "Схоже, увесь доступний простір заповнено",
+        "title": "Квота користувача",
+        "unlimited": "{{used}} з необмеженого простору"
+    },
+    "size": {
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_MB": "MB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_YB": "YB"
     }
 }
