@@ -159,7 +159,8 @@
         "choose_account": "Hesap seç",
         "choose_folder": "Klasör seç",
         "delegates": "Temsilciler",
-        "delete": "Sil",
+        "delete_one": "Sil",
+        "delete_other": "Sil",
         "delete_after_download": "İndirildikten sonra mesajları sunucudan sil",
         "delete_permanently": "Kalıcı olarak sil",
         "documentation": "Yardımcı belgeler",
@@ -433,5 +434,16 @@
                 "body": "İsteğiniz işlenirken bazı teknik sorunlar oluştu. Lütfen sayfayı yeniden yüklemeyi deneyin veya kullanıcı giriş sayfasına geri gidin."
             }
         }
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_YB": "YB"
     }
 }
