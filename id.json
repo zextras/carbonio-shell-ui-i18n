@@ -34,7 +34,6 @@
             "status": {
                 "busy": "Sibuk"
             },
-            "do_not_send_auto_replies": "Jangan kirim balasan otomatis",
             "external_senders": {
                 "do_not_send_to_external": "Jangan kirim pesan balasan otomatis ke pengirim eksternal",
                 "send_standard_auto_reply": "Kirim pesan balasan otomatis standar",
