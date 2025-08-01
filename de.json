@@ -52,7 +52,6 @@
             "status": {
                 "busy": "Beschäftigt"
             },
-            "do_not_send_auto_replies": "Keine automatischen Antworten senden",
             "external_senders": {
                 "do_not_send_to_external": "Keine automatische Antwortnachricht an externen Absender senden",
                 "send_custom_in_organisation": "Benutzerdefinierte Nachricht an Personen senden, die nicht zu meinem Unternehmen gehören",
