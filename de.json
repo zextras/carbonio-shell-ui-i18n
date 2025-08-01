@@ -63,8 +63,7 @@
                 "create_appointment": "Kalendertermin",
                 "settings_label": "Abwesenheitseinstellungen",
                 "time_period": "Zeitraum"
-            },
-            "send_auto_replies": "Automatische Antworten senden"
+            }
         },
         "timezone_and_language": "Zeitzone und Sprache",
         "accounts": "Konten",
