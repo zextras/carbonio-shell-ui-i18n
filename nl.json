@@ -46,8 +46,7 @@
                 "create_appointment": "Agenda Afspraak",
                 "settings_label": "Instellingen \"Niet op kantoor\"",
                 "time_period": "Tijdsperiode"
-            },
-            "send_auto_replies": "Automatisch antwoorden sturen"
+            }
         },
         "app": "Instellingen",
         "button": {
