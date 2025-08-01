@@ -136,7 +136,6 @@
             "privacy": "الخصوصية"
         },
         "out_of_office": {
-            "do_not_send_auto_replies": "لا ترسل ردودًا تلقائية",
             "external_senders": {
                 "do_not_send_to_external": "لا ترسل رسالة رد تلقائي إلى مرسل خارجي",
                 "send_custom_in_organisation": "إرسال رسالة مخصصة إلى الأشخاص غير الموجودين في مؤسستي",
