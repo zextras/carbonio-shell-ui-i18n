@@ -40,7 +40,6 @@
                 "send_custom_not_in_organisation": "Enviar un mensaje personalizado a quienes no trabajan en mi organización ni están en mi libreta de direcciones",
                 "send_standard_auto_reply": "Enviar mensaje de respuesta automática estándar"
             },
-            "do_not_send_auto_replies": "No enviar respuestas automáticas",
             "headings": {
                 "create_appointment": "Evento del calendario",
                 "settings_label": "Respuestas automáticas",
