@@ -233,7 +233,6 @@
             "status": {
                 "busy": "Zauzet"
             },
-            "do_not_send_auto_replies": "Nemoj slati automatske odgovore",
             "headings": {
                 "create_appointment": "Zakazivanje u kalendaru",
                 "settings_label": "Postavke statusa izvan ureda",
