@@ -52,7 +52,6 @@
             "status": {
                 "busy": "व्यस्त"
             },
-            "do_not_send_auto_replies": "ऑटो-रिप्लाई न भेजें",
             "external_senders": {
                 "do_not_send_to_external": "बाहरी भेजने वाले को कोई ऑटो-रिप्लाई मैसेज न भेजें",
                 "send_custom_in_organisation": "जो मेरी कंपनी में नहीं है उनके लिए कस्टम मैसेज भेजें",
