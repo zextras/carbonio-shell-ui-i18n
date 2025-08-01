@@ -45,8 +45,7 @@
                 "create_appointment": "カレンダーの予定",
                 "settings_label": "不在時の設定",
                 "time_period": "期間"
-            },
-            "send_auto_replies": "自動返信する"
+            }
         },
         "app": "設定",
         "button": {
