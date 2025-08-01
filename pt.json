@@ -39,7 +39,6 @@
             "status": {
                 "busy": "Ocupado"
             },
-            "do_not_send_auto_replies": "Não enviar respostas automáticas",
             "external_senders": {
                 "do_not_send_to_external": "Não enviar a remetentes externos",
                 "send_standard_auto_reply": "Enviar mensagem padrão",
