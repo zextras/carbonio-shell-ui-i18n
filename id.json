@@ -45,8 +45,7 @@
                 "settings_label": "Pengaturan di Luar Kantor",
                 "time_period": "Jangka Waktu",
                 "create_appointment": "Janji Temu Kalender"
-            },
-            "send_auto_replies": "Kirim balasan otomatis"
+            }
         },
         "app": "Pengaturan",
         "button": {
