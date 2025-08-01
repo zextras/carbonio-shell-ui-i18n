@@ -50,8 +50,7 @@
                 "create_appointment": "Compromisso do calendário",
                 "settings_label": "Respostas automáticas",
                 "time_period": "Período"
-            },
-            "send_auto_replies": "Enviar respostas automáticas"
+            }
         },
         "general": {
             "account": "Conta",
