@@ -45,8 +45,7 @@
                 "create_appointment": "Evento del calendario",
                 "settings_label": "Respuestas automáticas",
                 "time_period": "Período"
-            },
-            "send_auto_replies": "Enviar respuestas automáticas"
+            }
         },
         "app": "Ajustes",
         "button": {
