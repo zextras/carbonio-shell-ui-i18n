@@ -244,7 +244,6 @@
         },
         "general_tab": "General",
         "out_of_office": {
-            "do_not_send_auto_replies": "Do not send auto-replies",
             "external_senders": {
                 "do_not_send_to_external": "Don't send an auto-reply message to external sender",
                 "send_custom_in_organisation": "Send custom message to those who are not in my organization",
