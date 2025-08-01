@@ -63,8 +63,7 @@
                 "create_appointment": "कैलेंडर एपॉइंटमेंट",
                 "settings_label": "आउट ऑफ ऑफिस सेटिंग्स",
                 "time_period": "समय अवधि"
-            },
-            "send_auto_replies": "ऑटो-रिप्लाई भेजें"
+            }
         },
         "timezone_and_language": "टाइम ज़ोन और भाषा",
         "accounts": "अकाउंट",
