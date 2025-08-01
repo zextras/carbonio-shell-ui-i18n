@@ -157,7 +157,6 @@
             "privacy": "Adatvédelem"
         },
         "out_of_office": {
-            "do_not_send_auto_replies": "Ne küldjön automatikus választ",
             "external_senders": {
                 "send_custom_in_organisation": "Egyéni üzenet küldése azoknak, akik nem tagjai a szervezetemnek",
                 "do_not_send_to_external": "Külső feladóknak ne küldjön automatikus válaszüzenetet",
