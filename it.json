@@ -219,7 +219,8 @@
         "add_inline_image": "Aggiungi immagine inline",
         "select_image": "Seleziona immagine",
         "cannot_save_changes": "Alcune modifiche non possono essere salvate",
-        "close": "Chiudi"
+        "close": "Chiudi",
+        "senderslist_numentries": "{{count}} di {{max}}"
     },
     "locale": {
         "English": "Inglese",
