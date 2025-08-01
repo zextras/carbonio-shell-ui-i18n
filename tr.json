@@ -51,7 +51,6 @@
                 "send_custom_not_in_organisation": "Benim organizasyonumda ve adres defterimde olmayanlara özel mesaj gönder",
                 "send_standard_auto_reply": "Standart otomatik yanıt mesajı gönder"
             },
-            "do_not_send_auto_replies": "Otomatik yanıtları gönderme",
             "headings": {
                 "create_appointment": "Takvim Randevusu",
                 "settings_label": "Ofis Dışında Ayarları",
