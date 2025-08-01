@@ -110,7 +110,6 @@
                 "start_date": "Башталган дата",
                 "start_time": "Башталган дата:"
             },
-            "do_not_send_auto_replies": "Авто жоопторду жөнөтпөңүз",
             "external_senders": {
                 "send_custom_in_organisation": "Кызматкер эмес адамдарга ыңгайлаштырылган билдирүү жөнөтүңүз",
                 "do_not_send_to_external": "Тышкы жөнөтүүчүгө авто-жоопту жөнөтпөңүз",
