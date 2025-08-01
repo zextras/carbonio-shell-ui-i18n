@@ -36,7 +36,6 @@
         "app": "Настройки",
         "general_tab": "Основные настройки",
         "out_of_office": {
-            "do_not_send_auto_replies": "Не отправлять автоответы",
             "external_senders": {
                 "do_not_send_to_external": "Не отправлять автоответ внешнему отправителю",
                 "send_custom_in_organisation": "Отправить настраиваемое сообщение тем, кто кто не является сотрудником",
