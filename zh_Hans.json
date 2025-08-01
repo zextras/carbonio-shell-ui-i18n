@@ -39,7 +39,6 @@
             "status": {
                 "busy": "忙碌"
             },
-            "do_not_send_auto_replies": "不发送自动回复",
             "external_senders": {
                 "do_not_send_to_external": "不要向外部发送者发送自动回复消息",
                 "send_custom_in_organisation": "向不在我组织中的人发送自定义消息",
