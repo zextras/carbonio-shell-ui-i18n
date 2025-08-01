@@ -124,7 +124,13 @@
         "use_personas_line2": "For example, if you sometimes send e-mails in a particular role at work, create a persona for that.",
         "use_ssl": "Use an encrypter connection (SSL) when accessing this server",
         "when_composing": "When composing, replying to or forwarding messages in folder(s):",
-        "when_replying": "When replying or forwarding messages sent to:"
+        "when_replying": "When replying or forwarding messages sent to:",
+        "settings": {
+            "textArea": {
+                "errorDescription": "You've exceeded the character limit. Please shorten your text."
+            }
+        },
+        "send_auto_reply": "Send auto-reply"
     },
     "locale": {
         "English": "English",
