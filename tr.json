@@ -70,7 +70,6 @@
                 "start_date": "Başlangıç Tarihi",
                 "start_time": "Başlama Zamanı:"
             },
-            "send_auto_replies": "Otomatik yanıtlar gönder",
             "status": {
                 "busy": "Meşgul"
             }
