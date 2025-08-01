@@ -45,8 +45,7 @@
                 "create_appointment": "ปฏิทินการนัดหมาย",
                 "settings_label": "การตั้งค่าเมื่อไม่อยู่ที่สำนักงาน",
                 "time_period": "ระยะเวลา"
-            },
-            "send_auto_replies": "ส่งการตอบกลับอัตโนมัติ"
+            }
         },
         "app": "การตั้งค่า",
         "button": {
