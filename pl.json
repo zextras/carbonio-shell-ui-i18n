@@ -57,7 +57,6 @@
                 "settings_label": "Powiadomienie o nieobecności",
                 "time_period": "Okres czasu"
             },
-            "send_auto_replies": "Wysyłaj automatyczne odpowiedzi",
             "status": {
                 "busy": "Zajęty"
             }
