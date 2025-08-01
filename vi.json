@@ -174,7 +174,6 @@
                 "auto_reply_message": "Thư trả lời tự động:",
                 "auto_reply_message_external": "Thư trả lời tự động gửi cho người gửi bên ngoài:"
             },
-            "send_auto_replies": "Gửi trả lời tự động",
             "status": {
                 "busy": "Bận"
             },
