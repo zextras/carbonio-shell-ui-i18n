@@ -45,7 +45,6 @@
                 "out_of_office_status": "Status Poza biurem:",
                 "send_auto_reply_period": "Wysyłaj automatyczne odpowiedzi w następującym okresie:"
             },
-            "do_not_send_auto_replies": "Nie wysyłaj automatycznych odpowiedzi",
             "external_senders": {
                 "do_not_send_to_external": "Nie wysyłaj automatycznych odpowiedzi do nadawców spoza mojej domeny",
                 "send_custom_in_organisation": "Wyślij niestandardową wiadomość do użytkowników spoza mojej organizacji",
