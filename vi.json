@@ -187,8 +187,7 @@
                 "create_appointment": "Lịch hẹn",
                 "settings_label": "Các cài đặt Ở ngoài văn phòng",
                 "time_period": "Khoảng thời gian"
-            },
-            "do_not_send_auto_replies": "Không gửi trả lời tự động"
+            }
         },
         "search_settings": {
             "labels": {
