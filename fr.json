@@ -159,8 +159,7 @@
                 "create_appointment": "Rendez-vous du calendrier",
                 "settings_label": "Paramètres d'absence du bureau",
                 "time_period": "Période de temps"
-            },
-            "send_auto_replies": "Envoyer des réponses automatiques"
+            }
         },
         "timezone_and_language": "Langue",
         "search_settings": {
