@@ -154,7 +154,6 @@
             "status": {
                 "busy": "Occupé"
             },
-            "do_not_send_auto_replies": "Ne pas envoyer de réponses automatiques",
             "headings": {
                 "create_appointment": "Rendez-vous du calendrier",
                 "settings_label": "Paramètres d'absence du bureau",
