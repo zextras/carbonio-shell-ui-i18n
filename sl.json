@@ -210,7 +210,6 @@
         },
         "general_tab": "Splošno",
         "out_of_office": {
-            "do_not_send_auto_replies": "Ne pošiljaj samodejnih odgovorov",
             "external_senders": {
                 "send_custom_in_organisation": "Pošlji prilagojeno sporočilo tistim, ki niso v moji organizaciji",
                 "send_custom_not_in_organisation": "Pošlji prilagojeno sporočilo tistim, ki niso v moji organizaciji in imeniku",
