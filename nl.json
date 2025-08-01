@@ -35,7 +35,6 @@
             "status": {
                 "busy": "Bezet"
             },
-            "do_not_send_auto_replies": "Geen automatische antwoorden sturen",
             "external_senders": {
                 "do_not_send_to_external": "Geen auto-antwoord bericht naar externe afzender sturen",
                 "send_custom_not_in_organisation": "Stuur een bericht naar degenen die niet in mijn organisatie en adresboek staan",
