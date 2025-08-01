@@ -269,7 +269,6 @@
                 "start_date": "Start Date",
                 "start_time": "Start Time:"
             },
-            "send_auto_replies": "Send auto-replies",
             "status": {
                 "busy": "Busy"
             }
