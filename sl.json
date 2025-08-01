@@ -235,7 +235,6 @@
                 "start_date": "Začetni datum",
                 "start_time": "Začetni čas:"
             },
-            "send_auto_replies": "Pošlji samodejne odgovore",
             "status": {
                 "busy": "Zaseden"
             }
