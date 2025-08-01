@@ -34,7 +34,6 @@
             "status": {
                 "busy": "ไม่ว่าง"
             },
-            "do_not_send_auto_replies": "อย่าส่งการตอบกลับอัตโนมัติ",
             "external_senders": {
                 "do_not_send_to_external": "อย่าส่งข้อความตอบกลับอัตโนมัติไปยังผู้ส่งภายนอก",
                 "send_custom_in_organisation": "ส่งข้อความที่กำหนดเองถึงผู้ที่ไม่ได้อยู่ในองค์กรของฉัน",
