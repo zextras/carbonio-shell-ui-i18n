@@ -50,8 +50,7 @@
                 "create_appointment": "日历预约",
                 "settings_label": "不在办公室设置",
                 "time_period": "时间段"
-            },
-            "send_auto_replies": "发送自动回复"
+            }
         },
         "general": {
             "account": "账户",
