@@ -238,8 +238,7 @@
                 "create_appointment": "Zakazivanje u kalendaru",
                 "settings_label": "Postavke statusa izvan ureda",
                 "time_period": "Vremenski period"
-            },
-            "send_auto_replies": "Šalji automatske odgovore"
+            }
         },
         "search_settings": {
             "labels": {
