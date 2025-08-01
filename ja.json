@@ -34,7 +34,6 @@
             "status": {
                 "busy": "予定あり"
             },
-            "do_not_send_auto_replies": "自動返信しない",
             "external_senders": {
                 "do_not_send_to_external": "自動返信メッセージを外部の送信者に送信しない",
                 "send_custom_not_in_organisation": "組織とアドレス帳以外の人にカスタムメッセージを送信する",
