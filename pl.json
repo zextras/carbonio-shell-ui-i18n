@@ -181,7 +181,14 @@
         "add_inline_image": "Dodaj obraz w tekście",
         "select_image": "Wybierz obraz",
         "cannot_save_changes": "Nie udało się zapisać niektórych zmian",
-        "close": "Zamknij"
+        "close": "Zamknij",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Przekroczono limit znaków. Skróć Twój tekst."
+            }
+        },
+        "send_auto_reply": "Wysyłaj automatyczną odpowiedź",
+        "senderslist_numentries": "{{count}} z {{max}}"
     },
     "board": {
         "close_tab": "Zamknij kartę",
