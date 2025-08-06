@@ -123,7 +123,14 @@
         "add_recovery_email": "Dodaj e-mail za oporavak",
         "password": "Lozinka",
         "persona": "Osoba",
-        "settings_sent_messages": "Postavke poslanih poruka"
+        "settings_sent_messages": "Postavke poslanih poruka",
+        "senderslist_numentries": "{{count}} od {{max}}",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Premašili ste ograničenje znakova. Skratite tekst."
+            }
+        },
+        "send_auto_reply": "Automatski odgovor"
     },
     "locale": {
         "label_polish": "Poljski - {{value}}",
