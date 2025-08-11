@@ -205,7 +205,14 @@
         "add_inline_image": "Добавить встроенное изображение",
         "select_image": "Выбрать изображение",
         "cannot_save_changes": "Некоторые изменения не могут быть сохранены",
-        "close": "Закрыть"
+        "close": "Закрыть",
+        "senderslist_numentries": "{{count}} из {{max}}",
+        "send_auto_reply": "Отправить автоответ",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Вы превысили лимит символов. Пожалуйста, сократите текст."
+            }
+        }
     },
     "board": {
         "close_tab": "Закрыть вкладку",
