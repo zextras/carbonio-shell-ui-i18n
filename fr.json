@@ -84,7 +84,14 @@
         "add_inline_image": "Ajouter une image dans le texte",
         "select_image": "Sélectionner un image",
         "cannot_save_changes": "Certaines modifications ne peuvent pas être enregistrées",
-        "close": "Fermer"
+        "close": "Fermer",
+        "senderslist_numentries": "{{count}} sur {{max}}",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Vous avez atteint la nombre maximum de caractères. Veuillez raccourcir votre texte."
+            }
+        },
+        "send_auto_reply": "Envoyer une réponse automatique"
     },
     "message": {
         "snackbar": {
