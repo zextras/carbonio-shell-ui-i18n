@@ -455,5 +455,12 @@
     },
     "search": {
         "app": "Cerca"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Sei rimasto inattivo per un po'. Verrai disconnesso a breve per motivi di sicurezza. Premi un tasto qualsiasi o clicca ovunque per rimanere connesso.",
+            "title": "Avviso di inattività",
+            "confirmLabel": "Rimani connesso"
+        }
     }
 }
