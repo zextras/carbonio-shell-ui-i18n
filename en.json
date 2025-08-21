@@ -457,5 +457,12 @@
     },
     "search": {
         "app": "Search"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "You've been inactive for a while. You'll be logged out soon for security reasons. Press any key or click anywhere to stay logged in.",
+            "title": "Inactivity warning",
+            "confirmLabel": "Stay logged in"
+        }
     }
 }
