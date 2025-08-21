@@ -427,7 +427,7 @@
         "permanent_delete_body": "Si vous supprimez définitivement cette identité, vous ne pourrez pas la récupérer. Continuer ?"
     },
     "share": {
-        "is_contained_in": "Dans le dossier"
+        "is_contained_in": "Est contenu dans"
     },
     "passwords_recovery_settings": {
         "title": "Paramètres du compte de récupération de mot de passe"
@@ -458,5 +458,12 @@
     },
     "search": {
         "app": "Recherche"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Vous êtes inactif depuis un certain temps. Pour des raisons de sécurité, vous allez bientôt être déconnecté. Appuyez sur n'importe quelle touche ou cliquez n'importe où pour rester connecté.",
+            "confirmLabel": "Rester connecté",
+            "title": "Avertissement d'inactivité"
+        }
     }
 }
