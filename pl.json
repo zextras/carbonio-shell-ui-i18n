@@ -458,5 +458,12 @@
     },
     "search": {
         "app": "Wyszukaj"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Przez chwilę byłeś nieaktywny. Zostaniesz za niedługo wylogowany z powodów bezpieczeństwa. Naciśnij dowolny klawisz lub kliknij gdziekolwiek, aby pozostać zalogowanym.",
+            "title": "Ostrzeżenie o braku aktywności",
+            "confirmLabel": "Pozostań zalogowany"
+        }
     }
 }
