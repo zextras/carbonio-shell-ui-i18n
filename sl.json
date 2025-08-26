@@ -463,7 +463,7 @@
     "idleTimeout": {
         "modal": {
             "content": "Bili ste neaktivni nekaj časa. Kmalu boste odjavljeni iz varnostnih razlogov. Pritisnite katero koli tipko ali kliknite kjer koli, da ostanete prijavljeni.",
-            "title": "Opozorilo za neaktivnost",
+            "title": "Opozorilo neaktivnosti",
             "confirmLabel": "Ostani prijavljen"
         }
     }
