@@ -87,7 +87,7 @@
         "select_image": "Izberi sliko",
         "settings": {
             "textArea": {
-                "errorDescription": "Ste presegli limit znakov. Krajšajte svoj tekst."
+                "errorDescription": "Presegli ste limit števila znakov. Prosimo, skrajšajte svoj tekst."
             }
         },
         "send_auto_reply": "Pošlji avtomatski odgovor",
