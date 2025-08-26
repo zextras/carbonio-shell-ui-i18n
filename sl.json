@@ -462,7 +462,7 @@
     },
     "idleTimeout": {
         "modal": {
-            "content": "Ste boste neaktiven za nekaj časa. Boste kmalu odjavljeni iz varnostnih razlogov. Prislonite katero koli tipko ali kliknite kjer koli, da ostanejo prijavljeni."
+            "content": "Bili ste neaktivni nekaj časa. Kmalu boste odjavljeni iz varnostnih razlogov. Pritisnite katero koli tipko ali kliknite kjer koli, da ostanete prijavljeni."
         }
     }
 }
