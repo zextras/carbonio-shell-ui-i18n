@@ -84,7 +84,12 @@
         "close": "Zapri",
         "documentation": "Dokumentacija",
         "folder_external_account": "Mapa: Novi zunanji račun",
-        "select_image": "Izberi sliko"
+        "select_image": "Izberi sliko",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Ste presegli limit znakov. Krajšajte svoj tekst."
+            }
+        }
     },
     "message": {
         "snackbar": {
