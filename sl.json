@@ -89,7 +89,9 @@
             "textArea": {
                 "errorDescription": "Ste presegli limit znakov. Krajšajte svoj tekst."
             }
-        }
+        },
+        "send_auto_reply": "Pošlji avtomatski odgovor",
+        "senderslist_numentries": "{{count}} od {{max}}"
     },
     "message": {
         "snackbar": {
@@ -457,5 +459,10 @@
         "unitMeasure_TB": "TB",
         "unitMeasure_YB": "YB",
         "unitMeasure_PB": "PB"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Ste boste neaktiven za nekaj časa. Boste kmalu odjavljeni iz varnostnih razlogov. Prislonite katero koli tipko ali kliknite kjer koli, da ostanejo prijavljeni."
+        }
     }
 }
