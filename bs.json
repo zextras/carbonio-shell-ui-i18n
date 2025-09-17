@@ -124,7 +124,6 @@
         "password": "Lozinka",
         "persona": "Osoba",
         "settings_sent_messages": "Postavke poslanih poruka",
-        "senderslist_numentries": "{{count}} od {{max}}",
         "settings": {
             "textArea": {
                 "errorDescription": "Premašili ste ograničenje znakova. Skratite tekst."
