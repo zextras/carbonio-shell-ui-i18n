@@ -187,8 +187,7 @@
                 "errorDescription": "Przekroczono limit znaków. Skróć Twój tekst."
             }
         },
-        "send_auto_reply": "Wysyłaj automatyczną odpowiedź",
-        "senderslist_numentries": "{{count}} z {{max}}"
+        "send_auto_reply": "Wysyłaj automatyczną odpowiedź"
     },
     "board": {
         "close_tab": "Zamknij kartę",
