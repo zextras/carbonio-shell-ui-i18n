@@ -129,8 +129,7 @@
                 "errorDescription": "You've exceeded the character limit. Please shorten your text."
             }
         },
-        "send_auto_reply": "Send auto-reply",
-        "senderslist_numentries": "{{count}} of {{max}}"
+        "send_auto_reply": "Send auto-reply"
     },
     "locale": {
         "English": "English",
