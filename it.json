@@ -217,7 +217,6 @@
         "select_image": "Seleziona immagine",
         "cannot_save_changes": "Alcune modifiche non possono essere salvate",
         "close": "Chiudi",
-        "senderslist_numentries": "{{count}} di {{max}}",
         "send_auto_reply": "Invia risposta automatica",
         "settings": {
             "textArea": {
