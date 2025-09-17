@@ -90,8 +90,7 @@
                 "errorDescription": "Presegli ste limit števila znakov. Prosimo, skrajšajte svoj tekst."
             }
         },
-        "send_auto_reply": "Pošlji avtomatski odgovor",
-        "senderslist_numentries": "{{count}} od {{max}}"
+        "send_auto_reply": "Pošlji avtomatski odgovor"
     },
     "message": {
         "snackbar": {
