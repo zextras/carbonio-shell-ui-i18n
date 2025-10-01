@@ -5,9 +5,9 @@
             "enabled": "Povratak na zadani položaj i veličinu",
             "disabled": "Tabla je već na zadanoj poziciji"
         },
-        "close_tabs": "Zatvorite sve svoje kartice",
+        "close_tabs": "Zatvori sve kartice",
         "enlarge": "Povećaj tablu",
-        "hide": "Sakrij ploču",
+        "hide": "Sakrij tablu",
         "close_tab": "Zatvori karticu",
         "open_app": "Otvori u aplikaciji",
         "reduce": "Smanji tablu",
