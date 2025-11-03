@@ -36,7 +36,7 @@
         "send": "POŠALJI",
         "user_interface": "Korisnički interfejs",
         "write_here": "Napiši povratnu informaciju",
-        "explanation": "Molimo Vas da nam pružite povratne informacije o Vašem novom iskustvu sa Zextras Serverom. Vaše mišljenje je jako važno za nas da poboljšamo naš proizvod. Recite nam Vaše mišljenje."
+        "explanation": "Molimo Vas da nam pružite povratne informacije o Vašem novom iskustvu sa Zextras Serverom. Vaše mišljenje je jako važno za nas da poboljšamo naš proizvod. Opišite nam Vaše razmišljanje."
     },
     "label": {
         "add_inline_image": "Dodaj sliku unutar teksta",
@@ -45,10 +45,10 @@
         "folder_external_account": "Mapa: Novi eksterni račun",
         "download_messages": "Preuzmi poruke na:",
         "select_image": "Odaberi sliku",
-        "edit_to_start_search": "Uredi pretragu i započni novu",
-        "save_both_folders": "Sačuvaj kopiju poslanih poruka u mapu Poslano i mapu Zaduženja",
-        "unsaved_changes_line1": "Jeste li sigurni da želite napustiti ovu stranicu bez spašavanja?",
-        "use_personas_line1": "Koristi osobe za brzu promijenu mnogih postavke prilikom slanja e-mail poruka.",
+        "edit_to_start_search": "Izmijeni kriterije pretrage i započni novu",
+        "save_both_folders": "Sačuvaj kopiju poslanih poruka u direktorij Poslano i dijeljeni direktorij",
+        "unsaved_changes_line1": "Jeste li sigurni da želite napustiti ovu stranicu bez pohranjivanja promjena?",
+        "use_personas_line1": "Koristi osobe za brzu promjenu mnogih postavki prilikom slanja e-mail poruka.",
         "use_personas_line2": "Na primjer, ako povremeno šalješ e-mail poruke u posebnoj ulozi na poslu, kreiraj korisnički račun za tu ulogu.",
         "use_ssl": "Koristi šifriranu konekciju (SSL) prilikom pristupa ovom serveru",
         "when_replying": "Za odgovaranje ili prosljeđivanje poruka poslanih na:",
@@ -65,7 +65,7 @@
         "delete_after_download": "Obriši poruke sa servera nakon preuzimanja",
         "delete_permanently": "Trajno obriši",
         "discard_changes": "ODBACI IZMJENE",
-        "dont_save": "Nemoj spašavati kopiju poslanih poruka",
+        "dont_save": "Nemoj pohranjivati kopiju poslanih poruka",
         "edit_permissions": "Uredi permisije",
         "email_address": "E-mail adresa",
         "email_server": "E-mail server (npr. “mail.example.com”)",
@@ -103,20 +103,20 @@
         "remove": "ukloni",
         "unsaved_changes": "Imate promjene koje nisu sačuvane",
         "use_persona": "Koristi ovu osobu",
-        "when_composing": "Prilikom sastavljanja, odgovaranja ili prosljeđivanja poruka u mapi/ama:",
+        "when_composing": "Prilikom sastavljanja, odgovaranja ili prosljeđivanja poruka u direktoriju(ima):",
         "recovery_email": "E-mail za oporavak",
         "unsaved_changes_line2": "Sve nesačuvane izmjene će se izgubiti",
         "passwords_recovery_settings": "Postavke računa za oporavak lozinke",
         "permanent_delete_title": "Da li ste sigurni da želite trajno obrisati ovu osobu?",
-        "reply_to_field_example": "npr. Mujo Mujić",
+        "reply_to_field_example": "npr. Aida Hadžić",
         "save_and_leave": "Sačuvaj i napusti",
-        "save_to_my_sent_folder": "Sačuvaj kopiju poslanih poruka u moju mapu Poslano",
+        "save_to_my_sent_folder": "Sačuvaj kopiju poslanih poruka u moj direktorij Poslano",
         "secondary": "Sekundarno",
         "set_reply_to_field": "Postavi \"Odgovori\" polje e-mail poruke na:",
         "test_settings": "Postavke testiranja",
         "time_zone": "Vremenska zona",
         "update_view": "Ažuriraj prikaz",
-        "save_delegate_folder": "Spremi kopiju poslanih poruka u dijeljenu mapu Poslano",
+        "save_delegate_folder": "Spremi kopiju poslanih poruka u dijeljeni direktorij Poslano",
         "feedback": "Povratne informacije",
         "external_account_settings": "Postavke eksternog računa",
         "accounts_list": "Lista računa",
@@ -126,7 +126,7 @@
         "settings_sent_messages": "Postavke poslanih poruka",
         "settings": {
             "textArea": {
-                "errorDescription": "Premašili ste ograničenje znakova. Skratite tekst."
+                "errorDescription": "Premašili ste ograničenje broja znakova. Molimo skratite tekst."
             }
         },
         "send_auto_reply": "Automatski odgovor"
