@@ -126,7 +126,7 @@
         "settings_sent_messages": "Postavke poslanih poruka",
         "settings": {
             "textArea": {
-                "errorDescription": "Premašili ste ograničenje broja znakova. Molimo skratite tekst."
+                "errorDescription": "Premašili ste ograničenje broja znakova. Skratite tekst."
             }
         },
         "send_auto_reply": "Automatski odgovor"
