@@ -129,7 +129,7 @@
                 "errorDescription": "Premašili ste ograničenje broja znakova. Molimo skratite tekst."
             }
         },
-        "send_auto_reply": "Automatski odgovor"
+        "send_auto_reply": "Pošalji automatski odgovor"
     },
     "locale": {
         "label_polish": "Poljski - {{value}}",
@@ -460,8 +460,8 @@
     "new": "Novo",
     "idleTimeout": {
         "modal": {
-            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koju tipku ili kliknite bilo gdje da ostanete prijavljeni.",
-            "title": "Upozorenje o neaktivnosti",
+            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koji taster ili kliknite bilo gde da ostanete prijavljeni.",
+            "title": "Upozorenje na neaktivnost",
             "confirmLabel": "Ostanite prijavljeni"
         }
     }
