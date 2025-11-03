@@ -126,7 +126,7 @@
         "settings_sent_messages": "Postavke poslanih poruka",
         "settings": {
             "textArea": {
-                "errorDescription": "Premašili ste ograničenje broja znakova. Skratite tekst."
+                "errorDescription": "Premašili ste ograničenje broja znakova. Molimo skratite tekst."
             }
         },
         "send_auto_reply": "Automatski odgovor"
@@ -192,7 +192,7 @@
                 "increase_disabled": "Dostignuta maksimalna veličina"
             },
             "option_l": "Veliko",
-            "option_m": "Srednji",
+            "option_m": "Srednje",
             "option_s": "Malo",
             "option_xl": "Ekstra veliko",
             "option_xs": "Ekstra malo"
@@ -224,7 +224,7 @@
             },
             "labels": {
                 "create_appointment": "Kreiraj sastanak:",
-                "out_of_office_status": "Status izvan ureda:",
+                "out_of_office_status": "Status odsustva iz kancelarije:",
                 "all_day": "Cijeli dan:",
                 "auto_reply_message": "Poruka automatskog odgovora:",
                 "auto_reply_message_external": "Automatska poruka za eksterne pošiljaoce:",
@@ -240,15 +240,15 @@
             },
             "headings": {
                 "create_appointment": "Zakazivanje u kalendaru",
-                "settings_label": "Postavke statusa izvan ureda",
+                "settings_label": "Postavke statusa odsustva iz kancelarije",
                 "time_period": "Vremenski period"
             }
         },
         "search_settings": {
             "labels": {
-                "include_search_in_trash_folder": "Uključi mapu Smeće u pretrage",
-                "include_search_in_spam_folder": "Uključi mapu Neželjena pošta u pretrage",
-                "include_search_in_shared_folder": "Uključi dijeljenju mapu u pretrage"
+                "include_search_in_trash_folder": "Uključi direktorij Otpad u pretrage",
+                "include_search_in_spam_folder": "Uključi direktorij Neželjena pošta u pretrage",
+                "include_search_in_shared_folder": "Uključi dijeljeni direktorij u pretrage"
             }
         },
         "timezone_and_language": "Jezik",
@@ -264,24 +264,24 @@
     "snackbar": {
         "expiration": {
             "action": "Idi na stranicu za prijavu",
-            "tenMinutes": "Trenutna sesija istiće za 10 minuta. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
-            "threeMinutes": "Trenutna sesija istiće za 3 minute. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
-            "oneMinute_one": "Trenutna sesija istiće za {{count}} sekundu. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
-            "oneMinute_few": "Trenutna sesija istiće za {{count}} sekundi. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
-            "oneMinute_other": "Trenutna sesija istiće za {{count}} sekundi. Nakon toga slijedi preusmjeravanje na stranicu za prijavu."
+            "tenMinutes": "Trenutna sesija ističe za 10 minuta. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
+            "threeMinutes": "Trenutna sesija ističe za 3 minute. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
+            "oneMinute_one": "Trenutna sesija ističe za {{count}} sekundu. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
+            "oneMinute_few": "Trenutna sesija ističe za {{count}} sekundi. Nakon toga slijedi preusmjeravanje na stranicu za prijavu.",
+            "oneMinute_other": "Trenutna sesija ističe za {{count}} sekundi. Nakon toga slijedi preusmjeravanje na stranicu za prijavu."
         },
         "error": "Došlo je do greške, pokušaj ponovo"
     },
     "message": {
-        "reload": "\tPotrebno ponovno učitavanje aplikacije za prikaz novog jezika? \n(U suprotnom, novi jezik će se pojaviti prilikom sljedeće prijave.)",
+        "reload": "\tŽelite li sada ponovo učitati aplikaciju kako bi se prikazao novi odabrani jezik? \n(U suprotnom, novi jezik će se pojaviti prilikom sljedeće prijave.)",
         "snackbar": {
             "identities_quota_exceeded": "Identitet nije mogao biti kreiran zbog prekoračenja kvote za kreiranje identiteta",
             "settings_saved": "Izmjene su ispravno sačuvane"
         }
     },
     "messages": {
-        "permanent_delete_body": "Brisanje ove osobe je trajno. Nastavi?",
-        "permanent_delete_title": "Izbriši trajno ovu stavku?"
+        "permanent_delete_body": "Ukoliko trajno obrišete ovu Osobu to se neće moći poništiti. Nastavi?",
+        "permanent_delete_title": "Jeste li siguni da želite trajno izbrisati ovu stavku?"
     },
     "search": {
         "app": "Pretraga"
@@ -457,10 +457,10 @@
         "title": "Korisnikova kvota",
         "unlimited": "{{used}} od neograničenog prostora"
     },
-    "new": "Novi",
+    "new": "Novo",
     "idleTimeout": {
         "modal": {
-            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koju tipku ili kliknite bilo gde da ostanete prijavljeni.",
+            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koju tipku ili kliknite bilo gdje da ostanete prijavljeni.",
             "title": "Upozorenje o neaktivnosti",
             "confirmLabel": "Ostanite prijavljeni"
         }
