@@ -108,7 +108,7 @@
         "unsaved_changes_line2": "Sve nesačuvane izmjene će se izgubiti",
         "passwords_recovery_settings": "Postavke računa za oporavak lozinke",
         "permanent_delete_title": "Da li ste sigurni da želite trajno obrisati ovu osobu?",
-        "reply_to_field_example": "npr. Aida Hadžić",
+        "reply_to_field_example": "npr. Sara Hadžić",
         "save_and_leave": "Sačuvaj i napusti",
         "save_to_my_sent_folder": "Sačuvaj kopiju poslanih poruka u moj direktorij Poslano",
         "secondary": "Sekundarno",
@@ -460,7 +460,7 @@
     "new": "Novo",
     "idleTimeout": {
         "modal": {
-            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koji taster ili kliknite bilo gde da ostanete prijavljeni.",
+            "content": "Bili ste neaktivni tokom dužeg perioda. Uskoro ćete biti odjavljeni iz sigurnosnih razloga. Pritisnite bilo koji taster ili kliknite bilo gdje da ostanete prijavljeni.",
             "title": "Upozorenje na neaktivnost",
             "confirmLabel": "Ostanite prijavljeni"
         }
