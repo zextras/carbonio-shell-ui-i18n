@@ -33,7 +33,9 @@
             "account_logout": "Esci",
             "dark_mode": "Tema Scuro",
             "appearance": "Aspetto",
-            "privacy": "Privacy"
+            "privacy": "Privacy",
+            "language_error": "Il valore corrente non è riconosciuto. L'interfaccia è stata impostata sull'inglese per impostazione predefinita. Seleziona un'opzione valida.",
+            "dark_mode_error": "Il valore corrente non è riconosciuto. L'interfaccia è stata impostata sul tema di sistema per impostazione predefinita. Seleziona un'opzione valida per modificare il tema."
         },
         "app": "Impostazioni",
         "out_of_office": {
@@ -222,7 +224,8 @@
             "textArea": {
                 "errorDescription": "Hai superato il limite di caratteri. Per favore riduci il testo."
             }
-        }
+        },
+        "invalid_option": "Opzione non valida"
     },
     "locale": {
         "English": "Inglese",
