@@ -129,7 +129,8 @@
                 "errorDescription": "You've exceeded the character limit. Please shorten your text."
             }
         },
-        "send_auto_reply": "Send auto-reply"
+        "send_auto_reply": "Send auto-reply",
+        "invalid_option": "Invalid Option"
     },
     "locale": {
         "English": "English",
@@ -238,7 +239,9 @@
             "theme_disabled": "Disabled",
             "theme_enabled": "Enabled",
             "theme_options": "Theme Options",
-            "privacy": "Privacy"
+            "privacy": "Privacy",
+            "language_error": "The current value is not recognized. The interface has defaulted to English. Please select a valid option.",
+            "dark_mode_error": "The current value is not recognized. The interface has defaulted to System theme. Please select a valid option to change the theme."
         },
         "general_tab": "General",
         "out_of_office": {
