@@ -75,7 +75,9 @@
             "theme_enabled": "Włączone",
             "theme_options": "Opcje stylu",
             "appearance": "Wygląd",
-            "privacy": "Prywatność"
+            "privacy": "Prywatność",
+            "language_error": "Aktualna wartość nie jest rozpoznawana. Język interfejsu został domyślnie zmieniony na angielski. Wybierz prawidłową opcję.",
+            "dark_mode_error": "Aktualna wartość nie jest rozpoznawana. Motyw interfejsu został domyślnie zmieniony na systemowy. Wybierz prawidłową opcję, aby zmienić motyw."
         },
         "general_tab": "Ogólne",
         "timezone_and_language": "Język",
@@ -187,7 +189,8 @@
                 "errorDescription": "Przekroczono limit znaków. Skróć Twój tekst."
             }
         },
-        "send_auto_reply": "Wysyłaj automatyczną odpowiedź"
+        "send_auto_reply": "Wysyłaj automatyczną odpowiedź",
+        "invalid_option": "Nieprawidłowa opcja"
     },
     "board": {
         "close_tab": "Zamknij kartę",
