@@ -90,7 +90,8 @@
                 "errorDescription": "Vous avez atteint la nombre maximum de caractères. Veuillez raccourcir votre texte."
             }
         },
-        "send_auto_reply": "Envoyer une réponse automatique"
+        "send_auto_reply": "Envoyer une réponse automatique",
+        "invalid_option": "Option Invalide"
     },
     "message": {
         "snackbar": {
@@ -133,7 +134,9 @@
             "theme_auto": "Auto",
             "theme_options": "Options du thème",
             "appearance": "Apparence",
-            "privacy": "Vie privée"
+            "privacy": "Vie privée",
+            "language_error": "La valeur actuelle n'est pas reconnue. L'interface a été basculée en Anglais par défaut. Merci de sélectionner une option valide.",
+            "dark_mode_error": "La valeur actuelle n'est pas reconnue. L'interface a été basculée avec le thème par défaut. Merci de sélectionner une option valide pour modifier le thème."
         },
         "general_tab": "Général",
         "out_of_office": {
