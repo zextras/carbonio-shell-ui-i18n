@@ -45,7 +45,40 @@
         "unsaved_changes_line2": "Tots els canvis sense desar es perdran.",
         "use_persona": "Fes servir aquesta personificació:",
         "use_ssl": "Fes servir una connexió xifrada (SSL) en accedir a aquest servidor",
-        "send_auto_reply": "Envia missatge de resposta automàtica"
+        "send_auto_reply": "Envia missatge de resposta automàtica",
+        "account_name": "Nom del compte",
+        "account_type": "Tipus de compte",
+        "accounts": "Comptes",
+        "address": "Adreça",
+        "cancel": "Cancel·la",
+        "choose_folder": "Seleccioneu una carpeta",
+        "close": "Tancar",
+        "delete": "Suprimeix",
+        "dont_save": "No desis cap còpia dels missatges enviats",
+        "download_messages": "Descarrega els missatges a:",
+        "external_account_settings": "Configuració del compte extern",
+        "folders": "Carpetes",
+        "imap": "IMAP",
+        "inbox": "Safata d’entrada",
+        "language": "Idioma",
+        "new_folder": "Carpeta nova",
+        "no": "No",
+        "password": "Contrasenya",
+        "persona": "Personificació",
+        "persona_settings": "Configuració de personificació",
+        "primary": "Principal",
+        "recipents": "Destinataris",
+        "reload": "Torna a carregar",
+        "reply_to_field_example": "p. ex., Albert Martí",
+        "save": "Desa",
+        "save_delegate_folder": "Desa una còpia dels missatges enviats a la carpeta Enviats del delegat",
+        "save_to_my_sent_folder": "Desa una còpia dels missatges enviats a la meva carpeta Enviats",
+        "secondary": "Secundària",
+        "settings_sent_messages": "Configuració dels missatges enviats",
+        "test_settings": "Configuració de prova",
+        "time_zone": "Zona horària",
+        "when_composing": "En redactar, respondre a/o reenviar els missatges de les carpetes:",
+        "when_replying": "En respondre a/o reenviar els missatges enviats a:"
     },
     "locale": {
         "label_chinese": "Xinès (Xina) - {{value}}",
@@ -62,7 +95,24 @@
         "label_russian": "Rus - {{value}}",
         "label_spanish": "Espanyol - {{value}}",
         "label_thai": "Tailandès - {{value}}",
-        "label_turkish": "Turc - {{value}}"
+        "label_turkish": "Turc - {{value}}",
+        "English": "Anglès",
+        "chinese_china": "Xinès (Xina)",
+        "dutch": "Holandès",
+        "french": "Francès",
+        "german": "Alemany",
+        "hindi": "Hindi",
+        "italian": "Italià",
+        "japanese": "Japonès",
+        "polish": "Polonès",
+        "portuguese": "Portuguès",
+        "portuguese_brazil": "Portuguès (Brasil)",
+        "romanian": "Romanès",
+        "russian": "Rus",
+        "spanish": "Espanyol",
+        "thai": "Tailandès",
+        "turkish": "Turc",
+        "hungarian": "Hongarès"
     },
     "message": {
         "reload": "\tVoleu tornar a carregar l’aplicació ara per mostrar el nou idioma? <br>(En cas contrari, la nova llengua apareixerà la propera vegada que inicieu sessió).",
@@ -78,34 +128,53 @@
     "settings": {
         "account": {
             "delegates": {
-                "right_sendonbehalfof": "Envia en nom de"
-            }
+                "right_sendonbehalfof": "Envia en nom de",
+                "right_sendas": "Envia com"
+            },
+            "new_identity": "Nova personificació {0,number}"
         },
         "app": "Configuració:",
         "appearance": {
-            "option_m": "Mitjà"
+            "option_m": "Mitjà",
+            "option_l": "Gran",
+            "option_s": "Petit"
         },
         "choose": "Trieu",
         "general": {
             "account_logout": "Tancar la sessió",
             "dark_mode": "Mode fosc",
             "general": "Configuració general",
-            "theme_options": "Opcions de tema"
+            "theme_options": "Opcions de tema",
+            "account": "Compte",
+            "appearance": "Aparença",
+            "theme_auto": "Automàtic",
+            "theme_disabled": "Inhabilitat",
+            "theme_enabled": "Habilitat"
         },
         "out_of_office": {
             "external_senders": {
                 "do_not_send_to_external": "No enviïs una resposta automàtica al remitent extern",
                 "send_custom_in_organisation": "Envia un missatge personalitzat a qui no sigui a la meva organització",
-                "send_custom_not_in_organisation": "Envia un missatge personalitzat a qui no sigui a la meva organització ni a la llibreta d’adreces"
+                "send_custom_not_in_organisation": "Envia un missatge personalitzat a qui no sigui a la meva organització ni a la llibreta d’adreces",
+                "send_standard_auto_reply": "Envia un missatge de resposta automàtica estàndard"
             },
             "headings": {
-                "time_period": "Període de temps:"
+                "time_period": "Període de temps:",
+                "create_appointment": "Cita de l’agenda"
             },
             "labels": {
                 "all_day": "Tot el dia",
                 "create_appointment": "Crea cita",
                 "external_senders": "Emissors externs:",
-                "send_auto_reply_period": "Envia respostes automàtiques durant el període de temps següent:"
+                "send_auto_reply_period": "Envia respostes automàtiques durant el període de temps següent:",
+                "auto_reply_message": "Missatge de resposta automàtica:",
+                "end_date": "Data final",
+                "end_time": "Hora de finalització:",
+                "start_date": "Data d’inici",
+                "start_time": "Hora d’inici:"
+            },
+            "status": {
+                "busy": "Ocupat"
             }
         },
         "search_settings": {
@@ -114,7 +183,14 @@
                 "include_search_in_spam_folder": "Inclou la carpeta de correu no desitjat a les cerques",
                 "include_search_in_trash_folder": "Inclou la paperera a les cerques"
             }
-        }
+        },
+        "accounts": "Comptes",
+        "button": {
+            "confirm": "Confirma",
+            "primary": "Desa"
+        },
+        "general_tab": "General",
+        "timezone_and_language": "Idioma"
     },
     "snackbar": {
         "error": "Alguna cosa ha anat malament, torneu-ho a provar"
@@ -129,5 +205,21 @@
         "limited": "{{used}} de {{limit}} utilitzat",
         "title": "Quota utilitzada",
         "unlimited": "{{used}} d'espai il·limitat"
+    },
+    "feedback": {
+        "other": "Altres"
+    },
+    "new": "Nou",
+    "primary_account": {
+        "title": "Configuració del compte principal"
+    },
+    "size": {
+        "unitMeasure_MB": "MB",
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_GB": "GB"
+    },
+    "search": {
+        "app": "Cerca"
     }
 }
