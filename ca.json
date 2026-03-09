@@ -78,7 +78,24 @@
         "test_settings": "Configuració de prova",
         "time_zone": "Zona horària",
         "when_composing": "En redactar, respondre a/o reenviar els missatges de les carpetes:",
-        "when_replying": "En respondre a/o reenviar els missatges enviats a:"
+        "when_replying": "En respondre a/o reenviar els missatges enviats a:",
+        "account_menu": "Menú del compte",
+        "add_inline_image": "Afegir imatge en línia",
+        "add_new_email": "Afegir nova adreça de correu electrònic",
+        "add_recovery_email": "Afegir correu electrònic de recuperació",
+        "cannot_save_changes": "Alguns canvis no es poden desar",
+        "choose_account": "Trieu un compte",
+        "click_to_copy": "Feu clic per copiar",
+        "documentation": "Documentació",
+        "email_server": "Servidor de correu electrònic (p. ex. “mail.example.com”)",
+        "feedback": "Comentaris",
+        "folder": "Carpeta: Nou compte extern 3",
+        "folder_external_account": "Carpeta: Nou compte extern",
+        "from_name": "De: \"Nom\"",
+        "passwords_recovery_settings": "Configuració de la recuperació de compte de contrasenya",
+        "pop_port": "Port POP",
+        "recovery_email": "Correu electrònic de recuperació",
+        "select_image": "Selecciona la imatge"
     },
     "locale": {
         "label_chinese": "Xinès (Xina) - {{value}}",
@@ -112,7 +129,13 @@
         "spanish": "Espanyol",
         "thai": "Tailandès",
         "turkish": "Turc",
-        "hungarian": "Hongarès"
+        "hungarian": "Hongarès",
+        "label_polish": "Polonès - {{value}}",
+        "label_vietnamese": "Vietnamita - {{value}}",
+        "vietnamese": "Vietnamita",
+        "label_kyrgyz": "Kirguís - {{value}}",
+        "kyrgyz": "Kirguís",
+        "label_hungarian": "Hongarès - {{value}}"
     },
     "message": {
         "reload": "\tVoleu tornar a carregar l’aplicació ara per mostrar el nou idioma? <br>(En cas contrari, la nova llengua apareixerà la propera vegada que inicieu sessió).",
@@ -122,14 +145,16 @@
         }
     },
     "messages": {
-        "permanent_delete_title": "Esteu segur que voleu suprimir permanentment aquesta cita?"
+        "permanent_delete_title": "Esteu segur que voleu suprimir permanentment aquesta cita?",
+        "permanent_delete_body": "Si esborra definitivament aquesta Persona, no podrà recuperar-la. Continuar?"
     },
     "new_tab": "Etiqueta nova",
     "settings": {
         "account": {
             "delegates": {
                 "right_sendonbehalfof": "Envia en nom de",
-                "right_sendas": "Envia com"
+                "right_sendas": "Envia com",
+                "multiple_rights": "{{rights.0}} i {{rights.1}}"
             },
             "new_identity": "Nova personificació {0,number}"
         },
@@ -137,7 +162,19 @@
         "appearance": {
             "option_m": "Mitjà",
             "option_l": "Gran",
-            "option_s": "Petit"
+            "option_s": "Petit",
+            "labels": {
+                "a": "A",
+                "choose_size_auto": "Redimensionar automàticament la mida del text segons el dispositiu",
+                "choose_size_description": "Trieu la mida i l'estil per al entorn de Carbonio",
+                "choose_size_pangram": "El rapit fox marró salta sobre el gos mandrós.",
+                "decrease": "Disminuir mida",
+                "decrease_disabled": "S'ha assolit la mida mínima",
+                "increase": "Augmentar mida",
+                "increase_disabled": "S'ha assolit la mida màxima"
+            },
+            "option_xl": "Extragrand",
+            "option_xs": "Extrapequeny"
         },
         "choose": "Trieu",
         "general": {
@@ -149,7 +186,10 @@
             "appearance": "Aparença",
             "theme_auto": "Automàtic",
             "theme_disabled": "Inhabilitat",
-            "theme_enabled": "Habilitat"
+            "theme_enabled": "Habilitat",
+            "privacy": "Privacitat",
+            "language_error": "El valor actual no és reconegut. La interfície ha passat a anglès per defecte. Seleccioneu una opció vàlida.",
+            "dark_mode_error": "El valor actual no és reconegut. La interfície ha passat al tema del sistema per defecte. Seleccioneu una opció vàlida per canviar el tema."
         },
         "out_of_office": {
             "external_senders": {
@@ -160,7 +200,8 @@
             },
             "headings": {
                 "time_period": "Període de temps:",
-                "create_appointment": "Cita de l’agenda"
+                "create_appointment": "Cita de l’agenda",
+                "settings_label": "Configuració de fora de l'oficina"
             },
             "labels": {
                 "all_day": "Tot el dia",
@@ -171,7 +212,9 @@
                 "end_date": "Data final",
                 "end_time": "Hora de finalització:",
                 "start_date": "Data d’inici",
-                "start_time": "Hora d’inici:"
+                "start_time": "Hora d’inici:",
+                "auto_reply_message_external": "Missatge de resposta automàtica per a remitents externs:",
+                "out_of_office_status": "Estat de fora de l'oficina:"
             },
             "status": {
                 "busy": "Ocupat"
@@ -199,15 +242,29 @@
         "africa_algiers": "{{value}} Àfrica Central Occidental",
         "america_guatemala": "{{value}} Àfrica Central Occidental",
         "asia_yangon": "{{value}} Yangon",
-        "asia_yerevan": "{{value}} Erevan"
+        "asia_yerevan": "{{value}} Erevan",
+        "pacific_kiritimati": "{{value}} Illa Kiritimati",
+        "pacific_marquesas": "{{value}} Illes Marqueses",
+        "pacific_midway": "{{value}} Samoa",
+        "pacific_norfolk": "{{value}} Illa Norfolk",
+        "pacific_tongatapu": "{{value}} Nuku’alofa",
+        "utc": "{{value}} Temps Universal Coordinat"
     },
     "user_quota": {
         "limited": "{{used}} de {{limit}} utilitzat",
         "title": "Quota utilitzada",
-        "unlimited": "{{used}} d'espai il·limitat"
+        "unlimited": "{{used}} d'espai il·limitat",
+        "space_full": "Sembla que tot l'espai disponible està ple"
     },
     "feedback": {
-        "other": "Altres"
+        "other": "Altres",
+        "report_something": "Voleu informar d'alguna cosa?",
+        "select_a_module": "Seleccioneu un mòdul",
+        "select_a_topic": "Seleccioneu un tema",
+        "send": "ENVIAR",
+        "success": "Gràcies per les vostres comentaris",
+        "user_interface": "Interfície d'usuari",
+        "write_here": "Escriviu els vostres comentaris aquí"
     },
     "new": "Nou",
     "primary_account": {
@@ -217,9 +274,29 @@
         "unitMeasure_MB": "MB",
         "unitMeasure_B": "B",
         "unitMeasure_KB": "KB",
-        "unitMeasure_GB": "GB"
+        "unitMeasure_GB": "GB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_YB": "YB"
     },
     "search": {
         "app": "Cerca"
+    },
+    "module": {
+        "app": {
+            "version": "Versions de l'aplicació"
+        }
+    },
+    "passwords_recovery_settings": {
+        "title": "Configuració de la recuperació de compte de contrasenya"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Heu estat inactiu durant una estona. Seràs desconnectat aviat per raons de seguretat. Premeu qualsevol tecla o feu clic en qualsevol lloc per romandre conectat.",
+            "title": "Avís d'inactivitat",
+            "confirmLabel": "Romandre conectat"
+        }
     }
 }
