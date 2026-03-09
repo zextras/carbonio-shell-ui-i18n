@@ -1,1 +1,133 @@
-{}
+{
+    "board": {
+        "close_tab": "Tanca la pestanya",
+        "close_tabs": "Tanca totes les pestanyes",
+        "open_app": "Obre en una pestanya"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "confirmButtonLabel": "Actualitza",
+                "title": "Alguna cosa ha anat malament"
+            }
+        }
+    },
+    "label": {
+        "account_username": "Nom del compte:",
+        "accounts_list": "Vista de llista de comptes",
+        "add_delegate": "Afegeix delegat",
+        "add_external_account": "Afegeix compte extern",
+        "add_persona": "Afegeix personificació",
+        "advanced_settings": "Configuració avançada:",
+        "button": "Botons",
+        "change_pop": "Canvia el port {0}",
+        "delegates": "Delegats:",
+        "delete_after_download": "Suprimeix els missatges del servidor després de descarregar-los",
+        "delete_permanently": "Eliminar permanentment",
+        "discard_changes": "DESCARTAR CANVIS",
+        "edit_permissions": "Edita permisos",
+        "edit_to_start_search": "Edita la teva cerca per iniciar una de nova",
+        "email_address": "Adreça de correu:",
+        "filter_folders": "Filtre carpetes",
+        "go_back": "Tornar",
+        "leave_anyway": "Deixar-ho de totes maneres",
+        "logout": "Tancar la sessió",
+        "no_results": "No s’han trobat resultats.",
+        "permanent_delete_title": "Esteu segur que voleu suprimir aquesta versió del fitxer de forma permanent?",
+        "persona_name": "Nom de personificació:",
+        "pop3": "POP",
+        "remove": "suprimir",
+        "save_and_leave": "Desa i deixa",
+        "save_both_folders": "Desa una còpia dels missatges enviats a la carpeta Enviats del delegat i a la meva carpeta Enviats",
+        "set_reply_to_field": "Configura el camp \"Respondre a\" dels missatges de correu amb:",
+        "unsaved_changes": "Teniu canvis sense desar",
+        "unsaved_changes_line1": "Esteu segur que voleu deixar aquesta pàgina sense desar?",
+        "unsaved_changes_line2": "Tots els canvis sense desar es perdran.",
+        "use_persona": "Fes servir aquesta personificació:",
+        "use_ssl": "Fes servir una connexió xifrada (SSL) en accedir a aquest servidor",
+        "send_auto_reply": "Envia missatge de resposta automàtica"
+    },
+    "locale": {
+        "label_chinese": "Xinès (Xina) - {{value}}",
+        "label_dutch": "Neerlandès - {{value}}",
+        "label_english": "Anglès - {{value}}",
+        "label_french": "Francès - {{value}}",
+        "label_german": "Alemany - {{value}}",
+        "label_hindi": "Hindi - {{value}}",
+        "label_italian": "Italià - {{value}}",
+        "label_japanese": "Japonès - {{value}}",
+        "label_portuguese": "Portuguès - {{value}}",
+        "label_portuguese_brazil": "Portuguès - {{value}}",
+        "label_romanian": "Rumà - {{value}}",
+        "label_russian": "Rus - {{value}}",
+        "label_spanish": "Espanyol - {{value}}",
+        "label_thai": "Tailandès - {{value}}",
+        "label_turkish": "Turc - {{value}}"
+    },
+    "message": {
+        "reload": "\tVoleu tornar a carregar l’aplicació ara per mostrar el nou idioma? <br>(En cas contrari, la nova llengua apareixerà la propera vegada que inicieu sessió).",
+        "snackbar": {
+            "identities_quota_exceeded": "No s’ha pogut crear la identitat perquè heu superat la quota d’identitats.",
+            "settings_saved": "Edicions desades correctament"
+        }
+    },
+    "messages": {
+        "permanent_delete_title": "Esteu segur que voleu suprimir permanentment aquesta cita?"
+    },
+    "new_tab": "Etiqueta nova",
+    "settings": {
+        "account": {
+            "delegates": {
+                "right_sendonbehalfof": "Envia en nom de"
+            }
+        },
+        "app": "Configuració:",
+        "appearance": {
+            "option_m": "Mitjà"
+        },
+        "choose": "Trieu",
+        "general": {
+            "account_logout": "Tancar la sessió",
+            "dark_mode": "Mode fosc",
+            "general": "Configuració general",
+            "theme_options": "Opcions de tema"
+        },
+        "out_of_office": {
+            "external_senders": {
+                "do_not_send_to_external": "No enviïs una resposta automàtica al remitent extern",
+                "send_custom_in_organisation": "Envia un missatge personalitzat a qui no sigui a la meva organització",
+                "send_custom_not_in_organisation": "Envia un missatge personalitzat a qui no sigui a la meva organització ni a la llibreta d’adreces"
+            },
+            "headings": {
+                "time_period": "Període de temps:"
+            },
+            "labels": {
+                "all_day": "Tot el dia",
+                "create_appointment": "Crea cita",
+                "external_senders": "Emissors externs:",
+                "send_auto_reply_period": "Envia respostes automàtiques durant el període de temps següent:"
+            }
+        },
+        "search_settings": {
+            "labels": {
+                "include_search_in_shared_folder": "Inclou la carpeta de correu no desitjat a les cerques",
+                "include_search_in_spam_folder": "Inclou la carpeta de correu no desitjat a les cerques",
+                "include_search_in_trash_folder": "Inclou la paperera a les cerques"
+            }
+        }
+    },
+    "snackbar": {
+        "error": "Alguna cosa ha anat malament, torneu-ho a provar"
+    },
+    "timezone": {
+        "africa_algiers": "{{value}} Àfrica Central Occidental",
+        "america_guatemala": "{{value}} Àfrica Central Occidental",
+        "asia_yangon": "{{value}} Yangon",
+        "asia_yerevan": "{{value}} Erevan"
+    },
+    "user_quota": {
+        "limited": "{{used}} de {{limit}} utilitzat",
+        "title": "Quota utilitzada",
+        "unlimited": "{{used}} d'espai il·limitat"
+    }
+}
