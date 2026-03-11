@@ -121,7 +121,7 @@
         "primary": "प्राइमरी",
         "remove": "हटाएँ",
         "inbox": "इन्बॉक्स",
-        "delete": "डिलीट करें",
+        "delete": "मिटाना",
         "delete_permanently": "हमेशा के लिए डिलीट करें",
         "email_address": "ई-मेल पता",
         "filter_folders": "फोल्डर फिल्टर करें",
@@ -190,7 +190,13 @@
         "add_inline_image": "इनलाइन फोटो जोड़ें",
         "select_image": "कोई फोटो सिलेक्ट करें",
         "cannot_save_changes": "कुछ बदलाव सेव नहीं किए जा सकते",
-        "close": "बंद"
+        "close": "बंद",
+        "settings": {
+            "textArea": {
+                "errorDescription": "आपने अक्षरों की अधिकतम सीमा पार कर ली है। कृपया अपने पाठ को छोटा करें।"
+            }
+        },
+        "send_auto_reply": "स्वचालित उत्तर भेजें"
     },
     "board": {
         "close_tab": "टैब बंद करने",
@@ -240,7 +246,11 @@
         "vietnamese": "वियतनामी",
         "polish": "पोलिश",
         "label_polish": "पोलिश - {{value}}",
-        "label_vietnamese": "वियतनामी - {{value}}"
+        "label_vietnamese": "वियतनामी - {{value}}",
+        "label_kyrgyz": "किर्गिज - {{value}}",
+        "kyrgyz": "किर्गिज़",
+        "label_hungarian": "हंगेरियन - {{value}}",
+        "hungarian": "हंगेरियन"
     },
     "timezone": {
         "africa_algiers": "{{value}} पश्चिमी मध्य अफ्रीका",
