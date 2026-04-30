@@ -206,7 +206,7 @@
         "add_inline_image": "इनलाइन फोटो जोड़ें",
         "select_image": "कोई फोटो सिलेक्ट करें",
         "cannot_save_changes": "कुछ बदलाव सेव नहीं किए जा सकते",
-        "close": "बंद",
+        "close": "बंद करें",
         "settings": {
             "textArea": {
                 "errorDescription": "आपने अक्षरों की अधिकतम सीमा पार कर ली है। कृपया अपने पाठ को छोटा करें।"
