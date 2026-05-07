@@ -114,7 +114,10 @@
         "expiration": {
             "action": "Ir para página de login",
             "tenMinutes": "Sua sessão vai expirar em 10 minutos. Em seguida, você será redirecionado para a página de login.",
-            "threeMinutes": "Sua sessão vai expirar em 3 minutos. Em seguida, você será redirecionado para a página de login."
+            "threeMinutes": "Sua sessão vai expirar em 3 minutos. Em seguida, você será redirecionado para a página de login.",
+            "oneMinute_one": "Sua sessão expirará em {{count}} segundo. Depois disso, você será redirecionado para a página de login.",
+            "oneMinute_many": "Sua sessão expirará em {{count}} segundos. Depois disso, você será redirecionado para a página de login.",
+            "oneMinute_other": "Sua sessão expirará em {{count}} segundos. Depois disso, você será redirecionado para a página de login."
         }
     },
     "label": {
