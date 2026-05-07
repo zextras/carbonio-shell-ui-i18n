@@ -202,7 +202,13 @@
         "add_inline_image": "Inserir imágem",
         "select_image": "Selecionar imagem",
         "cannot_save_changes": "Algumas mudanças não foram salvas",
-        "close": "Fechar"
+        "close": "Fechar",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Você excedeu o limite de caracteres. Por favor, diminua o tamanho do seu texto."
+            }
+        },
+        "send_auto_reply": "Enviar resposta automática"
     },
     "timezone": {
         "africa_algiers": "{{value}} África Central Ocidental",
