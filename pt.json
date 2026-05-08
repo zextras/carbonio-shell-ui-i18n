@@ -61,7 +61,8 @@
             "theme_options": "Opções de tema",
             "dark_mode": "Modo escuro",
             "appearance": "Aparência",
-            "privacy": "Privacidade"
+            "privacy": "Privacidade",
+            "dark_mode_error": "O valor atual não foi reconhecido. A interface está com o tema padrão do sistema. Selecione uma opção válida para alterar o tema."
         },
         "general_tab": "Geral",
         "timezone_and_language": "Idioma",
@@ -211,7 +212,8 @@
                 "errorDescription": "Você excedeu o limite de caracteres. Por favor, diminua o tamanho do seu texto."
             }
         },
-        "send_auto_reply": "Enviar resposta automática"
+        "send_auto_reply": "Enviar resposta automática",
+        "invalid_option": "Opção inválida"
     },
     "timezone": {
         "africa_algiers": "{{value}} África Central Ocidental",
@@ -426,7 +428,7 @@
         "permanent_delete_body": "Se você excluir permanentemente esta Persona, não poderá recuperá-la. Continuar?"
     },
     "share": {
-        "is_contained_in": "Na pasta"
+        "is_contained_in": "Está contido em"
     },
     "passwords_recovery_settings": {
         "title": "Configurações de recuperação de senha"
@@ -454,5 +456,15 @@
         "unitMeasure_EB": "EB",
         "unitMeasure_ZB": "ZB",
         "unitMeasure_YB": "YB"
+    },
+    "search": {
+        "app": "Pesquisar"
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Você ficou inativo por um tempo. Sua sessão será encerrada em breve por motivos de segurança. Pressione qualquer tecla ou clique em qualquer lugar para permanecer conectado.",
+            "title": "Aviso de inatividade",
+            "confirmLabel": "Permanecer conectado"
+        }
     }
 }
