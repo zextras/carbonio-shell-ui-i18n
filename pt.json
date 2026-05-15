@@ -24,7 +24,7 @@
         },
         "out_of_office": {
             "labels": {
-                "start_date": "Data de início",
+                "start_date": "Data de Início",
                 "end_date": "Data de fim",
                 "all_day": "Todo o dia:",
                 "auto_reply_message": "Mensagem de resposta automática:",
@@ -62,7 +62,8 @@
             "dark_mode": "Modo escuro",
             "appearance": "Aparência",
             "privacy": "Privacidade",
-            "dark_mode_error": "O valor atual não foi reconhecido. A interface está com o tema padrão do sistema. Selecione uma opção válida para alterar o tema."
+            "dark_mode_error": "O valor atual não foi reconhecido. A interface está com o tema padrão do sistema. Selecione uma opção válida para alterar o tema.",
+            "language_error": "O valor atual não foi reconhecido. A interface está em inglês por padrão. Selecione uma opção válida."
         },
         "general_tab": "Geral",
         "timezone_and_language": "Idioma",
@@ -96,7 +97,7 @@
             "settings_saved": "Edições salvas corretamente",
             "identities_quota_exceeded": "A identidade não pôde ser criada porque você excedeu o máximo de identidades permitidas"
         },
-        "reload": "\tQuer recarregar o aplicativo agora para exibir o novo idioma?\nCaso contrário, o novo idioma aparecerá a próxima vez que você fizer login."
+        "reload": "\tGostaria de recarregar o aplicativo agora para exibir o novo idioma?\n(Caso contrário, o novo idioma aparecerá a próxima vez que você fizer login.)"
     },
     "module": {
         "app": {
