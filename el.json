@@ -7,7 +7,7 @@
         "close": "Κλείσιμο",
         "delegates": "Αντιπροσωπευόμενοι",
         "delete": "Διαγραφή",
-        "discard_changes": "ΑΚΥΡΩΣΗ ΑΛΛΑΓΩΝ",
+        "discard_changes": "ΑΠΟΡΡΙΨΗ ΑΛΛΑΓΩΝ",
         "email_address": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
         "go_back": "Επιστροφή",
         "language": "Γλώσσα",
@@ -44,13 +44,13 @@
         "edit_permissions": "Επεξεργασία δικαιωμάτων",
         "edit_to_start_search": "Επεξεργασία της αναζήτησής σας για να ξεκινήσετε μια νέα",
         "email_server": "Διακομιστής ηλεκτρονικού ταχυδρομείου (π.χ. 'mail.example.com')",
-        "filter_folders": "Φιλτράρετε φακέλους",
+        "filter_folders": "Φιλτράρισμα φακέλων",
         "folder": "Φάκελος: Νέος εξωτερικός λογαριασμός 3",
         "folders": "Φάκελοι",
         "from_name": "Από: \"Όνομα\"",
         "imap": "IMAP",
         "inbox": "Εισερχόμενα",
-        "new_folder": "Νέος φάκελος",
+        "new_folder": "Νέος Φάκελος",
         "no_results": "Δεν βρέθηκαν αποτελέσματα",
         "passwords_recovery_settings": "Ρυθμίσεις λογαριασμού για ανάκτηση κωδικού πρόσβασης",
         "permanent_delete_title": "Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά αυτό το Persona;",
@@ -115,7 +115,7 @@
     "message": {
         "snackbar": {
             "identities_quota_exceeded": "Δεν ήταν δυνατή η δημιουργία της ταυτότητας, καθώς έχετε υπερβεί το όριο ταυτοτήτων σας",
-            "settings_saved": "Οι αλλαγές αποθηκεύτηκαν σωστά"
+            "settings_saved": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία"
         },
         "reload": "\tΘέλετε να φορτώσετε εκ νέου την εφαρμογή τώρα για να εμφανιστεί η νέα γλώσσα;\n(Διαφορετικά, η νέα γλώσσα θα εμφανιστεί την επόμενη φορά που θα συνδεθείτε.)"
     },
@@ -360,7 +360,7 @@
         "timezone_and_language": "Γλώσσα"
     },
     "share": {
-        "is_contained_in": "Περιλαμβάνεται σε"
+        "is_contained_in": "Περιέχεται στο"
     },
     "snackbar": {
         "error": "Παρουσιάστηκε κάποιο σφάλμα, παρακαλώ δοκιμάστε ξανά"
@@ -370,5 +370,16 @@
         "space_full": "Φαίνεται ότι ο διαθέσιμος χώρος έχει εξαντληθεί",
         "title": "Όριο χρήστη",
         "unlimited": "{{used}} από απεριόριστο χώρο"
+    },
+    "size": {
+        "unitMeasure_B": "[GR] B",
+        "unitMeasure_KB": "[GR] KB",
+        "unitMeasure_MB": "[GR] MB",
+        "unitMeasure_TB": "[GR] TB",
+        "unitMeasure_GB": "[GR] GB",
+        "unitMeasure_ZB": "[GR] ZB",
+        "unitMeasure_PB": "[GR] PB",
+        "unitMeasure_EB": "[GR] EB",
+        "unitMeasure_YB": "[GR] YB"
     }
 }
