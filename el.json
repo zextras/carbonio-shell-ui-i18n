@@ -18,7 +18,7 @@
         "remove": "αφαίρεση",
         "save": "Αποθήκευση",
         "save_and_leave": "Αποθήκευση και έξοδος",
-        "time_zone": "Ζώνη ώρας",
+        "time_zone": "Ζώνη Ώρας",
         "unsaved_changes": "Έχετε αλλαγές που δεν έχουν αποθηκευτεί",
         "unsaved_changes_line1": "Είστε σίγουροι ότι θέλετε να φύγετε από αυτή τη σελίδα χωρίς να αποθηκεύσετε;",
         "unsaved_changes_line2": "Όλες οι αλλαγές σας που δεν έχουν αποθηκευτεί θα χαθούν",
@@ -76,7 +76,22 @@
         "use_personas_line2": "Για παράδειγμα, αν μερικές φορές στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου με συγκεκριμένο ρόλο στην εργασία σας, δημιουργήστε ένα προφίλ για αυτό.",
         "use_ssl": "Χρησιμοποιήστε κρυπτογραφημένη σύνδεση (SSL) κατά την πρόσβαση σε αυτόν τον διακομιστή",
         "when_composing": "Κατά τη σύνταξη, την απάντηση ή την προώθηση μηνυμάτων σε φάκελο(-ους):",
-        "when_replying": "Όταν απαντάτε ή προωθείτε μηνύματα που έχουν σταλεί σε:"
+        "when_replying": "Όταν απαντάτε ή προωθείτε μηνύματα που έχουν σταλεί σε:",
+        "add_inline_image": "Προσθήκη ενσωματωμένης εικόνας",
+        "cannot_save_changes": "Ορισμένες αλλαγές δεν μπορούν να αποθηκευτούν",
+        "documentation": "Τεκμηρίωση",
+        "external_account_settings": "Ρυθμίσεις Εξωτερικού Λογαριασμού",
+        "feedback": "Σχόλια",
+        "folder_external_account": "Φάκελος: Νέος Εξωτερικός Λογαριασμός",
+        "recipents": "Παραλήπτες",
+        "select_image": "Επιλογή εικόνας",
+        "settings": {
+            "textArea": {
+                "errorDescription": "Έχετε υπερβεί το όριο χαρακτήρων. Συντομεύστε το κείμενό σας."
+            }
+        },
+        "send_auto_reply": "Αποστολή αυτόματης απάντησης",
+        "invalid_option": "Μη Έγκυρη Επιλογή"
     },
     "locale": {
         "English": "Αγγλικά",
@@ -110,18 +125,24 @@
         "spanish": "Ισπανικά",
         "thai": "Ταϊλανδικά",
         "turkish": "Τουρκικά",
-        "vietnamese": "Βιετναμέζικα"
+        "vietnamese": "Βιετναμέζικα",
+        "label_polish": "Πολωνικά - {{value}}",
+        "label_vietnamese": "Βιετναμέζικα - {{value}}",
+        "label_kyrgyz": "Κιργιζικά - {{value}}",
+        "kyrgyz": "Κιργιζικά",
+        "label_hungarian": "Ουγγρικά - {{value}}",
+        "hungarian": "Ουγγρικά"
     },
     "message": {
         "snackbar": {
             "identities_quota_exceeded": "Δεν ήταν δυνατή η δημιουργία της ταυτότητας, καθώς έχετε υπερβεί το όριο ταυτοτήτων σας",
-            "settings_saved": "Οι αλλαγές αποθηκεύτηκαν με επιτυχία"
+            "settings_saved": "Οι αλλαγές αποθηκεύτηκαν σωστά"
         },
         "reload": "\tΘέλετε να φορτώσετε εκ νέου την εφαρμογή τώρα για να εμφανιστεί η νέα γλώσσα;\n(Διαφορετικά, η νέα γλώσσα θα εμφανιστεί την επόμενη φορά που θα συνδεθείτε.)"
     },
     "messages": {
         "permanent_delete_body": "Εάν διαγράψετε οριστικά αυτό το Persona, δεν θα μπορείτε να το ανακτήσετε. Θέλετε να συνεχίσετε;",
-        "permanent_delete_title": "Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά αυτό το στοιχείο;"
+        "permanent_delete_title": "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά αυτό το στοιχείο;"
     },
     "new": "Νέο",
     "timezone": {
@@ -162,7 +183,7 @@
         "america_miquelon": "{{value}} Μικελόν",
         "america_montevideo": "{{value}} Μοντεβιδέο",
         "america_new_york": "{{value}} Ανατολική ώρα ΗΠΑ/Καναδά",
-        "america_phoenix": "{ {value}} Αριζόνα",
+        "america_phoenix": "{{value}} Αριζόνα",
         "america_port-au-prince": "{{value}} Πορτ-ο-Πρενς",
         "america_punta_arenas": "{{value}} Πούντα Αρένας",
         "america_regina": "{{value}} Σασκάτσουαν",
@@ -178,7 +199,7 @@
         "asia_bangkok": "{{value}} Μπανγκόκ, Ανόι, Τζακάρτα",
         "asia_barnaul": "{{value}} Μπαρναούλ",
         "asia_beirut": "{{value}} Βηρυτός",
-        "asia_chita": "{ {value}} Τσίτα",
+        "asia_chita": "{{value}}Τσίτα",
         "asia_colombo": "{{value}} Σρι Τζαγιαβαρντενεπούρα Κόττε",
         "asia_damascus": "{{value}} Δαμασκός",
         "asia_dhaka": "{{value}} Ντάκα",
@@ -189,7 +210,7 @@
         "asia_jerusalem": "{{value}} Ιερουσαλήμ",
         "asia_kabul": "{{value}} Καμπούλ",
         "asia_kamchatka": "{{value}} Αναδύρ, Πετροπαβλόφσκ-Καμτσάτσκι (RTZ 11)",
-        "asia_karachi": "{ {value}} Ισλαμαμπάντ, Καράτσι",
+        "asia_karachi": "{{value}} Ισλαμαμπάντ, Καράτσι",
         "asia_kathmandu": "{{value}} Κατμαντού",
         "asia_kolkata": "{{value}} Τσενάι, Καλκούτα, Βομβάη, Νέο Δελχί",
         "asia_krasnoyarsk": "{{value}} Κρασνογιάρσκ (RTZ 6)",
@@ -218,7 +239,7 @@
         "asia_yekaterinburg": "{{value}} Εκατερίνμπουργκ (RTZ 4)",
         "asia_yerevan": "{{value}} Ερεβάν",
         "atlantic_azores": "{{value}} Αζόρες",
-        "atlantic_cape_verde": "{{value}} Νήσοι Πράσινο Ακρωτήριο",
+        "atlantic_cape_verde": "{{value}} Νήσοι Πράσινο Ακρωτήριο.",
         "atlantic_south_georgia": "{{value}} Μεσοατλαντικός",
         "australia_adelaide": "{{value}} Αδελαΐδα",
         "australia_brisbane": "{{value}} Μπρίσμπεϊν",
@@ -234,7 +255,7 @@
         "europe_belgrade": "{{value}} Βελιγράδι, Μπρατισλάβα, Βουδαπέστη, Λιουμπλιάνα, Πράγα",
         "europe_berlin": "{{value}} Άμστερνταμ, Βερολίνο, Βέρνη, Ρώμη, Στοκχόλμη, Βιέννη",
         "europe_brussels": "{{value}} Βρυξέλλες, Κοπεγχάγη, Μαδρίτη, Παρίσι",
-        "europe_bucharest": "{ {value}} Βουκουρέστι",
+        "europe_bucharest": "{{value}}Βουκουρέστι",
         "europe_chisinau": "{{value}} Κισινάου",
         "europe_helsinki": "{{value}} Ελσίνκι, Κίεβο, Ρίγα, Σόφια, Ταλίν, Βίλνιους",
         "europe_istanbul": "{{value}} Κωνσταντινούπολη",
@@ -270,7 +291,12 @@
         "hide": "Απόκρυψη πίνακα",
         "open_app": "Άνοιγμα στην εφαρμογή",
         "reduce": "Συρρίκνωση πίνακα",
-        "show_tabs": "Εμφάνιση άλλων καρτελών"
+        "show_tabs": "Εμφάνιση άλλων καρτελών",
+        "from_app": "Από {{app}}",
+        "reset_size": {
+            "disabled": "Ο πίνακας βρίσκεται ήδη στην προεπιλεγμένη θέση",
+            "enabled": "Επαναφορά στην προεπιλεγμένη θέση και μέγεθος"
+        }
     },
     "feedback": {
         "behaviors": "Συμπεριφορές",
@@ -318,7 +344,11 @@
             "theme_auto": "Αυτόματο",
             "theme_disabled": "Απενεργοποιημένο",
             "theme_enabled": "Ενεργοποιημένο",
-            "theme_options": "Επιλογές θέματος"
+            "theme_options": "Επιλογές θέματος",
+            "appearance": "Εμφάνιση",
+            "privacy": "Απόρρητο",
+            "language_error": "Η τρέχουσα τιμή δεν αναγνωρίζεται. Η διεπαφή έχει επαναφερθεί στα Αγγλικά. Επιλέξτε μια έγκυρη επιλογή.",
+            "dark_mode_error": "Η τρέχουσα τιμή δεν αναγνωρίζεται. Η διεπαφή έχει επαναφερθεί στο θέμα Συστήματος. Επιλέξτε μια έγκυρη επιλογή για να αλλάξετε το θέμα."
         },
         "general_tab": "Γενικά",
         "out_of_office": {
@@ -357,13 +387,51 @@
                 "include_search_in_trash_folder": "Συμπερίληψη του φακέλου κάδου απορριμμάτων στις αναζητήσεις"
             }
         },
-        "timezone_and_language": "Γλώσσα"
+        "timezone_and_language": "Γλώσσα",
+        "account": {
+            "delegates": {
+                "multiple_rights": "{{rights.0}} και {{rights.1}}",
+                "right_sendas": "Αποστολή ως",
+                "right_sendonbehalfof": "Αποστολή εκ μέρους"
+            },
+            "new_identity": "Νέο Προφίλ {{number}}"
+        },
+        "appearance": {
+            "labels": {
+                "a": "Α",
+                "choose_size_auto": "Αυτόματη προσαρμογή του μεγέθους κειμένου ανάλογα με τη συσκευή",
+                "choose_size_description": "Επιλέξτε μέγεθος και στιλ για το περιβάλλον Carbonio",
+                "choose_size_pangram": "Το γρήγορο καφέ αλεπού πηδά πάνω από το τεμπέλικο σκυλί.",
+                "decrease": "Μείωση μεγέθους",
+                "decrease_disabled": "Επιτεύχθηκε το ελάχιστο μέγεθος",
+                "increase": "Αύξηση μεγέθους",
+                "increase_disabled": "Επιτεύχθηκε το μέγιστο μέγεθος"
+            },
+            "option_l": "Μεγάλο",
+            "option_m": "Μεσαίο",
+            "option_s": "Μικρό",
+            "option_xl": "Πολύ μεγάλο",
+            "option_xs": "Πολύ μικρό"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "Να επιτρέπεται η ανάλυση δεδομένων",
+                "description": "Τα δεδομένα σας είναι ασφαλή. Όλες οι πληροφορίες που συλλέγουμε είναι και θα παραμείνουν ανώνυμες. Θα χρησιμοποιηθούν από την ομάδα μας για να κατανοήσουμε πώς μπορούμε να βελτιώσουμε το Carbonio."
+            }
+        }
     },
     "share": {
         "is_contained_in": "Περιέχεται στο"
     },
     "snackbar": {
-        "error": "Παρουσιάστηκε κάποιο σφάλμα, παρακαλώ δοκιμάστε ξανά"
+        "error": "Παρουσιάστηκε κάποιο σφάλμα, παρακαλώ δοκιμάστε ξανά",
+        "expiration": {
+            "action": "Μετάβαση στη σελίδα σύνδεσης",
+            "tenMinutes": "Η συνεδρία σας θα λήξει σε 10 λεπτά. Μετά από αυτό, θα ανακατευθυνθείτε στη σελίδα σύνδεσης.",
+            "threeMinutes": "Η συνεδρία σας θα λήξει σε 3 λεπτά. Μετά από αυτό, θα ανακατευθυνθείτε στη σελίδα σύνδεσης.",
+            "oneMinute_one": "Η συνεδρία σας θα λήξει σε {{count}} δευτερόλεπτο. Μετά από αυτό, θα ανακατευθυνθείτε στη σελίδα σύνδεσης.",
+            "oneMinute_other": "Η συνεδρία σας θα λήξει σε {{count}} δευτερόλεπτα. Μετά από αυτό, θα ανακατευθυνθείτε στη σελίδα σύνδεσης."
+        }
     },
     "user_quota": {
         "limited": "{{used}} από {{limit}} έχουν χρησιμοποιηθεί",
@@ -372,14 +440,31 @@
         "unlimited": "{{used}} από απεριόριστο χώρο"
     },
     "size": {
-        "unitMeasure_B": "[GR] B",
-        "unitMeasure_KB": "[GR] KB",
-        "unitMeasure_MB": "[GR] MB",
-        "unitMeasure_TB": "[GR] TB",
-        "unitMeasure_GB": "[GR] GB",
-        "unitMeasure_ZB": "[GR] ZB",
-        "unitMeasure_PB": "[GR] PB",
-        "unitMeasure_EB": "[GR] EB",
-        "unitMeasure_YB": "[GR] YB"
+        "unitMeasure_B": "B",
+        "unitMeasure_KB": "KB",
+        "unitMeasure_MB": "MB",
+        "unitMeasure_TB": "TB",
+        "unitMeasure_GB": "GB",
+        "unitMeasure_ZB": "ZB",
+        "unitMeasure_PB": "PB",
+        "unitMeasure_EB": "EB",
+        "unitMeasure_YB": "YB"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "body": "Παρουσιάστηκαν ορισμένα τεχνικά προβλήματα κατά την επεξεργασία του αιτήματός σας. Δοκιμάστε να ανανεώσετε τη σελίδα ή επιστρέψτε στη σελίδα σύνδεσης.",
+                "confirmButtonLabel": "ανανέωση",
+                "secondaryButtonLabel": "σελίδα σύνδεσης",
+                "title": "Κάτι πήγε στραβά…"
+            }
+        }
+    },
+    "idleTimeout": {
+        "modal": {
+            "content": "Είστε ανενεργοί για κάποιο διάστημα. Θα αποσυνδεθείτε σύντομα για λόγους ασφαλείας. Πατήστε οποιοδήποτε πλήκτρο ή κάντε κλικ οπουδήποτε για να παραμείνετε συνδεδεμένος.",
+            "title": "Προειδοποίηση αδράνειας",
+            "confirmLabel": "Παραμονή συνδεδεμένος"
+        }
     }
 }
