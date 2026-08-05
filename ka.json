@@ -1,1 +1,114 @@
-{}
+{
+    "label": {
+        "accounts": "ანგარიშები",
+        "address": "მისამართი",
+        "cancel": "გაუქმება",
+        "save": "შენახვა",
+        "close": "დახურვა",
+        "delegates": "დელეგატები",
+        "delete": "წაშლა",
+        "language": "ენა",
+        "logout": "გასვლა",
+        "no": "არა",
+        "password": "პაროლი",
+        "remove": "წაშლა",
+        "button": "ღილაკი",
+        "feedback": "უკუკავშირი",
+        "folders": "საქაღალდეები",
+        "imap": "IMAP",
+        "inbox": "საფოსტო ყუთი",
+        "persona": "პიროვნება",
+        "pop3": "POP3",
+        "primary": "ძირითადი",
+        "recipents": "მიმღებები",
+        "reload": "თავიდან ჩატვირთვა",
+        "secondary": "დამხმარე",
+        "documentation": "დოკუმენტაცია"
+    },
+    "locale": {
+        "English": "ინგლისური",
+        "dutch": "ჰოლანდიური",
+        "french": "ფრანგული",
+        "german": "გერმანული",
+        "hindi": "ინდური",
+        "italian": "იტალიური",
+        "japanese": "იაპონური",
+        "polish": "პოლონური",
+        "portuguese": "პორტუგალიური",
+        "romanian": "რუმინული",
+        "russian": "რუსული",
+        "spanish": "ესპანური",
+        "thai": "ტაიანდური",
+        "turkish": "თურქული",
+        "vietnamese": "ვიეტნამური",
+        "kyrgyz": "ყირგიზული",
+        "hungarian": "უნგრული"
+    },
+    "new": "ახალი",
+    "feedback": {
+        "behaviors": "ქცევები",
+        "other": "სხვა",
+        "send": "გაგზავნა"
+    },
+    "search": {
+        "app": "ძებნა"
+    },
+    "settings": {
+        "accounts": "ანგარიშები",
+        "app": "მორგება",
+        "button": {
+            "confirm": "დასტური",
+            "primary": "შენახვა"
+        },
+        "choose": "აირჩიეთ",
+        "general": {
+            "account": "ანგარიში",
+            "account_logout": "გასვლა",
+            "theme_auto": "ავტო",
+            "theme_disabled": "გათიშულია",
+            "theme_enabled": "ჩართულია",
+            "appearance": "გარეგნობა",
+            "privacy": "კონფიდენციალობა"
+        },
+        "general_tab": "ზოგადი",
+        "out_of_office": {
+            "status": {
+                "busy": "დაკავებული"
+            }
+        },
+        "timezone_and_language": "ენა",
+        "account": {
+            "delegates": {
+                "right_sendas": "გაგზავნა, როგორც"
+            }
+        },
+        "appearance": {
+            "labels": {
+                "a": "ა"
+            },
+            "option_l": "დიდი",
+            "option_m": "საშუალო",
+            "option_s": "პატარა",
+            "option_xl": "ძალიან დიდი",
+            "option_xs": "ძალიან პატარა"
+        }
+    },
+    "size": {
+        "unitMeasure_B": "ბ",
+        "unitMeasure_KB": "კბ",
+        "unitMeasure_MB": "მბ",
+        "unitMeasure_GB": "გბ",
+        "unitMeasure_TB": "ტბ",
+        "unitMeasure_PB": "პბ",
+        "unitMeasure_EB": "ებ",
+        "unitMeasure_ZB": "ზბ",
+        "unitMeasure_YB": "იბ"
+    },
+    "bootstrap": {
+        "failure": {
+            "modal": {
+                "confirmButtonLabel": "განახლება"
+            }
+        }
+    }
+}
