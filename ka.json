@@ -23,7 +23,32 @@
         "recipents": "მიმღებები",
         "reload": "თავიდან ჩატვირთვა",
         "secondary": "დამხმარე",
-        "documentation": "დოკუმენტაცია"
+        "documentation": "დოკუმენტაცია",
+        "account_name": "ანგარიშის სახელი",
+        "discard_changes": "ცვლილებების გაუქმება",
+        "email_address": "ელფოსტის მისამართი",
+        "go_back": "უკან გადასვლა",
+        "leave_anyway": "მაინც გასვლა",
+        "time_zone": "დროის სარტყელი",
+        "account_menu": "ანგარიშის მენიუ",
+        "account_type": "ანგარიშის ტიპი",
+        "account_username": "ანგარიშის მომხმარებლის სახელი",
+        "accounts_list": "ანგარიშების სია",
+        "add_delegate": "დელეგატის დამატება",
+        "add_persona": "პიროვნების დამატება",
+        "advanced_settings": "დამატებითი პარამეტრები",
+        "choose_folder": "აირჩიეთ საქაღალდე",
+        "delete_permanently": "სამუდამოდ წაშლა",
+        "edit_permissions": "წვდომების ჩასწორება",
+        "filter_folders": "საქაღალდეების გაფილტვრა",
+        "from_name": "ვისგან: \"სახელი\"",
+        "new_folder": "ახალი საქაღალდე",
+        "persona_name": "პიროვნების სახელი",
+        "persona_settings": "პიროვნების მორგება",
+        "pop_port": "POP-ის პორტი",
+        "recovery_email": "აღდგენის ელფოსტა",
+        "test_settings": "პარამეტრების შემოწმება",
+        "update_view": "ხედის განახლება"
     },
     "locale": {
         "English": "ინგლისური",
@@ -42,13 +67,17 @@
         "turkish": "თურქული",
         "vietnamese": "ვიეტნამური",
         "kyrgyz": "ყირგიზული",
-        "hungarian": "უნგრული"
+        "hungarian": "უნგრული",
+        "chinese_china": "ჩინური (ჩინეთი)",
+        "portuguese_brazil": "პორტუგალიური (ბრაზილია)"
     },
     "new": "ახალი",
     "feedback": {
         "behaviors": "ქცევები",
         "other": "სხვა",
-        "send": "გაგზავნა"
+        "send": "გაგზავნა",
+        "missing_features": "ნაკლული ფუნქციები",
+        "user_interface": "მომხმარებლის ინტერფეისი"
     },
     "search": {
         "app": "ძებნა"
@@ -68,12 +97,29 @@
             "theme_disabled": "გათიშულია",
             "theme_enabled": "ჩართულია",
             "appearance": "გარეგნობა",
-            "privacy": "კონფიდენციალობა"
+            "privacy": "კონფიდენციალობა",
+            "dark_mode": "მუქი რეჟიმი",
+            "general": "ზოგადი პარამეტრები",
+            "theme_options": "თემის მორგება"
         },
         "general_tab": "ზოგადი",
         "out_of_office": {
             "status": {
                 "busy": "დაკავებული"
+            },
+            "headings": {
+                "create_appointment": "კალენდრის შეხვედრა",
+                "time_period": "დროის პერიოდი"
+            },
+            "labels": {
+                "all_day": "მთელი დღე:",
+                "auto_reply_message": "ავტოპასუხი:",
+                "create_appointment": "შეხვედრის შექმნა:",
+                "end_date": "დასრულების თარიღი",
+                "end_time": "დასრულების დრო:",
+                "external_senders": "გარე გამომგზავნები",
+                "start_date": "დაწყების თარიღი",
+                "start_time": "დაწყების დრო:"
             }
         },
         "timezone_and_language": "ენა",
@@ -110,5 +156,105 @@
                 "confirmButtonLabel": "განახლება"
             }
         }
+    },
+    "timezone": {
+        "africa_cairo": "{{value}} ეგვიპტე",
+        "africa_casablanca": "{{value}} კასაბლანკა",
+        "africa_juba": "{{value}} ჯუბა",
+        "africa_khartoum": "{{value}} ხარტუმი",
+        "africa_monrovia": "{{value}} მონროვია",
+        "africa_nairobi": "{{value}} ნაირობი",
+        "africa_tripoli": "{{value}} ტრიპოლი",
+        "africa_windhoek": "{{value}} ნამიბია",
+        "america_adak": "{{value}} ადაკი",
+        "america_anchorage": "{{value}} ალასკა",
+        "america_araguaina": "{{value}} არაგუაინა",
+        "america_argentina_buenos_aires": "{{value}} არგენტინა",
+        "america_asuncion": "{{value}} ასუნსიონი",
+        "america_bahia": "{{value}} სალვადორი",
+        "america_bogota": "{{value}} კოლომბია",
+        "america_caracas": "{{value}} კარაკასი",
+        "america_cuiaba": "{{value}} კუიაბა",
+        "america_havana": "{{value}} ჰავანა",
+        "america_miquelon": "{{value}} მიკელონი",
+        "america_montevideo": "{{value}} მონტევიდეო",
+        "america_phoenix": "{{value}} არიზონა",
+        "america_port-au-prince": "{{value}} პორტ-ო-პრენსი",
+        "america_punta_arenas": "{{value}} პუნტა-არენასი",
+        "america_regina": "{{value}} სასკაჩევანი",
+        "america_sao_paulo": "{{value}} ბრაზილია",
+        "america_st_johns": "{{value}} ნიუფაუნდლენდი",
+        "america_whitehorse": "{{value}} იუკონი",
+        "asia_almaty": "{{value}} ასტანა",
+        "asia_amman": "{{value}} იორდანია",
+        "asia_baghdad": "{{value}} ერაყი",
+        "asia_baku": "{{value}} ბაქო",
+        "asia_barnaul": "{{value}} ბარნაული",
+        "asia_beirut": "{{value}} ბეირუთი",
+        "asia_chita": "{{value}} ჩიტა",
+        "asia_damascus": "{{value}} დამასკო",
+        "asia_dhaka": "{{value}} დაკა",
+        "asia_gaza": "{{value}} ღაზა",
+        "asia_hovd": "{{value}} ჰოვდი",
+        "asia_jerusalem": "{{value}} იერუსალიმი",
+        "asia_kabul": "{{value}} ქაბული",
+        "asia_kathmandu": "{{value}} კატმანდუ",
+        "asia_magadan": "{{value}} მაგადანი",
+        "asia_omsk": "{{value}} ომსკი",
+        "asia_pyongyang": "{{value}} ფხენიანი",
+        "asia_qyzylorda": "{{value}} ყიზილორდა",
+        "asia_sakhalin": "{{value}} სახალინი",
+        "asia_seoul": "{{value}} კორეა",
+        "asia_singapore": "{{value}} სინგაპური",
+        "asia_taipei": "{{value}} ტაიპეი",
+        "asia_tashkent": "{{value}} ტაშკენტი",
+        "asia_tbilisi": "{{value}} თბილისი",
+        "asia_tehran": "{{value}} თეირანი",
+        "asia_tokyo": "{{value}} იაპონია",
+        "asia_tomsk": "{{value}} ტომსკი",
+        "asia_ulaanbaatar": "{{value}} ულანბატორი",
+        "asia_yangon": "{{value}} იანგონი",
+        "asia_yerevan": "{{value}} ერევანი",
+        "atlantic_azores": "{{value}} აზორის კუნძულები",
+        "atlantic_south_georgia": "{{value}} შუა ატლანტიკის ოკეანე",
+        "australia_adelaide": "{{value}} ადელაიდე",
+        "australia_brisbane": "{{value}} ბრიზბანი",
+        "australia_darwin": "{{value}} დარვინი",
+        "australia_eucla": "{{value}} ეუკლა",
+        "australia_hobart": "{{value}} ჰობარტი",
+        "australia_lord_howe": "{{value}} ჰორდ_ჰაუ",
+        "australia_perth": "{{value}} პერტი",
+        "etc_gmt+12": "{{value}} Dateline",
+        "europe_astrakhan": "{{value}} ასტრახანი",
+        "europe_bucharest": "{{value}} ბუქარესტი",
+        "europe_chisinau": "{{value}} ჩისნაუ",
+        "europe_istanbul": "{{value}} სტამბოლი",
+        "europe_minsk": "{{value}} მინსკი",
+        "europe_saratov": "{{value}} სარატოვი",
+        "europe_volgograd": "{{value}} ვოლგოგრადი",
+        "pacific_apia": "{{value}} სამოა",
+        "pacific_chatham": "{{value}} ჩათამი",
+        "pacific_easter": "{{value}} აღდგომა",
+        "pacific_fiji": "{{value}} ფიჯი",
+        "pacific_honolulu": "{{value}} ჰავაი",
+        "pacific_marquesas": "{{value}} მარკიზი",
+        "pacific_midway": "{{value}} სამოა",
+        "pacific_norfolk": "{{value}} ნორფოლკი",
+        "pacific_tongatapu": "{{value}} ნუკუალოფა"
+    },
+    "board": {
+        "close_tab": "ჩანართის დახურვა",
+        "enlarge": "დაფის გადიდება",
+        "hide": "დაფის დამალვა",
+        "reduce": "დაფის შემცირება"
+    },
+    "module": {
+        "app": {
+            "version": "აპლიკაციის ვერსიები"
+        }
+    },
+    "new_tab": "ახალი ჩანართი",
+    "user_quota": {
+        "title": "მომხმარებლის კვოტა"
     }
 }
