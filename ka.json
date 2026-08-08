@@ -51,7 +51,18 @@
         "update_view": "ხედის განახლება",
         "select_image": "გამოსახულების არჩევა",
         "send_auto_reply": "ავტოპასუხის გაგზავნა",
-        "invalid_option": "არასწორი პარამეტრი"
+        "invalid_option": "არასწორი პარამეტრი",
+        "save_and_leave": "შენახვა და გასვლა",
+        "add_external_account": "გარე ანგარიშის დამატება",
+        "add_recovery_email": "აღდგენის ელფოსტის დამატება",
+        "change_pop": "POP-ის პორტის შეცვლა",
+        "choose_account": "ანგარიშის არჩევა",
+        "click_to_copy": "დააწკაპუნეთ დასაკოპირებლად",
+        "download_messages": "შეტყობინებების გადმოწერა სად:",
+        "external_account_settings": "გარე ანგარიშის მორგება",
+        "no_results": "შედეგების გარეშე",
+        "reply_to_field_example": "მაგ: ლესტამბერ ღობეგლეჯიაშვილი",
+        "use_persona": "ამ პიროვნების გამოყენება"
     },
     "locale": {
         "English": "ინგლისური",
@@ -72,7 +83,21 @@
         "kyrgyz": "ყირგიზული",
         "hungarian": "უნგრული",
         "chinese_china": "ჩინური (ჩინეთი)",
-        "portuguese_brazil": "პორტუგალიური (ბრაზილია)"
+        "portuguese_brazil": "პორტუგალიური (ბრაზილია)",
+        "label_dutch": "ჰოლანდიური - {{value}}",
+        "label_english": "ინგლისური - {{value}}",
+        "label_french": "ფრანგული - {{value}}",
+        "label_german": "გერმანული - {{value}}",
+        "label_hindi": "ჰინდი - {{value}}",
+        "label_italian": "იტალიური - {{value}}",
+        "label_japanese": "იაპონური - {{value}}",
+        "label_portuguese": "პორტუგალიური - {{value}}",
+        "label_portuguese_brazil": "პორტუგალიური - {{value}}",
+        "label_romanian": "რუმინული - {{value}}",
+        "label_russian": "რუსული - {{value}}",
+        "label_spanish": "ესპანური - {{value}}",
+        "label_thai": "ტაილანდური - {{value}}",
+        "label_turkish": "თურქული - {{value}}"
     },
     "new": "ახალი",
     "feedback": {
@@ -80,7 +105,9 @@
         "other": "სხვა",
         "send": "გაგზავნა",
         "missing_features": "ნაკლული ფუნქციები",
-        "user_interface": "მომხმარებლის ინტერფეისი"
+        "user_interface": "მომხმარებლის ინტერფეისი",
+        "select_a_module": "მოდულის არჩევა",
+        "select_a_topic": "თემის არჩევა"
     },
     "search": {
         "app": "ძებნა"
@@ -246,14 +273,34 @@
         "pacific_marquesas": "{{value}} მარკიზი",
         "pacific_midway": "{{value}} სამოა",
         "pacific_norfolk": "{{value}} ნორფოლკი",
-        "pacific_tongatapu": "{{value}} ნუკუალოფა"
+        "pacific_tongatapu": "{{value}} ნუკუალოფა",
+        "africa_harare": "{{value}} ჰარარე, პრეტორია",
+        "africa_sao_tome": "{{value}} სან-ტომე",
+        "america_cancun": "{{value}} კანკუნი, ჩეტუმალი",
+        "america_cayenne": "{{value}} კაიენა, ფორტალეზა",
+        "america_chicago": "{{value}} აშშ/ცენტრალური კანადა",
+        "america_denver": "{{value}} აშშ/მთიანი კანადა",
+        "america_fort_nelson": "{{value}} ფორტ ნელსონი",
+        "america_guatemala": "{{value}} ცენტრალური ამერიკა",
+        "america_indiana_indianapolis": "{{value}} ინდიანა (აღმოსავლეთი)",
+        "america_los_angeles": "{{value}} აშშ/კანადის წყნარი ოკეანის მხარე",
+        "america_new_york": "{{value}} აშშ/აღმოსავლეთი კანადა",
+        "america_tijuana": "{{value}} ქვემო კალიფორნია (ჩრდილოეთი)",
+        "asia_karachi": "{{value}} ისლამაბადი, კარაჩი",
+        "asia_kuala_lumpur": "{{value}} კუალა ლუმპური",
+        "asia_kuwait": "{{value}} კუვეიტი, ერ-რიადი",
+        "indian_mauritius": "{{value}} პორტ ლუისი",
+        "pacific_auckland": "{{value}} ახალი ზელანდია",
+        "pacific_kiritimati": "{{value}} შობის კუნძული"
     },
     "board": {
         "close_tab": "ჩანართის დახურვა",
         "enlarge": "დაფის გადიდება",
         "hide": "დაფის დამალვა",
         "reduce": "დაფის შემცირება",
-        "from_app": "{{app}}-დან"
+        "from_app": "{{app}}-დან",
+        "open_app": "აპში გახსნა",
+        "show_tabs": "სხვა ჩანართების ჩვენება"
     },
     "module": {
         "app": {
@@ -268,5 +315,16 @@
         "modal": {
             "title": "უმოქმედობის გაფრთხილება"
         }
+    },
+    "message": {
+        "snackbar": {
+            "settings_saved": "ჩასწორებები შენახულია"
+        }
+    },
+    "primary_account": {
+        "title": "ძირითადი ანგარიშის მორგება"
+    },
+    "share": {
+        "is_contained_in": "რა შეიცავს"
     }
 }
