@@ -62,7 +62,13 @@
         "external_account_settings": "გარე ანგარიშის მორგება",
         "no_results": "შედეგების გარეშე",
         "reply_to_field_example": "მაგ: ლესტამბერ ღობეგლეჯიაშვილი",
-        "use_persona": "ამ პიროვნების გამოყენება"
+        "use_persona": "ამ პიროვნების გამოყენება",
+        "add_inline_image": "გამოსახულების ჩასმა ხაზშივე",
+        "unsaved_changes": "თქვენ გაქვთ შეუნახავი ცვლილებები",
+        "add_new_email": "ახალი ელფოსტის მისამართის დამატება",
+        "email_server": "ელფოსტის სერვერი (მაგ: \"mail.magaliti.ge\")",
+        "passwords_recovery_settings": "პაროლის აღდგენის ანგარიშის მორგება",
+        "settings_sent_messages": "პარამეტრები გაგზავნილი შეტყობინებებისთვის"
     },
     "locale": {
         "English": "ინგლისური",
@@ -97,7 +103,12 @@
         "label_russian": "რუსული - {{value}}",
         "label_spanish": "ესპანური - {{value}}",
         "label_thai": "ტაილანდური - {{value}}",
-        "label_turkish": "თურქული - {{value}}"
+        "label_turkish": "თურქული - {{value}}",
+        "label_polish": "პოლონური - {{value}}",
+        "label_vietnamese": "ვიეტნამური - {{value}}",
+        "label_kyrgyz": "ყირგიზული - {{value}}",
+        "label_hungarian": "უნგრული - {{value}}",
+        "label_chinese": "ჩინური (ჩინეთი) - {{value}}"
     },
     "new": "ახალი",
     "feedback": {
@@ -107,7 +118,8 @@
         "missing_features": "ნაკლული ფუნქციები",
         "user_interface": "მომხმარებლის ინტერფეისი",
         "select_a_module": "მოდულის არჩევა",
-        "select_a_topic": "თემის არჩევა"
+        "select_a_topic": "თემის არჩევა",
+        "write_here": "დაწერეთ თქვენი გამოხმაურება აქ"
     },
     "search": {
         "app": "ძებნა"
@@ -139,7 +151,8 @@
             },
             "headings": {
                 "create_appointment": "კალენდრის შეხვედრა",
-                "time_period": "დროის პერიოდი"
+                "time_period": "დროის პერიოდი",
+                "settings_label": "ოფისში არყოფნის მორგება"
             },
             "labels": {
                 "all_day": "მთელი დღე:",
@@ -149,26 +162,39 @@
                 "end_time": "დასრულების დრო:",
                 "external_senders": "გარე გამომგზავნები",
                 "start_date": "დაწყების თარიღი",
-                "start_time": "დაწყების დრო:"
+                "start_time": "დაწყების დრო:",
+                "out_of_office_status": "ოფისში არყოფნის სტატუსი:"
+            },
+            "external_senders": {
+                "send_standard_auto_reply": "სტანდარტული ავტოპასუხის სეტყობინების გაგზავნა"
             }
         },
         "timezone_and_language": "ენა",
         "account": {
             "delegates": {
-                "right_sendas": "გაგზავნა, როგორც"
-            }
+                "right_sendas": "გაგზავნა, როგორც",
+                "multiple_rights": "{{rights.0}} და {{rights.1}}"
+            },
+            "new_identity": "ახალი პიროვნება {{number}}"
         },
         "appearance": {
             "labels": {
                 "a": "ა",
                 "decrease": "ზომის შემცირება",
-                "increase": "ზომის გაზრდა"
+                "increase": "ზომის გაზრდა",
+                "decrease_disabled": "მიღწეულია მინ. ზომა",
+                "increase_disabled": "მიღწეულია მაქს. ზომა"
             },
             "option_l": "დიდი",
             "option_m": "საშუალო",
             "option_s": "პატარა",
             "option_xl": "ძალიან დიდი",
             "option_xs": "ძალიან პატარა"
+        },
+        "privacy": {
+            "allowAnalytics": {
+                "label": "მონაცემთა ანალიტიკის დაშვება"
+            }
         }
     },
     "size": {
@@ -186,7 +212,8 @@
         "failure": {
             "modal": {
                 "confirmButtonLabel": "განახლება",
-                "secondaryButtonLabel": "შესვლის გვერდი"
+                "secondaryButtonLabel": "შესვლის გვერდი",
+                "title": "რაღაც არასწორად წავიდა…"
             }
         }
     },
@@ -291,7 +318,26 @@
         "asia_kuwait": "{{value}} კუვეიტი, ერ-რიადი",
         "indian_mauritius": "{{value}} პორტ ლუისი",
         "pacific_auckland": "{{value}} ახალი ზელანდია",
-        "pacific_kiritimati": "{{value}} შობის კუნძული"
+        "pacific_kiritimati": "{{value}} შობის კუნძული",
+        "africa_algiers": "{{value}} დასავლეთი ცენტრალური აფრიკა",
+        "america_halifax": "{{value}} ატლანტიკური დრო (კანადა)",
+        "america_santiago": "{{value}} წყნარი ოკეანე სამხრეთი ამერიკა",
+        "asia_bangkok": "{{value}} ბანკოკი, ჰანოი, ჯაკარტა",
+        "asia_colombo": "{{value}} შრი-ჯაიავარდენეპურა-კოტე",
+        "asia_irkutsk": "{{value}} ირკუტსკი (RTZ 7)",
+        "asia_krasnoyarsk": "{{value}} კრასნოიარსკი (RTZ 6)",
+        "asia_muscat": "{{value}} აბუ დაბი, მუსკატი",
+        "asia_novosibirsk": "{{value}} ნოვოსიბირსკი (RTZ 5)",
+        "asia_srednekolymsk": "{{value}} ჩოკურდახი (RTZ 10)",
+        "asia_yakutsk": "{{value}} იაკუტსკი (RTZ 8)",
+        "asia_yekaterinburg": "{{value}} ეკატერინბურგი (RTZ 4)",
+        "atlantic_cape_verde": "{{value}} კაბო-ვერდეს კუნძ.",
+        "australia_sydney": "{{value}} კანბერა, მელბურნი, სიდნეი",
+        "europe_kaliningrad": "{{value}} კალინიგრადი (RTZ 1)",
+        "europe_london": "{{value}} ბრიტანეთი, ირლანდია, პორტუგალია",
+        "pacific_bougainville": "{{value}} ბუგენვილის სტანდარტული დრო",
+        "pacific_guam": "{{value}} გუამი, პორტ მორესბი",
+        "utc": "{{value}} კოორდინირებული უნივერსალური დრო"
     },
     "board": {
         "close_tab": "ჩანართის დახურვა",
@@ -300,7 +346,8 @@
         "reduce": "დაფის შემცირება",
         "from_app": "{{app}}-დან",
         "open_app": "აპში გახსნა",
-        "show_tabs": "სხვა ჩანართების ჩვენება"
+        "show_tabs": "სხვა ჩანართების ჩვენება",
+        "close_tabs": "ყველა თქვენი ჩანართის დახურვა"
     },
     "module": {
         "app": {
@@ -309,11 +356,14 @@
     },
     "new_tab": "ახალი ჩანართი",
     "user_quota": {
-        "title": "მომხმარებლის კვოტა"
+        "title": "მომხმარებლის კვოტა",
+        "limited": "გამოყენებულია {{used}} / {{limit}}",
+        "unlimited": "{{used}} შეუზღუდავი ადგილიდან"
     },
     "idleTimeout": {
         "modal": {
-            "title": "უმოქმედობის გაფრთხილება"
+            "title": "უმოქმედობის გაფრთხილება",
+            "confirmLabel": "შესულად დარჩენა"
         }
     },
     "message": {
@@ -326,5 +376,8 @@
     },
     "share": {
         "is_contained_in": "რა შეიცავს"
+    },
+    "passwords_recovery_settings": {
+        "title": "პაროლის აღდგენის ანგარიშის მორგება"
     }
 }
