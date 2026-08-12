@@ -68,7 +68,10 @@
         "add_new_email": "ახალი ელფოსტის მისამართის დამატება",
         "email_server": "ელფოსტის სერვერი (მაგ: \"mail.magaliti.ge\")",
         "passwords_recovery_settings": "პაროლის აღდგენის ანგარიშის მორგება",
-        "settings_sent_messages": "პარამეტრები გაგზავნილი შეტყობინებებისთვის"
+        "settings_sent_messages": "პარამეტრები გაგზავნილი შეტყობინებებისთვის",
+        "folder_external_account": "საქაღალდე: ახალი გარე ანგარიში",
+        "folder": "საქაღალდე: ახალი გარე ანგარიში 3",
+        "cannot_save_changes": "ზოგიერთი ცვლილების შენახვა შეუძლებელია"
     },
     "locale": {
         "English": "ინგლისური",
@@ -119,7 +122,8 @@
         "user_interface": "მომხმარებლის ინტერფეისი",
         "select_a_module": "მოდულის არჩევა",
         "select_a_topic": "თემის არჩევა",
-        "write_here": "დაწერეთ თქვენი გამოხმაურება აქ"
+        "write_here": "დაწერეთ თქვენი გამოხმაურება აქ",
+        "success": "მადლობა თქვენი გამოხმაურებისთვის"
     },
     "search": {
         "app": "ძებნა"
@@ -163,7 +167,8 @@
                 "external_senders": "გარე გამომგზავნები",
                 "start_date": "დაწყების თარიღი",
                 "start_time": "დაწყების დრო:",
-                "out_of_office_status": "ოფისში არყოფნის სტატუსი:"
+                "out_of_office_status": "ოფისში არყოფნის სტატუსი:",
+                "auto_reply_message_external": "ავტოპასუხის შეტყობინება გარე გამომგზავნებისთვის:"
             },
             "external_senders": {
                 "send_standard_auto_reply": "სტანდარტული ავტოპასუხის სეტყობინების გაგზავნა"
@@ -173,7 +178,8 @@
         "account": {
             "delegates": {
                 "right_sendas": "გაგზავნა, როგორც",
-                "multiple_rights": "{{rights.0}} და {{rights.1}}"
+                "multiple_rights": "{{rights.0}} და {{rights.1}}",
+                "right_sendonbehalfof": "გაგზავნა ვინმეს სახელით"
             },
             "new_identity": "ახალი პიროვნება {{number}}"
         },
@@ -194,6 +200,13 @@
         "privacy": {
             "allowAnalytics": {
                 "label": "მონაცემთა ანალიტიკის დაშვება"
+            }
+        },
+        "search_settings": {
+            "labels": {
+                "include_search_in_shared_folder": "გაზიარებული საქაღალდის ჩასმა ძებნაში",
+                "include_search_in_spam_folder": "სპამის საქაღალდის ჩართვა ძებნაში",
+                "include_search_in_trash_folder": "ნაგვის ყუთის საქაღალდის ჩათვლა ძებნისას"
             }
         }
     },
@@ -337,7 +350,16 @@
         "europe_london": "{{value}} ბრიტანეთი, ირლანდია, პორტუგალია",
         "pacific_bougainville": "{{value}} ბუგენვილის სტანდარტული დრო",
         "pacific_guam": "{{value}} გუამი, პორტ მორესბი",
-        "utc": "{{value}} კოორდინირებული უნივერსალური დრო"
+        "utc": "{{value}} კოორდინირებული უნივერსალური დრო",
+        "america_chihuahua": "{{value}} ჩიუაუა, ლა პასი, მაზატლანი",
+        "america_grand_turk": "{{value}} ტურკსის და კაიკოსის კუნძულები",
+        "america_mexico_city": "{{value}} გვადალახარა, მეხიკო სიტი, მონტერეი",
+        "asia_kamchatka": "{{value}} ანადირი, პეტროპავლოვსკ-კამჩატსკი (RTZ 11)",
+        "asia_vladivostok": "{{value}} ვლადივოსტოკი, მაგადანი (RTZ 9)",
+        "europe_athens": "{{value}} ათენი, ბეირუთი, ბუქარესტი, სტამბოლი",
+        "europe_brussels": "{{value}} ბრიუსელი, კოპენჰაგენი, მადრიდი, პარიზი",
+        "europe_samara": "{{value}} იჟევსკი, სამარა (RTZ 3)",
+        "europe_warsaw": "{{value}} სარაევო, სკოპიე, ვარშავა, ზაგრები"
     },
     "board": {
         "close_tab": "ჩანართის დახურვა",
@@ -379,5 +401,10 @@
     },
     "passwords_recovery_settings": {
         "title": "პაროლის აღდგენის ანგარიშის მორგება"
+    },
+    "snackbar": {
+        "expiration": {
+            "action": "შესვლის გვერდზე გადასვლა"
+        }
     }
 }
