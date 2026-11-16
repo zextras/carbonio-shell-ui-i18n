@@ -443,7 +443,7 @@
                 "confirmButtonLabel": "odśwież",
                 "secondaryButtonLabel": "strona logowania",
                 "title": "Coś poszło nie tak…",
-                "body": "Wystąpiły problemy techniczne podczas przetwarzania Twojego żądania. Spróbuj odświeżyć stronę lub powróć do strony logowania."
+                "body": "Wystąpiły problemy techniczne podczas przetwarzania Twojej prośby. Spróbuj odświeżyć stronę lub powróć do strony logowania."
             }
         }
     },
